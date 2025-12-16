@@ -7,23 +7,22 @@ This project analyzes factors that contribute to a movie’s commercial and crit
 The project emphasizes **reproducibility** by separating data collection, cleaning, analysis, and visualization into modular Python scripts.
 
 ---
-
 ## Research Questions
 
-1. **Budget vs. Revenue**
-   What is the relationship between a movie’s production budget and its box office revenue? Is a higher budget a reliable predictor of success?
+1. **Budget vs. Revenue**  
+   What is the relationship between a movie’s production budget and its box office revenue? Is a higher budget a reliable predictor of financial success?
 
-2. **Popularity, Ratings, and Success**
-   How are TMDb popularity, user ratings, and revenue related?
+2. **Popularity, Ratings, and Success**  
+   How are TMDb popularity, user ratings, and box office revenue related?
 
-3. **Genre Analysis & ROI**
-   How do different genres differ in typical budget, revenue, and return on investment (ROI)?
+3. **Genre Analysis & ROI**  
+   How do different movie genres differ in typical budget, revenue, and return on investment (ROI)?
 
-4. **Movie Age and Ratings**
+4. **Movie Age and Ratings**  
    How does a film’s age correlate with its audience rating?
 
-5. **Forecasting (Extended Analysis)**
-   Can box office revenue be reasonably predicted using features such as budget, popularity, ratings, and release timing?
+5. **Forecasting (Extended Analysis)**  
+   To what extent can box office revenue be explained using features such as budget, popularity, ratings, and release timing through a simple predictive model?
 
 ---
 
