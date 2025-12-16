@@ -69,6 +69,7 @@ export TMDB_API_KEY="your_api_key_here"
 │   └── processed/               # Cleaned CSV + analysis outputs
 │
 ├── results/
+|   ├── final_report.pdf         # Final report pdf
 │   └── figures/                 # Saved visualization images (.png)
 │
 ├── visualization.ipynb      # Notebook for presenting visualizations
