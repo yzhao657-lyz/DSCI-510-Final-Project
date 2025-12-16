@@ -73,6 +73,7 @@ export TMDB_API_KEY="your_api_key_here"
 │   └── figures/                 # Saved visualization images (.png)
 │
 ├── visualization.ipynb      # Notebook for presenting visualizations
+├── project_proposal.pdf    #Proposal for this project
 ├── requirements.txt
 └── README.md
 ```
