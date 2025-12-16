@@ -1,0 +1,399 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 507089,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's",
+      "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+      "popularity": 67.5296,
+      "poster_path": "/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg",
+      "release_date": "2023-10-25",
+      "title": "Five Nights at Freddy's",
+      "video": false,
+      "vote_average": 7.374,
+      "vote_count": 4714
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "genre_ids": [
+        53,
+        80,
+        9648
+      ],
+      "id": 425274,
+      "original_language": "en",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "popularity": 73.4288,
+      "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "release_date": "2025-11-12",
+      "title": "Now You See Me: Now You Don't",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 368
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1196573,
+      "original_language": "en",
+      "original_title": "She Rides Shotgun",
+      "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
+      "popularity": 68.7524,
+      "poster_path": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+      "release_date": "2025-07-31",
+      "title": "She Rides Shotgun",
+      "video": false,
+      "vote_average": 7.138,
+      "vote_count": 152
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1116465,
+      "original_language": "zh",
+      "original_title": "传说",
+      "overview": "An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.",
+      "popularity": 70.2561,
+      "poster_path": "/qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+      "release_date": "2024-07-05",
+      "title": "A Legend",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8VGiUMkjdevsVYHZ8tIpHl6EbbF.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751,
+        28,
+        35
+      ],
+      "id": 974663,
+      "original_language": "en",
+      "original_title": "200% Wolf",
+      "overview": "When Freddy Lupin's wayward wish transforms him into a werewolf and deposits a mischievous moon sprite on Earth, Freddy must restore the cosmic order before the earth and moon collide.",
+      "popularity": 74.622,
+      "poster_path": "/pHGB9jN31cDNKhR0VRNZsXZkGZQ.jpg",
+      "release_date": "2024-07-04",
+      "title": "200% Wolf",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uLBJtONQwHoGc61vbIfoC6a9gUp.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36,
+        28
+      ],
+      "id": 152760,
+      "original_language": "en",
+      "original_title": "The Monuments Men",
+      "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world’s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+      "popularity": 76.6537,
+      "poster_path": "/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg",
+      "release_date": "2014-01-24",
+      "title": "The Monuments Men",
+      "video": false,
+      "vote_average": 6.064,
+      "vote_count": 3720
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1069905,
+      "original_language": "en",
+      "original_title": "Jay Kelly",
+      "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
+      "popularity": 60.4423,
+      "poster_path": "/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
+      "release_date": "2025-11-14",
+      "title": "Jay Kelly",
+      "video": false,
+      "vote_average": 6.017,
+      "vote_count": 177
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5OA1FwA11SztGEEqqBihStLmMH2.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1255775,
+      "original_language": "en",
+      "original_title": "Merv",
+      "overview": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+      "popularity": 63.3397,
+      "poster_path": "/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+      "release_date": "2025-12-09",
+      "title": "Merv",
+      "video": false,
+      "vote_average": 5.875,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Y5pOfxMrG8SqbIcGhYy497eOXc.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 1166133,
+      "original_language": "ml",
+      "original_title": "ഭ്രമയുഗം",
+      "overview": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+      "popularity": 60.9817,
+      "poster_path": "/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
+      "release_date": "2024-02-15",
+      "title": "Bramayugam",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 64
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+      "genre_ids": [
+        878,
+        80,
+        35
+      ],
+      "id": 701387,
+      "original_language": "en",
+      "original_title": "Bugonia",
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "popularity": 57.8758,
+      "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "release_date": "2025-10-23",
+      "title": "Bugonia",
+      "video": false,
+      "vote_average": 7.438,
+      "vote_count": 791
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 575265,
+      "original_language": "en",
+      "original_title": "Mission: Impossible - The Final Reckoning",
+      "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+      "popularity": 59.7713,
+      "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "release_date": "2025-05-17",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "video": false,
+      "vote_average": 7.257,
+      "vote_count": 2182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1469354,
+      "original_language": "en",
+      "original_title": "Border Hunters",
+      "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+      "popularity": 58.403,
+      "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+      "release_date": "2025-10-20",
+      "title": "Border Hunters",
+      "video": false,
+      "vote_average": 7.864,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iMxWTPRqWJJKVW7KYBlmirSeazw.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1429520,
+      "original_language": "en",
+      "original_title": "Sidelined 2: Intercepted",
+      "overview": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
+      "popularity": 62.4315,
+      "poster_path": "/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+      "release_date": "2025-11-27",
+      "title": "Sidelined 2: Intercepted",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749
+      ],
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Твое сердце будет разбито",
+      "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+      "popularity": 60.3108,
+      "poster_path": "/naOC89qeEygU44xM9EIot1m5AUQ.jpg",
+      "release_date": "2026-03-05",
+      "title": "Your Heart Will Be Broken",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1208561,
+      "original_language": "en",
+      "original_title": "Art of Eight Limbs",
+      "overview": "Four canisters of deadly VX nerve gas have fallen into the hands of an international arms dealer in Myanmar. A CIA recruit delivers a high-tech detection device to an agent already on the ground.",
+      "popularity": 56.5069,
+      "poster_path": "/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
+      "release_date": "2024-08-16",
+      "title": "Art of Eight Limbs",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 37
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 617126,
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "popularity": 59.6892,
+      "poster_path": "/pZPJsaFKWheTOerVhLnpP8TPp4B.jpg",
+      "release_date": "2025-07-23",
+      "title": "The Fantastic 4: First Steps",
+      "video": false,
+      "vote_average": 7.021,
+      "vote_count": 2622
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1130276,
+      "original_language": "en",
+      "original_title": "Succubus",
+      "overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
+      "popularity": 55.3458,
+      "poster_path": "/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+      "release_date": "2024-10-06",
+      "title": "Succubus",
+      "video": false,
+      "vote_average": 8.9,
+      "vote_count": 203
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+      "popularity": 56.4599,
+      "poster_path": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+      "release_date": "2025-10-15",
+      "title": "Black Phone 2",
+      "video": false,
+      "vote_average": 6.835,
+      "vote_count": 694
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 1061474,
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "popularity": 56.1246,
+      "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "release_date": "2025-07-09",
+      "title": "Superman",
+      "video": false,
+      "vote_average": 7.403,
+      "vote_count": 3980
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 911430,
+      "original_language": "en",
+      "original_title": "F1",
+      "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+      "popularity": 56.5472,
+      "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "release_date": "2025-06-25",
+      "title": "F1",
+      "video": false,
+      "vote_average": 7.805,
+      "vote_count": 2759
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

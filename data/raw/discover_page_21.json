@@ -1,0 +1,396 @@
+{
+  "page": 21,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 14160,
+      "original_language": "en",
+      "original_title": "Up",
+      "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+      "popularity": 14.9286,
+      "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "release_date": "2009-05-28",
+      "title": "Up",
+      "video": false,
+      "vote_average": 7.96,
+      "vote_count": 21129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 575264,
+      "original_language": "en",
+      "original_title": "Mission: Impossible - Dead Reckoning Part One",
+      "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+      "popularity": 13.5151,
+      "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "release_date": "2023-07-08",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "video": false,
+      "vote_average": 7.515,
+      "vote_count": 4760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 75656,
+      "original_language": "en",
+      "original_title": "Now You See Me",
+      "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+      "popularity": 14.2016,
+      "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+      "release_date": "2013-05-29",
+      "title": "Now You See Me",
+      "video": false,
+      "vote_average": 7.333,
+      "vote_count": 16275
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 138843,
+      "original_language": "en",
+      "original_title": "The Conjuring",
+      "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+      "popularity": 12.8192,
+      "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "release_date": "2013-07-18",
+      "title": "The Conjuring",
+      "video": false,
+      "vote_average": 7.541,
+      "vote_count": 12371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 4951,
+      "original_language": "en",
+      "original_title": "10 Things I Hate About You",
+      "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+      "popularity": 13.5087,
+      "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "release_date": "1999-03-30",
+      "title": "10 Things I Hate About You",
+      "video": false,
+      "vote_average": 7.59,
+      "vote_count": 8638
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 325858,
+      "original_language": "de",
+      "original_title": "Die Frauenversteher - Männer unter sich",
+      "overview": "",
+      "popularity": 8.8219,
+      "poster_path": "/hkyBf80I7cjail7YSjQuHCxF9nT.jpg",
+      "release_date": "2002-05-21",
+      "title": "Die Frauenversteher - Männer unter sich",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hfdds27YL5nTAhiOtjfNNxD3bJe.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12
+      ],
+      "id": 80321,
+      "original_language": "en",
+      "original_title": "Madagascar 3: Europe's Most Wanted",
+      "overview": "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.",
+      "popularity": 15.035,
+      "poster_path": "/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
+      "release_date": "2012-06-06",
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "video": false,
+      "vote_average": 6.62,
+      "vote_count": 6390
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1kuYEvLkX2nTkbfzN6X0w0xQFQU.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 244786,
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "popularity": 17.4375,
+      "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "release_date": "2014-10-10",
+      "title": "Whiplash",
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 16120
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5r2NPZgYBB8ALBL3q4iX9AjTLJ6.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1308821,
+      "original_language": "tl",
+      "original_title": "Unang Tikim",
+      "overview": "Yuna, a woman engaged with her long time boyfriend, Nicco, starts to have second thoughts when she meets again her first love, Becca. Now she is torn between the man she loves and the woman she first loved.",
+      "popularity": 13.591,
+      "poster_path": "/oDWZS6LznvdH7mZOYfCro0ISJCM.jpg",
+      "release_date": "2024-08-07",
+      "title": "First Taste",
+      "video": false,
+      "vote_average": 5.063,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 945961,
+      "original_language": "en",
+      "original_title": "Alien: Romulus",
+      "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "popularity": 15.2556,
+      "poster_path": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "release_date": "2024-08-13",
+      "title": "Alien: Romulus",
+      "video": false,
+      "vote_average": 7.177,
+      "vote_count": 4142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1865,
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: On Stranger Tides",
+      "overview": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love — or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+      "popularity": 13.4762,
+      "poster_path": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+      "release_date": "2011-05-15",
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "video": false,
+      "vote_average": 6.563,
+      "vote_count": 14612
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mR04QRFtok3EJn4fMBrCvi5xOeh.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 1089398,
+      "original_language": "de",
+      "original_title": "Daniel Brühl – Der Reiz des Bösen",
+      "overview": "A portrait of the Spanish-German actor Daniel Brühl, a versatile performer capable of moving easily from the gentlest to the darkest role.",
+      "popularity": 9.3768,
+      "poster_path": "/kxwtTdHquKObHiT8LAWsHDQricj.jpg",
+      "release_date": "2023-02-19",
+      "title": "Daniel Brühl: Breaking Bad",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 335984,
+      "original_language": "en",
+      "original_title": "Blade Runner 2049",
+      "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "popularity": 14.3158,
+      "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "release_date": "2017-10-04",
+      "title": "Blade Runner 2049",
+      "video": false,
+      "vote_average": 7.587,
+      "vote_count": 14587
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 425,
+      "original_language": "en",
+      "original_title": "Ice Age",
+      "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+      "popularity": 14.82,
+      "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+      "release_date": "2002-03-14",
+      "title": "Ice Age",
+      "video": false,
+      "vote_average": 7.367,
+      "vote_count": 13928
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pKIRUTnwY3YYU9urSdsuobdcliP.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 1109086,
+      "original_language": "hi",
+      "original_title": "वॉर 2",
+      "overview": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+      "popularity": 14.0946,
+      "poster_path": "/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+      "release_date": "2025-08-13",
+      "title": "War 2",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 557,
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "popularity": 13.9508,
+      "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+      "release_date": "2002-05-01",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 7.317,
+      "vote_count": 20084
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A7KwHKB5faRRRRveVQC5TPI35kV.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1232449,
+      "original_language": "nl",
+      "original_title": "Young Hearts",
+      "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+      "popularity": 13.5112,
+      "poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+      "release_date": "2024-10-26",
+      "title": "Young Hearts",
+      "video": false,
+      "vote_average": 8.486,
+      "vote_count": 185
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/16lk65YfrDFIr6evkWRjSeOOSws.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "id": 9479,
+      "original_language": "en",
+      "original_title": "The Nightmare Before Christmas",
+      "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+      "popularity": 14.2315,
+      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "release_date": "1993-10-09",
+      "title": "The Nightmare Before Christmas",
+      "video": false,
+      "vote_average": 7.834,
+      "vote_count": 10041
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 45243,
+      "original_language": "en",
+      "original_title": "The Hangover Part II",
+      "overview": "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.",
+      "popularity": 14.1882,
+      "poster_path": "/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg",
+      "release_date": "2011-05-25",
+      "title": "The Hangover Part II",
+      "video": false,
+      "vote_average": 6.498,
+      "vote_count": 10975
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 10193,
+      "original_language": "en",
+      "original_title": "Toy Story 3",
+      "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "popularity": 14.5933,
+      "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "release_date": "2010-06-16",
+      "title": "Toy Story 3",
+      "video": false,
+      "vote_average": 7.803,
+      "vote_count": 15318
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

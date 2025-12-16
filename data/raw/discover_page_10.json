@@ -1,0 +1,403 @@
+{
+  "page": 10,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 767,
+      "original_language": "en",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+      "popularity": 21.1727,
+      "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "release_date": "2009-07-15",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "video": false,
+      "vote_average": 7.683,
+      "vote_count": 20305
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "popularity": 21.1204,
+      "poster_path": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 28941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 122,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "popularity": 21.5951,
+      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "release_date": "2003-12-17",
+      "title": "The Lord of the Rings: The Return of the King",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 25736
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/arNhhBd88bP3Bjoe4HT8MFE1JQA.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10751
+      ],
+      "id": 1029575,
+      "original_language": "en",
+      "original_title": "The Family Plan",
+      "overview": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "popularity": 22.3294,
+      "poster_path": "/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "release_date": "2023-12-14",
+      "title": "The Family Plan",
+      "video": false,
+      "vote_average": 7.243,
+      "vote_count": 1721
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 653346,
+      "original_language": "en",
+      "original_title": "Kingdom of the Planet of the Apes",
+      "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+      "popularity": 19.8036,
+      "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "release_date": "2024-05-08",
+      "title": "Kingdom of the Planet of the Apes",
+      "video": false,
+      "vote_average": 7.056,
+      "vote_count": 3996
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wpcFeE5cdX07pWGhxRUGyKCyjAh.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 334629,
+      "original_language": "en",
+      "original_title": "The Wonderful Wizard of Oz: The Making of a Movie Classic",
+      "overview": "Documentary about the making of the 1939 MGM classic film The Wizard of Oz. Includes interviews of cast and crew members, their families and fans of the film.",
+      "popularity": 16.7406,
+      "poster_path": "/1hIxPbp9lg6RI9mdYsj3ikKPwst.jpg",
+      "release_date": "1990-02-20",
+      "title": "The Wonderful Wizard of Oz: The Making of a Movie Classic",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 615453,
+      "original_language": "zh",
+      "original_title": "哪吒之魔童降世",
+      "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+      "popularity": 24.6069,
+      "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+      "release_date": "2019-07-26",
+      "title": "Ne Zha",
+      "video": false,
+      "vote_average": 7.88,
+      "vote_count": 739
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "popularity": 23.2762,
+      "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.487,
+      "vote_count": 29376
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 508,
+      "original_language": "en",
+      "original_title": "Love Actually",
+      "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+      "popularity": 21.7807,
+      "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "release_date": "2003-09-07",
+      "title": "Love Actually",
+      "video": false,
+      "vote_average": 7.101,
+      "vote_count": 7148
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7OwcPLgNgK3CmNaXQdLqeVStnFC.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1219158,
+      "original_language": "ta",
+      "original_title": "லவ்வர்",
+      "overview": "An alcoholic designer struggles to save his six-year relationship while facing personal challenges and misunderstandings. As their bond is tested, he begins to confront his past and question whether love alone is enough to hold them together.",
+      "popularity": 20.3347,
+      "poster_path": "/5rN7wzvM9oAR35sQVNUt8JuTDFS.jpg",
+      "release_date": "2024-02-07",
+      "title": "Lover",
+      "video": false,
+      "vote_average": 7.286,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wSdWEc1G3OUWg8HAzNLqOZ9Gd43.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 986056,
+      "original_language": "en",
+      "original_title": "Thunderbolts*",
+      "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "popularity": 22.8641,
+      "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "release_date": "2025-04-30",
+      "title": "Thunderbolts*",
+      "video": false,
+      "vote_average": 7.314,
+      "vote_count": 2971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kKWZq6M76mJM98U0HdpaxBRnPuD.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1522377,
+      "original_language": "tr",
+      "original_title": "İki Dünya Bir Dilek",
+      "overview": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems like a miracle soon reveals a hidden secret, as fate-reuniting them after decades-has much more in store.",
+      "popularity": 20.251,
+      "poster_path": "/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+      "release_date": "2025-11-24",
+      "title": "Two Worlds One Wish",
+      "video": false,
+      "vote_average": 8.06,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 329865,
+      "original_language": "en",
+      "original_title": "Arrival",
+      "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+      "popularity": 13.0967,
+      "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "release_date": "2016-11-10",
+      "title": "Arrival",
+      "video": false,
+      "vote_average": 7.623,
+      "vote_count": 18779
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 299536,
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "popularity": 22.6948,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "release_date": "2018-04-25",
+      "title": "Avengers: Infinity War",
+      "video": false,
+      "vote_average": 8.235,
+      "vote_count": 31208
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 912649,
+      "original_language": "en",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "popularity": 21.6103,
+      "poster_path": "/1RaSkWakWBxxYOWRrqmwo2my5zg.jpg",
+      "release_date": "2024-10-22",
+      "title": "Venom: The Last Dance",
+      "video": false,
+      "vote_average": 6.672,
+      "vote_count": 3892
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 385687,
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "popularity": 23.9383,
+      "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "release_date": "2023-05-17",
+      "title": "Fast X",
+      "video": false,
+      "vote_average": 7.013,
+      "vote_count": 6123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ydizf7MP7vOYK7bnDcqAvhFVYxr.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1548017,
+      "original_language": "en",
+      "original_title": "The Family McMullen",
+      "overview": "30 years after the events of The Brothers McMullen, romantic entanglements plague a now fiftysomething Barry McMullen and his twentysomething kids, as well as his brother Patrick and widowed sister-in-law Molly, who are also facing similar unexpected hurdles.",
+      "popularity": 17.3365,
+      "poster_path": "/foNIl77csO9GmsvCvTZ6ixt0fZf.jpg",
+      "release_date": "2025-10-15",
+      "title": "The Family McMullen",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "popularity": 23.6807,
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "release_date": "2001-07-20",
+      "title": "Spirited Away",
+      "video": false,
+      "vote_average": 8.534,
+      "vote_count": 17706
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 109445,
+      "original_language": "en",
+      "original_title": "Frozen",
+      "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+      "popularity": 21.1038,
+      "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "release_date": "2013-11-20",
+      "title": "Frozen",
+      "video": false,
+      "vote_average": 7.249,
+      "vote_count": 17199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z2WjRzdsP5pChOjFADIXXfd5XpZ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        35
+      ],
+      "id": 66245,
+      "original_language": "ta",
+      "original_title": "அருணாச்சலம்",
+      "overview": "Arunachalam, the son of a  prominent village elder, discovers the truth about his past.",
+      "popularity": 19.7383,
+      "poster_path": "/vplqDhbUk5GMPUosMuQy91NePxv.jpg",
+      "release_date": "1997-04-10",
+      "title": "Arunachalam",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 28
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

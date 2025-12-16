@@ -1,0 +1,397 @@
+{
+  "page": 32,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 818647,
+      "original_language": "es",
+      "original_title": "A través de mi ventana",
+      "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+      "popularity": 10.5978,
+      "poster_path": "/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
+      "release_date": "2022-02-04",
+      "title": "Through My Window",
+      "video": false,
+      "vote_average": 7.357,
+      "vote_count": 3286
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/txaC2mhUhW0H0r31N6KzRTaz1rL.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 565426,
+      "original_language": "en",
+      "original_title": "To All the Boys: P.S. I Still Love You",
+      "overview": "Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.",
+      "popularity": 10.9736,
+      "poster_path": "/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+      "release_date": "2020-02-03",
+      "title": "To All the Boys: P.S. I Still Love You",
+      "video": false,
+      "vote_average": 6.819,
+      "vote_count": 2647
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hzmHSv1NS6qSw7EEgbSmokweMwP.jpg",
+      "genre_ids": [
+        10402,
+        35
+      ],
+      "id": 416764,
+      "original_language": "en",
+      "original_title": "Rossini: Il Barbiere di Siviglia",
+      "overview": "Audiences went wild for Bartlett Sher’s dynamic production, which found fresh and surprising ways to bring Rossini’s effervescent comedy closer to them than ever before. The stellar cast leapt to the challenge with irresistible energy and bravura vocalism. Juan Diego Flórez is Count Almaviva, who fires off showstopping coloratura as he woos Joyce DiDonato’s spirited Rosina—with assistance from Peter Mattei as the one and only Figaro, Seville’s beloved barber and man-about-town.",
+      "popularity": 7.5642,
+      "poster_path": "/w9VO7LSho45tMHEPnqv3Urqnz5C.jpg",
+      "release_date": "2007-03-24",
+      "title": "Rossini: Il Barbiere di Siviglia",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8coSVxxbsV69T81nMILkiPdUKrP.jpg",
+      "genre_ids": [
+        53,
+        28,
+        878
+      ],
+      "id": 12123,
+      "original_language": "en",
+      "original_title": "Chain Reaction",
+      "overview": "At the University of Chicago, a research team that includes brilliant student machinist Eddie Kasalivich experiences a breakthrough: a stable form of fusion that may lead to a waste-free energy source. However, a private company wants to exploit the technology, so Kasalivich and physicist Dr. Lily Sinclair are framed for murder, and the fusion device is stolen. On the run from the FBI, they must recover the technology and exonerate themselves.",
+      "popularity": 13.8019,
+      "poster_path": "/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg",
+      "release_date": "1996-08-02",
+      "title": "Chain Reaction",
+      "video": false,
+      "vote_average": 5.79,
+      "vote_count": 1157
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aitUECW88Rve2mprcvwVchToE8A.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 50546,
+      "original_language": "en",
+      "original_title": "Just Go with It",
+      "overview": "While romancing Palmer, a much younger schoolteacher, plastic surgeon Danny Maccabee enlists his loyal assistant Katherine to pretend to be his soon to be ex-wife, in order to cover up a careless lie. When more lies backfire, Katherine's kids become involved, and everyone heads off for a weekend in Hawaii that will change all their lives.",
+      "popularity": 11.484,
+      "poster_path": "/3rz7bfGsPGcI6cfY002n9VrUgao.jpg",
+      "release_date": "2011-02-10",
+      "title": "Just Go with It",
+      "video": false,
+      "vote_average": 6.704,
+      "vote_count": 5969
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 949,
+      "original_language": "en",
+      "original_title": "Heat",
+      "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+      "popularity": 11.8492,
+      "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+      "release_date": "1995-12-15",
+      "title": "Heat",
+      "video": false,
+      "vote_average": 7.924,
+      "vote_count": 7944
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+      "genre_ids": [
+        12,
+        28,
+        18
+      ],
+      "id": 1084736,
+      "original_language": "fr",
+      "original_title": "Le Comte de Monte-Cristo",
+      "overview": "Edmond Dantès becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+      "popularity": 11.0535,
+      "poster_path": "/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg",
+      "release_date": "2024-06-28",
+      "title": "The Count of Monte Cristo",
+      "video": false,
+      "vote_average": 7.944,
+      "vote_count": 1847
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 169,
+      "original_language": "en",
+      "original_title": "Predator 2",
+      "overview": "A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.",
+      "popularity": 12.8159,
+      "poster_path": "/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+      "release_date": "1990-11-21",
+      "title": "Predator 2",
+      "video": false,
+      "vote_average": 6.293,
+      "vote_count": 3616
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        36
+      ],
+      "id": 1154046,
+      "original_language": "en",
+      "original_title": "Stealing Mary: Last of the Red Indians",
+      "overview": "Two human skulls in a Scottish museum spark a forensic investigation into the tragic disappearance of the Beothuk people of Newfoundland. The clues help solve a kidnapping, murder, and cover-up that took place 200 years ago in the remote interior of the island.",
+      "popularity": 8.1245,
+      "poster_path": "/c1VfDPtxfFDf3mguXooLDt31bmD.jpg",
+      "release_date": "2006-02-01",
+      "title": "Stealing Mary: Last of the Red Indians",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10749
+      ],
+      "id": 321612,
+      "original_language": "en",
+      "original_title": "Beauty and the Beast",
+      "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+      "popularity": 12.3792,
+      "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "release_date": "2017-03-16",
+      "title": "Beauty and the Beast",
+      "video": false,
+      "vote_average": 6.969,
+      "vote_count": 15843
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+      "genre_ids": [
+        14,
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 810,
+      "original_language": "en",
+      "original_title": "Shrek the Third",
+      "overview": "The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.",
+      "popularity": 11.9078,
+      "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "release_date": "2007-05-17",
+      "title": "Shrek the Third",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 9507
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7xmwFJQj99lICSGQkr8sQ7G9IA.jpg",
+      "genre_ids": [
+        35,
+        53,
+        80
+      ],
+      "id": 1210732,
+      "original_language": "fr",
+      "original_title": "Un ours dans le Jura",
+      "overview": "Michel and Cathy, wed for longer than they can remember, lead a quiet but monotonous life in the mountains. When a bear bursts out in front of Michel’s car, accidentally killing two drug dealers and revealing a €2 million loot in the process, their life takes an unpredictable turn, especially when they decide to cover up the incident and keep the money! But their plan leads them to stumble upon an unexplained trail of dead bodies. More used to being honest than crooked, Michel and Cathy’s clumsy cover-up efforts soon put an interfering inspector hot on their trail.",
+      "popularity": 9.8238,
+      "poster_path": "/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+      "release_date": "2025-01-01",
+      "title": "How to Make a Killing",
+      "video": false,
+      "vote_average": 6.462,
+      "vote_count": 222
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1144165,
+      "original_language": "en",
+      "original_title": "Heart of Dorkness: Behind the Scenes of 'My Name Is Bruce'",
+      "overview": "A tongue in cheek look behind-the-scenes of My Name is Bruce.",
+      "popularity": 6.3453,
+      "poster_path": "/cJLq1u8LusHm1o6ZnX0DNYGDcJ5.jpg",
+      "release_date": "2009-01-01",
+      "title": "Heart of Dorkness: Behind the Scenes of 'My Name Is Bruce'",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jijKnQUI8CbK2J05zelxrSoYE7d.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 1318642,
+      "original_language": "th",
+      "original_title": "ดีว่า..ราวี",
+      "overview": "Imagine the excitement when four rival divas are brought together to perform on the same stage. But remember, when two ride on a horse, one must sit behind. So, how will these four divas share the spotlight without chaos?",
+      "popularity": 11.8269,
+      "poster_path": "/xEzFDo64EVJ3vGudBvZqfmjzXKm.jpg",
+      "release_date": "2025-12-10",
+      "title": "Beauty and the Beat",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+      "genre_ids": [
+        878,
+        27,
+        53
+      ],
+      "id": 1086260,
+      "original_language": "en",
+      "original_title": "The Astronaut",
+      "overview": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
+      "popularity": 12.9655,
+      "poster_path": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
+      "release_date": "2025-09-26",
+      "title": "The Astronaut",
+      "video": false,
+      "vote_average": 5.734,
+      "vote_count": 109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 615457,
+      "original_language": "en",
+      "original_title": "Nobody",
+      "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+      "popularity": 11.9594,
+      "poster_path": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "release_date": "2021-03-18",
+      "title": "Nobody",
+      "video": false,
+      "vote_average": 7.899,
+      "vote_count": 7921
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 635302,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限列車編",
+      "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+      "popularity": 12.2134,
+      "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "release_date": "2020-10-16",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "video": false,
+      "vote_average": 8.211,
+      "vote_count": 4328
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1434739,
+      "original_language": "it",
+      "original_title": "Il Ludwig di Visconti, storia del film e della sua ricostruzione",
+      "overview": "",
+      "popularity": 6.4611,
+      "poster_path": null,
+      "release_date": "2002-01-01",
+      "title": "Il Ludwig di Visconti, storia del film e della sua ricostruzione",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3fFVHmZcSIzG0ACExUz6pAhcSAR.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 6877,
+      "original_language": "en",
+      "original_title": "Failure to Launch",
+      "overview": "At 35, Tripp has an interesting job, a hip car, a passion for sailing, an active dating life, and a great house - trouble is, he still lives with his parents, Al and Sue, who are not happy about it. Al and Sue are fascinated when friends whose adult son has recently moved away from home reveal they hired an expert to help. In desperation to push Tripp out of the nest once and for all, Al and Sue hatch a plan to hire Paula, an \"interventionist,\" who has a formula in these cases.",
+      "popularity": 8.6767,
+      "poster_path": "/omReuKQ8ItWYD5pOLmsKh3MF24w.jpg",
+      "release_date": "2006-03-10",
+      "title": "Failure to Launch",
+      "video": false,
+      "vote_average": 5.832,
+      "vote_count": 1728
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
+      "genre_ids": [
+        14,
+        10749
+      ],
+      "id": 197796,
+      "original_language": "fr",
+      "original_title": "La Belle et la Bête",
+      "overview": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell.",
+      "popularity": 9.7779,
+      "poster_path": "/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
+      "release_date": "2014-02-12",
+      "title": "Beauty and the Beast",
+      "video": false,
+      "vote_average": 6.211,
+      "vote_count": 2118
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

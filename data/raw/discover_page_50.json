@@ -1,0 +1,399 @@
+{
+  "page": 50,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jiVuIZPan76T1l7oi1EfzqWvJ1Q.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        18,
+        35
+      ],
+      "id": 9073,
+      "original_language": "en",
+      "original_title": "Free Willy 2: The Adventure Home",
+      "overview": "Jesse becomes reunited with Willy three years after the whale's jump to freedom as the teenager tries to rescue the killer whale and other orcas from an oil spill.",
+      "popularity": 9.8118,
+      "poster_path": "/3wpug3W5rYBdqeAnhc1UeXLE5ZF.jpg",
+      "release_date": "1995-07-19",
+      "title": "Free Willy 2: The Adventure Home",
+      "video": false,
+      "vote_average": 5.926,
+      "vote_count": 607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/52iiUyKmWL5fSQLMIrUjsLGfpBR.jpg",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 569617,
+      "original_language": "fr",
+      "original_title": "Les Enfoirés 1997 - Le Zénith des Enfoirés",
+      "overview": "",
+      "popularity": 10.242,
+      "poster_path": "/5JP891UMjMNBy5wijaYXswu1pfJ.jpg",
+      "release_date": "1997-02-08",
+      "title": "Les Enfoirés 1997 - Le Zénith des Enfoirés",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751,
+        28,
+        14
+      ],
+      "id": 62177,
+      "original_language": "en",
+      "original_title": "Brave",
+      "overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest — and serving as comic relief — are the kingdom's three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+      "popularity": 10.3978,
+      "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+      "release_date": "2012-06-21",
+      "title": "Brave",
+      "video": false,
+      "vote_average": 7.02,
+      "vote_count": 13860
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 178887,
+      "original_language": "fr",
+      "original_title": "Quand on est amoureux c'est merveilleux",
+      "overview": "Mlle Lara has trouble with men, so for her birthday she plans something special in pursuit of a wonderful love.",
+      "popularity": 6.464,
+      "poster_path": "/sn7xfNkYZr1fOeZikTjk7ifcdS5.jpg",
+      "release_date": "1999-01-01",
+      "title": "A Wonderful Love",
+      "video": false,
+      "vote_average": 5.269,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9i478egHXEwnO0zbDYQLt4AtGb5.jpg",
+      "genre_ids": [
+        35,
+        9648,
+        80
+      ],
+      "id": 3049,
+      "original_language": "en",
+      "original_title": "Ace Ventura: Pet Detective",
+      "overview": "He's Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+      "popularity": 9.3235,
+      "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+      "release_date": "1994-02-04",
+      "title": "Ace Ventura: Pet Detective",
+      "video": false,
+      "vote_average": 6.567,
+      "vote_count": 6137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        53,
+        878
+      ],
+      "id": 615173,
+      "original_language": "ko",
+      "original_title": "마녀(魔女) Part2. The Other One",
+      "overview": "A girl wakes up in a huge secret laboratory, then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.",
+      "popularity": 9.6149,
+      "poster_path": "/9YTuscJXmr9Iua62amCgGSU8PDW.jpg",
+      "release_date": "2022-06-15",
+      "title": "The Witch: Part 2. The Other One",
+      "video": false,
+      "vote_average": 7.355,
+      "vote_count": 406
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2glIPuqanLgGajWOjcnKcFUg7VO.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 391550,
+      "original_language": "de",
+      "original_title": "Silvias Bauch - Zwei Männer und (k)ein Baby",
+      "overview": "Oliver and the much older photographer Hendrik are a couple. A rather contrasting couple: Hendrik has already achieved a lot in his life and is considered an 'old hand' in his profession. Oliver, on the other hand, is only at the beginning of his career as a photographer and has retained a childlike naivety and playfulness in his life plans. Oliver and the young Silvia meet at a photo session. It is immediately clear to the ambitious Silvia that Oliver is her springboard to a modeling career. That same evening, Hendrik proposes to Oliver. But Oliver makes an almost unfulfillable condition: He wants a child! Hendrik is completely at a loss. What should he do? Then Silvia bursts into his house. All she really wants is to be photographed by Oliver. But things turn out differently...",
+      "popularity": 6.7058,
+      "poster_path": "/mjdCT5Tm4JkbGwWlhL2uAUHg4Lm.jpg",
+      "release_date": "1998-05-17",
+      "title": "Silvias Bauch - Zwei Männer und (k)ein Baby",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        10751,
+        14
+      ],
+      "id": 1593,
+      "original_language": "en",
+      "original_title": "Night at the Museum",
+      "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+      "popularity": 10.0779,
+      "poster_path": "/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+      "release_date": "2006-12-20",
+      "title": "Night at the Museum",
+      "video": false,
+      "vote_average": 6.594,
+      "vote_count": 10662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lcFar2tdF9Lir12R0K3Dvw6uABu.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 13673,
+      "original_language": "en",
+      "original_title": "Christmas with the Kranks",
+      "overview": "When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair calls on Christmas Eve to announce a surprise visit with her new fiancée, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!",
+      "popularity": 8.4499,
+      "poster_path": "/q866vL3KhAjbkZH1enT7AoxmRHx.jpg",
+      "release_date": "2004-11-24",
+      "title": "Christmas with the Kranks",
+      "video": false,
+      "vote_average": 6.154,
+      "vote_count": 1246
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uXasEDupiGJDogb8RimFbSc3AYj.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 800373,
+      "original_language": "de",
+      "original_title": "Ein Leben für den Film - Lotte Eisner",
+      "overview": "Born in Berlin in 1896, Lotte Eisner became famous for her passionate involvement in the world of both German and French cinema. In 1936, together with Henri Langlois, she founded the Cinémathèque Française with the goal of saving from destruction films, costumes, sets, posters, and other treasures of the 7th Art. A Jew exiled in Paris, she became a pillar of the capital's cultural scene, where she promoted German cinema.",
+      "popularity": 7.9935,
+      "poster_path": "/fnwsXjtET1Lk9SFHKN4NV6GCj5v.jpg",
+      "release_date": "2021-02-24",
+      "title": "A Life for Movies: Lotte Eisner",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 835976,
+      "original_language": "pt",
+      "original_title": "Onde Fica Esta Rua? ou Sem Antes Nem Depois",
+      "overview": "From our window one can see a set of the film The Green Years, directed by Paulo Rocha in 1963. This was our starting point: guided by Rocha's gaze, we look back at the places of that film. The successive geological, urbanistic and social strata of Lisbon, besieged by the pandemic that interrupted the shooting, are drawn out in front of our camera, like a contemporary jazz impro from a score written in 1963.",
+      "popularity": 6.3473,
+      "poster_path": "/nPA5s27fDW29Nys4I50bpHSyfji.jpg",
+      "release_date": "2022-08-05",
+      "title": "Where Is This Street? or With No Before or After",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pUScO2B3uaIqRcCxNLvcxT32qYA.jpg",
+      "genre_ids": [
+        18,
+        878,
+        99
+      ],
+      "id": 788921,
+      "original_language": "de",
+      "original_title": "Die 2050er - Everything will change",
+      "overview": "In a dystopian 2054, three young rebels go on a journey to find traces of the long lost beauty of nature, hoping to discover what happened to their planet.",
+      "popularity": 6.7942,
+      "poster_path": "/lQmuK9BeO3sRT6Tb2KBS5BsJltH.jpg",
+      "release_date": "2022-07-14",
+      "title": "Die 2050er - Everything will change",
+      "video": false,
+      "vote_average": 6.364,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10752
+      ],
+      "id": 1417,
+      "original_language": "es",
+      "original_title": "El laberinto del fauno",
+      "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+      "popularity": 10.9845,
+      "poster_path": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "release_date": "2006-10-11",
+      "title": "Pan's Labyrinth",
+      "video": false,
+      "vote_average": 7.758,
+      "vote_count": 11144
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AwgmO9qXGTp9q1jyzWhgOTBDgrN.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35
+      ],
+      "id": 1310672,
+      "original_language": "ja",
+      "original_title": "風都探偵 仮面ライダースカルの肖像",
+      "overview": "Shotaro tells Tokime all about his mentor, Shokichi Narumi, and the night he and Philip became Kamen Rider W.",
+      "popularity": 10.3748,
+      "poster_path": "/n6YOsMXed9z3NHIPptmAocOfh4Q.jpg",
+      "release_date": "2024-11-08",
+      "title": "Fuuto PI: The Portrait of Kamen Rider Skull",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1099060,
+      "original_language": "de",
+      "original_title": "Federico Fellini - Mit den Augen der Anderen",
+      "overview": "Documentary about Federico Fellini",
+      "popularity": 6.5788,
+      "poster_path": "/elS1ZcmENlB97C83AwnEBa0YQbq.jpg",
+      "release_date": "2003-01-01",
+      "title": "Federico Fellini - Through the Eyes of Others",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NFUSrKnNmWkvCJSVWrwKRY9i1B.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 173483,
+      "original_language": "it",
+      "original_title": "Maria Montessori: una vita per i bambini",
+      "overview": "The story of Maria Montessori the most famous pedagogue of the world. She spent all her life to make her \"metodo\" (method) accepted in the archaic Italian school system, while the rest of the world immediately understand the importance of her theories. She was the first Italian Doctor, a famous feminist, a scientist. Her private life was hit by having an illegitimate son and by the Fascism that didn't want to accept completely her theories.",
+      "popularity": 6.7432,
+      "poster_path": "/feHAnvZFEnnMqCE4GwfDG742AJu.jpg",
+      "release_date": "2007-05-28",
+      "title": "Maria Montessori: una vita per i bambini",
+      "video": false,
+      "vote_average": 6.815,
+      "vote_count": 62
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+      "genre_ids": [
+        878,
+        10749,
+        35
+      ],
+      "id": 792307,
+      "original_language": "en",
+      "original_title": "Poor Things",
+      "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "popularity": 11.484,
+      "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "release_date": "2023-12-07",
+      "title": "Poor Things",
+      "video": false,
+      "vote_average": 7.657,
+      "vote_count": 5131
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
+      "genre_ids": [
+        878,
+        53,
+        12
+      ],
+      "id": 435,
+      "original_language": "en",
+      "original_title": "The Day After Tomorrow",
+      "overview": "After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.",
+      "popularity": 9.2064,
+      "poster_path": "/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+      "release_date": "2004-05-26",
+      "title": "The Day After Tomorrow",
+      "video": false,
+      "vote_average": 6.547,
+      "vote_count": 8568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcK9ndE1wlNt1n8124UDvEJLr2q.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 422566,
+      "original_language": "ar",
+      "original_title": "À mon âge je me cache encore pour fumer",
+      "overview": "Α tragi-comedy about 9 women of different ages and various backgrounds that gather in an Algerian hammam to talk about their lives.",
+      "popularity": 7.7285,
+      "poster_path": "/mwzDHusFqeYnJQFyDvokJknpyQb.jpg",
+      "release_date": "2017-04-26",
+      "title": "I Still Hide to Smoke",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16
+      ],
+      "id": 1204680,
+      "original_language": "en",
+      "original_title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "popularity": 6.5466,
+      "poster_path": "/30vBiZBMVpIEfxbi2g4jHlYhjOI.jpg",
+      "release_date": "2026-08-26",
+      "title": "Coyote vs. Acme",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718177
+}

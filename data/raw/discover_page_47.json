@@ -1,0 +1,400 @@
+{
+  "page": 47,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        16
+      ],
+      "id": 421717,
+      "original_language": "en",
+      "original_title": "The Past Inside The Present",
+      "overview": "An allegorical tale of a couple who attempt to renew their dying relationship by plugging directly into recordings of their memories.",
+      "popularity": 5.8003,
+      "poster_path": "/dabOSAE8Tb78MqWKdSdNKAYQH00.jpg",
+      "release_date": "2016-08-25",
+      "title": "The Past Inside The Present",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 9297,
+      "original_language": "en",
+      "original_title": "Monster House",
+      "overview": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
+      "popularity": 9.7702,
+      "poster_path": "/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg",
+      "release_date": "2006-06-30",
+      "title": "Monster House",
+      "video": false,
+      "vote_average": 6.698,
+      "vote_count": 4207
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 345,
+      "original_language": "en",
+      "original_title": "Eyes Wide Shut",
+      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "popularity": 12.2038,
+      "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "release_date": "1999-07-16",
+      "title": "Eyes Wide Shut",
+      "video": false,
+      "vote_average": 7.485,
+      "vote_count": 6701
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        53
+      ],
+      "id": 135397,
+      "original_language": "en",
+      "original_title": "Jurassic World",
+      "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+      "popularity": 10.1396,
+      "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "release_date": "2015-06-06",
+      "title": "Jurassic World",
+      "video": false,
+      "vote_average": 6.699,
+      "vote_count": 21141
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lx89oBeJIastndjbQxznnfSYpmR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        18,
+        36
+      ],
+      "id": 796185,
+      "original_language": "fr",
+      "original_title": "Les Trois Mousquetaires : D'Artagnan",
+      "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+      "popularity": 9.4319,
+      "poster_path": "/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+      "release_date": "2023-04-05",
+      "title": "The Three Musketeers: D'Artagnan",
+      "video": false,
+      "vote_average": 6.93,
+      "vote_count": 1334
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o0zPARvs47f0UhAJuUqdQsyQaji.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 8355,
+      "original_language": "en",
+      "original_title": "Ice Age: Dawn of the Dinosaurs",
+      "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
+      "popularity": 10.4339,
+      "poster_path": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+      "release_date": "2009-06-26",
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "video": false,
+      "vote_average": 6.763,
+      "vote_count": 8666
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1127110,
+      "original_language": "en",
+      "original_title": "Diablo",
+      "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+      "popularity": 9.9925,
+      "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+      "release_date": "2025-06-13",
+      "title": "Diablo",
+      "video": false,
+      "vote_average": 7.299,
+      "vote_count": 159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 604685,
+      "original_language": "en",
+      "original_title": "Den of Thieves 2: Pantera",
+      "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+      "popularity": 9.7275,
+      "poster_path": "/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
+      "release_date": "2025-01-08",
+      "title": "Den of Thieves 2: Pantera",
+      "video": false,
+      "vote_average": 6.617,
+      "vote_count": 687
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tAdcrp9DnnjmrXngr5m17wQcGwU.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 478406,
+      "original_language": "en",
+      "original_title": "Charlie Chaplin: A Tramp's Life",
+      "overview": "A biographical documentary about the great British actor and director Charlie Chaplin (1889-1977), from rags to riches, from the slums of London to glory.",
+      "popularity": 6.7856,
+      "poster_path": "/wN3P2n7DWI0C1Ph2MPfUqnbdcOI.jpg",
+      "release_date": "1998-05-10",
+      "title": "Charlie Chaplin: A Tramp's Life",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euVWDUSMsooaQX3GBXmhpAjGNkH.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 425218,
+      "original_language": "de",
+      "original_title": "Die Häschenschule – Jagd nach dem Goldenen Ei",
+      "overview": "Rabbit Max, a juvenile shoplifter, gets trapped in an old-fashioned school. With rabbit girl Emmy, he acquires Easter Rabbits' secret skills, battles a sneaky fox family and learns about friendship.",
+      "popularity": 9.7763,
+      "poster_path": "/6BQyI5qfDNcpuSFPmJEzOfSUFOw.jpg",
+      "release_date": "2017-03-16",
+      "title": "Rabbit School: Guardians of the Golden Egg",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 801176,
+      "original_language": "it",
+      "original_title": "Marco Polo - Un anno tra i banchi di scuola",
+      "overview": "",
+      "popularity": 5.5001,
+      "poster_path": "/zoTBZZR2GHxZiTpJvUjBsBgNkrk.jpg",
+      "release_date": "2019-10-26",
+      "title": "Marco Polo - Un anno tra i banchi di scuola",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9qM08KBrvuzENc0G9RzlzyVjkSm.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        10749
+      ],
+      "id": 85446,
+      "original_language": "en",
+      "original_title": "Step Up Revolution",
+      "overview": "Emily arrives in Miami with aspirations to become a professional dancer. She sparks with Sean, the leader of a dance crew whose neighborhood is threatened by Emily's father's development plans.",
+      "popularity": 9.5505,
+      "poster_path": "/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg",
+      "release_date": "2012-07-26",
+      "title": "Step Up Revolution",
+      "video": false,
+      "vote_average": 6.91,
+      "vote_count": 2089
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpDuLFn6uaCNyUbBYNyY6BFP9HA.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 369776,
+      "original_language": "fr",
+      "original_title": "Les Tuche 2 : Le Rêve américain",
+      "overview": "Les Tuche, a modest french family, change his life after winning a super lottery. Thanks to the money of his parents, the son, Donald (aka \"coin-coin\") goes to Los Angeles to improve his english. On the L.A. University, he meets Jennifer, daughter of a famous American financier.",
+      "popularity": 9.9672,
+      "poster_path": "/27KhcV8Yd98yhEk6vcU1cKHn8Rj.jpg",
+      "release_date": "2016-02-03",
+      "title": "The Tuche Family: The American Dream",
+      "video": false,
+      "vote_average": 5.57,
+      "vote_count": 1004
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fqDuoi044B586hQ1SiNKPi5gPwC.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 962861,
+      "original_language": "id",
+      "original_title": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "overview": "Yasmin's happiness in managing a small inn in Solo with Darto disappeared after the arrival of Hardiman, Yasmin's father, who was a former legendary dancer.",
+      "popularity": 9.9504,
+      "poster_path": "/f2zXfXUKu9Muls4T0BBKSED1pkn.jpg",
+      "release_date": "2023-08-18",
+      "title": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14,
+        12,
+        10751
+      ],
+      "id": 508943,
+      "original_language": "en",
+      "original_title": "Luca",
+      "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+      "popularity": 10.4988,
+      "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+      "release_date": "2021-06-17",
+      "title": "Luca",
+      "video": false,
+      "vote_average": 7.79,
+      "vote_count": 8748
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 316029,
+      "original_language": "en",
+      "original_title": "The Greatest Showman",
+      "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+      "popularity": 9.9255,
+      "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "release_date": "2017-12-20",
+      "title": "The Greatest Showman",
+      "video": false,
+      "vote_average": 7.87,
+      "vote_count": 9826
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 284053,
+      "original_language": "en",
+      "original_title": "Thor: Ragnarok",
+      "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+      "popularity": 11.6312,
+      "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "release_date": "2017-10-02",
+      "title": "Thor: Ragnarok",
+      "video": false,
+      "vote_average": 7.583,
+      "vote_count": 21557
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aivbF72gqeFvEyi62PGjKuB3eh0.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 241239,
+      "original_language": "en",
+      "original_title": "A Most Violent Year",
+      "overview": "A thriller set in New York City during the winter of 1981, statistically one of the most violent years in the city's history, and centered on the lives of an immigrant and his family trying to expand their business and capitalize on opportunities as the rampant violence, decay, and corruption of the day drag them in and threaten to destroy all they have built.",
+      "popularity": 14.3828,
+      "poster_path": "/i2jWXgaie4a2Nwn55GDuNVn6RK3.jpg",
+      "release_date": "2014-12-31",
+      "title": "A Most Violent Year",
+      "video": false,
+      "vote_average": 6.609,
+      "vote_count": 1491
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vlnSG1EQi0ez2A6MkFfjovPfkES.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 591,
+      "original_language": "en",
+      "original_title": "The Da Vinci Code",
+      "overview": "A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.",
+      "popularity": 12.0264,
+      "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "release_date": "2006-05-17",
+      "title": "The Da Vinci Code",
+      "video": false,
+      "vote_average": 6.729,
+      "vote_count": 9793
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 168259,
+      "original_language": "en",
+      "original_title": "Furious 7",
+      "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+      "popularity": 10.4464,
+      "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+      "release_date": "2015-04-01",
+      "title": "Furious 7",
+      "video": false,
+      "vote_average": 7.222,
+      "vote_count": 11045
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718177
+}

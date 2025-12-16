@@ -1,0 +1,408 @@
+{
+  "page": 29,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5cRw2QHQz5bp7W2KLdSpZoFoTTw.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 726209,
+      "original_language": "en",
+      "original_title": "Leave the World Behind",
+      "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door.",
+      "popularity": 12.1934,
+      "poster_path": "/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+      "release_date": "2023-11-22",
+      "title": "Leave the World Behind",
+      "video": false,
+      "vote_average": 6.381,
+      "vote_count": 2999
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5qjvicQOZYISL3fxbJqvaQDjmo2.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        10770
+      ],
+      "id": 174271,
+      "original_language": "en",
+      "original_title": "The Fortunes and Misfortunes of Moll Flanders",
+      "overview": "After being born in prison, Moll Flanders wends her way through the top and bottom of 18th-century English society, has five husbands and many male and female lovers, travels to America and back again, and in general discovers all that is cruel and sweet in life.",
+      "popularity": 8.0121,
+      "poster_path": "/xjzQhNnc8OZDnyFjLsuX62XmjtB.jpg",
+      "release_date": "1996-10-13",
+      "title": "The Fortunes and Misfortunes of Moll Flanders",
+      "video": false,
+      "vote_average": 6.029,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rRDUkgmKQEb6pTwQyHGLL0AVfWH.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10752
+      ],
+      "id": 392426,
+      "original_language": "en",
+      "original_title": "Hati Merdeka - Merah Putih III",
+      "overview": "The third and final film in the award-winning box office hit RED AND WHITE trilogy set during the 1947-48 Indonesian revolution, as a band of guerrillas fights for Indonesia's freedom on land, sea and air against the Dutch empire.",
+      "popularity": 11.1007,
+      "poster_path": "/vVEcTooIHzqgy2Ise5IkO7UnUev.jpg",
+      "release_date": "2011-06-09",
+      "title": "Red And White 3: Hearts Of Freedom",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgml5hKTsTGNqDKKm6UCtY7EqGM.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 60672,
+      "original_language": "fr",
+      "original_title": "Les Rivières pourpres 2 : Les Anges de l'apocalypse",
+      "overview": "No one is safe when seemingly random killings emerge as a deadly pattern intended to usher in the end of the world.  A murder victim with the same DNA as Christ. A serial killer mimicking the deaths of the 12 Apostles. Inspector Niemans and a young, rebellious detective team up with a beautiful expert in religion to crack the case before their elusive suspect completes the cycle of terror, paving the way to an even bigger bloody catastrophe.",
+      "popularity": 11.7653,
+      "poster_path": "/hvQZKLVzW3cYfR5bjgGTGZuCuHs.jpg",
+      "release_date": "2004-02-18",
+      "title": "Crimson Rivers II: Angels of the Apocalypse",
+      "video": false,
+      "vote_average": 6.114,
+      "vote_count": 747
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+      "genre_ids": [
+        80,
+        35,
+        28
+      ],
+      "id": 402900,
+      "original_language": "en",
+      "original_title": "Ocean's Eight",
+      "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+      "popularity": 12.0458,
+      "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "release_date": "2018-06-07",
+      "title": "Ocean's Eight",
+      "video": false,
+      "vote_average": 6.968,
+      "vote_count": 8603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xeIkV4e4joAmlRJhqJu2N8jR6zC.jpg",
+      "genre_ids": [
+        16,
+        14,
+        18,
+        10402
+      ],
+      "id": 1374686,
+      "original_language": "en",
+      "original_title": "Light of the World",
+      "overview": "It's 30 AD and everyone is expectantly awaiting the coming Messiah. While Jesus isn't exactly what they imagined, there is something special about this man. Soon, John, James, Andrew, Peter, and others begin to follow Jesus on an unexpected adventure. This beautifully animated story of Jesus is told through the eyes of his beloved young friend, the Apostle John.",
+      "popularity": 11.991,
+      "poster_path": "/3vUqo90FCIHXPiXnQJEeqzg5EDV.jpg",
+      "release_date": "2025-09-04",
+      "title": "Light of the World",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 447365,
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "popularity": 12.3955,
+      "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "release_date": "2023-05-03",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "video": false,
+      "vote_average": 7.932,
+      "vote_count": 7825
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/au236RSArVTOMXM6AXVNBPZEKNb.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 10588,
+      "original_language": "en",
+      "original_title": "The Cat in the Hat",
+      "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+      "popularity": 12.8754,
+      "poster_path": "/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+      "release_date": "2003-11-21",
+      "title": "The Cat in the Hat",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 1746
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 1117857,
+      "original_language": "en",
+      "original_title": "In Your Dreams",
+      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+      "popularity": 12.141,
+      "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+      "release_date": "2025-11-07",
+      "title": "In Your Dreams",
+      "video": false,
+      "vote_average": 7.004,
+      "vote_count": 133
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rnn6sGMGPpM8VfVmCMFxsjKvz7q.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12
+      ],
+      "id": 9279,
+      "original_language": "en",
+      "original_title": "Jingle All the Way",
+      "overview": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
+      "popularity": 13.3836,
+      "poster_path": "/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg",
+      "release_date": "1996-11-21",
+      "title": "Jingle All the Way",
+      "video": false,
+      "vote_average": 6.054,
+      "vote_count": 2828
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 73723,
+      "original_language": "en",
+      "original_title": "The Lorax",
+      "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
+      "popularity": 12.9246,
+      "poster_path": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
+      "release_date": "2012-03-01",
+      "title": "The Lorax",
+      "video": false,
+      "vote_average": 6.518,
+      "vote_count": 3766
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mAeDJ3P4ZRDBsuDlKgL2mNXFvsc.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 9679,
+      "original_language": "en",
+      "original_title": "Gone in Sixty Seconds",
+      "overview": "Upon learning that he has to come out of retirement to steal 50 cars in one night to save his brother Kip's life, former car thief Randall \"Memphis\" Raines enlists help from a few \"boost happy\" pals to accomplish a seemingly impossible feat. From countless car chases to relentless cops, the high-octane excitement builds as Randall swerves around more than a few roadblocks to keep Kip alive.",
+      "popularity": 12.4551,
+      "poster_path": "/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg",
+      "release_date": "2000-06-09",
+      "title": "Gone in Sixty Seconds",
+      "video": false,
+      "vote_average": 6.449,
+      "vote_count": 4699
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        18
+      ],
+      "id": 152601,
+      "original_language": "en",
+      "original_title": "Her",
+      "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+      "popularity": 11.5289,
+      "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "release_date": "2013-12-18",
+      "title": "Her",
+      "video": false,
+      "vote_average": 7.845,
+      "vote_count": 14895
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c0cHYInS3Q4POvhA2GSIOTD5heH.jpg",
+      "genre_ids": [
+        14,
+        10749
+      ],
+      "id": 1053987,
+      "original_language": "en",
+      "original_title": "Witchy Ways",
+      "overview": "Eve quits the rat race and heads to a cabin to rediscover herself. She promptly falls for her dynamic new next-door neighbor, Danni. As they grow close, Danni confesses she is a witch but reveals another ghostly secret threatening to destroy their chance at love.",
+      "popularity": 12.2408,
+      "poster_path": "/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
+      "release_date": "2024-09-13",
+      "title": "Witchy Ways",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 1241436,
+      "original_language": "en",
+      "original_title": "Warfare",
+      "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+      "popularity": 12.4109,
+      "poster_path": "/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+      "release_date": "2025-04-09",
+      "title": "Warfare",
+      "video": false,
+      "vote_average": 7.115,
+      "vote_count": 1159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9wnOfuL95tR9t2EzP9shLOvb2Hc.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1239875,
+      "original_language": "de",
+      "original_title": "Lyonel Feininger – Ein Künstler zwischen den Welten",
+      "overview": "Lyonel Feininger's work is as individual and unmistakable as he is himself. As a classical modernist artist, he is difficult to categorize. He lived and worked in Germany for a long time. He began his career as a caricaturist, later became known as a painter and headed the printing workshops at the Bauhaus. His work cannot be classified as cubism or expressionism. The film visits places that inspired him, such as Paris, the villages around Weimar and, above all, the Baltic coast - many of which are reflected in Feininger's work and make the development of his oeuvre comprehensible.",
+      "popularity": 6.3481,
+      "poster_path": "/kRzx58IDyWBRrvKBJJ1jrYYAcUx.jpg",
+      "release_date": "2024-01-14",
+      "title": "Lyonel Feininger – Ein Künstler zwischen den Welten",
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "popularity": 12.0962,
+      "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "release_date": "1998-07-24",
+      "title": "Saving Private Ryan",
+      "video": false,
+      "vote_average": 8.221,
+      "vote_count": 16700
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 453395,
+      "original_language": "en",
+      "original_title": "Doctor Strange in the Multiverse of Madness",
+      "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+      "popularity": 14.2725,
+      "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "release_date": "2022-05-04",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "video": false,
+      "vote_average": 7.236,
+      "vote_count": 9919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 624860,
+      "original_language": "en",
+      "original_title": "The Matrix Resurrections",
+      "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+      "popularity": 17.0339,
+      "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "release_date": "2021-12-16",
+      "title": "The Matrix Resurrections",
+      "video": false,
+      "vote_average": 6.357,
+      "vote_count": 6206
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 412117,
+      "original_language": "en",
+      "original_title": "The Secret Life of Pets 2",
+      "overview": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
+      "popularity": 11.0547,
+      "poster_path": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+      "release_date": "2019-05-24",
+      "title": "The Secret Life of Pets 2",
+      "video": false,
+      "vote_average": 6.949,
+      "vote_count": 3239
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

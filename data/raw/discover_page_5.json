@@ -1,0 +1,402 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg",
+      "genre_ids": [
+        28,
+        18,
+        80,
+        53
+      ],
+      "id": 1128650,
+      "original_language": "cn",
+      "original_title": "誤判",
+      "overview": "A poor young man is wrongly charged with drug trafficking after being deceived. An ex-prosecutor investigates the case, uncovers a corrupt lawyer team's scheme, and restores justice despite obstruction from evil forces.",
+      "popularity": 37.9059,
+      "poster_path": "/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg",
+      "release_date": "2024-12-08",
+      "title": "The Prosecutor",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lB96EMr5A7Og81UhyldJvvy35r.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        80,
+        12,
+        16
+      ],
+      "id": 1175942,
+      "original_language": "en",
+      "original_title": "The Bad Guys 2",
+      "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+      "popularity": 34.5716,
+      "poster_path": "/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+      "release_date": "2025-07-24",
+      "title": "The Bad Guys 2",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 564
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1403735,
+      "original_language": "te",
+      "original_title": "లైలా",
+      "overview": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
+      "popularity": 37.9824,
+      "poster_path": "/aFogllaRGlAhk1nqvVGFpZpl4qU.jpg",
+      "release_date": "2025-02-14",
+      "title": "Laila",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16
+      ],
+      "id": 1566269,
+      "original_language": "en",
+      "original_title": "The First Snow of Fraggle Rock",
+      "overview": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "popularity": 30.9428,
+      "poster_path": "/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+      "release_date": "2025-12-04",
+      "title": "The First Snow of Fraggle Rock",
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "popularity": 37.396,
+      "poster_path": "/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "release_date": "2025-06-06",
+      "title": "How to Train Your Dragon",
+      "video": false,
+      "vote_average": 7.985,
+      "vote_count": 2251
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "popularity": 33.8033,
+      "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "release_date": "2024-11-20",
+      "title": "Wicked",
+      "video": false,
+      "vote_average": 6.928,
+      "vote_count": 2689
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1468417,
+      "original_language": "en",
+      "original_title": "First Moon",
+      "overview": "A young waitress is abducted by a religious cult, who are hell-bent on curing her from a sexually transmitted werewolf virus - or killing her in the process. Will she escape before the first full moon?",
+      "popularity": 35.0609,
+      "poster_path": "/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg",
+      "release_date": "2025-05-06",
+      "title": "First Moon",
+      "video": false,
+      "vote_average": 4.302,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+      "popularity": 33.7523,
+      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "release_date": "2002-12-18",
+      "title": "The Lord of the Rings: The Two Towers",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 23164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cmT2WYpFBRk4UjQ0P984BoF8Eba.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 957119,
+      "original_language": "en",
+      "original_title": "Sidelined: The QB and Me",
+      "overview": "Dallas, a burdened but headstrong dancer, is determined to get into the best dance school in the country—her late mother’s alma mater. However, that dream is suddenly derailed when the cheeky yet secretly grieving football star, Drayton, crashes into her life with a unique story of his own. Will the two of them be able to grow into their dreams together, or will their dreams be sidelined?",
+      "popularity": 32.8014,
+      "poster_path": "/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg",
+      "release_date": "2025-02-06",
+      "title": "Sidelined: The QB and Me",
+      "video": false,
+      "vote_average": 6.111,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kyp7PSCKPZKGosthRbjfXPm8gJg.jpg",
+      "genre_ids": [
+        53,
+        80,
+        28
+      ],
+      "id": 1433719,
+      "original_language": "en",
+      "original_title": "High Ground",
+      "overview": "When a mysterious prisoner lands in jail, a border town sheriff faces the wrath of a brutal cartel.",
+      "popularity": 35.1223,
+      "poster_path": "/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg",
+      "release_date": "2025-03-17",
+      "title": "High Ground",
+      "video": false,
+      "vote_average": 5.917,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/srk5NlOnpEsd0hxVFiHfhtQtfDe.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1156594,
+      "original_language": "es",
+      "original_title": "Culpa nuestra",
+      "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+      "popularity": 32.4329,
+      "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+      "release_date": "2025-10-15",
+      "title": "Our Fault",
+      "video": false,
+      "vote_average": 7.451,
+      "vote_count": 553
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Ve7sjxLb3rKG8qJ1t7QEuNI0UM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1241742,
+      "original_language": "tl",
+      "original_title": "EKS",
+      "overview": "Three compelling stories in one erotic experience. Yen Durano plays three different women in three titillating stories. In a collaboration of three directors: Roman Perez, Jr., Sigrid Polon, and Omar Deroca.",
+      "popularity": 31.7637,
+      "poster_path": "/gcK3HgN6IHNOviXnX11W6aFLTGv.jpg",
+      "release_date": "2024-03-01",
+      "title": "EKS",
+      "video": false,
+      "vote_average": 3.2,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "id": 546554,
+      "original_language": "en",
+      "original_title": "Knives Out",
+      "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+      "popularity": 34.9328,
+      "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "release_date": "2019-11-27",
+      "title": "Knives Out",
+      "video": false,
+      "vote_average": 7.845,
+      "vote_count": 13321
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1007734,
+      "original_language": "en",
+      "original_title": "Nobody 2",
+      "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+      "popularity": 39.789,
+      "poster_path": "/xGLoqM9peusKQeuwlSw2Qlhx740.jpg",
+      "release_date": "2025-08-13",
+      "title": "Nobody 2",
+      "video": false,
+      "vote_average": 7.039,
+      "vote_count": 1058
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 541671,
+      "original_language": "en",
+      "original_title": "Ballerina",
+      "overview": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "popularity": 34.5961,
+      "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "release_date": "2025-06-04",
+      "title": "Ballerina",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2047
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v8tpkxm7AhLu69eaZKJLsNaSL5.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 1392796,
+      "original_language": "en",
+      "original_title": "Diary of a Wimpy Kid: The Last Straw",
+      "overview": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
+      "popularity": 30.1998,
+      "poster_path": "/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+      "release_date": "2025-12-04",
+      "title": "Diary of a Wimpy Kid: The Last Straw",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ygOR390GzOX5Quv0kAAcUNDG7fp.jpg",
+      "genre_ids": [
+        12,
+        28,
+        27
+      ],
+      "id": 1511789,
+      "original_language": "en",
+      "original_title": "Captain Hook: The Cursed Tides",
+      "overview": "In the aftermath of a devastating defeat by his archnemesis Admiral Smee, Captain Hook finds refuge in the coastal town of Eldritch Landing.",
+      "popularity": 36.0025,
+      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
+      "release_date": "2025-07-11",
+      "title": "Captain Hook: The Cursed Tides",
+      "video": false,
+      "vote_average": 4.951,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bXZcSDQoyXlzzUw9qxjZjiUSYov.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1441563,
+      "original_language": "en",
+      "original_title": "My Secret Santa",
+      "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
+      "popularity": 33.3753,
+      "poster_path": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+      "release_date": "2025-12-02",
+      "title": "My Secret Santa",
+      "video": false,
+      "vote_average": 6.355,
+      "vote_count": 93
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dpPqjyWOhp5o0H0yVOpvZCB5OUb.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 203151,
+      "original_language": "es",
+      "original_title": "El sanatorio",
+      "overview": "A group of friends decide to make a documentary about the ghosts that are supposed to be haunting The Sanatorium in Costa Rica, things get creepy when the arrive to the place.",
+      "popularity": 16.633,
+      "poster_path": "/bncTqAs913QNuEq8CGPOTNopfh4.jpg",
+      "release_date": "2010-10-28",
+      "title": "The Sanatorium",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/28PGUwfIkAByymJOb6KkJt5SgYw.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1081003,
+      "original_language": "en",
+      "original_title": "Supergirl",
+      "overview": "While celebrating her 21st birthday, Kara Zor-El travels across the galaxy with her dog Krypto, during which she meets the young Ruthye Marye Knoll and goes on a \"murderous quest for revenge\".",
+      "popularity": 29.7932,
+      "poster_path": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "release_date": "2026-06-24",
+      "title": "Supergirl",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

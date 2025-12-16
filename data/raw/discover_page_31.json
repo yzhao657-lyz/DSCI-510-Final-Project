@@ -1,0 +1,399 @@
+{
+  "page": 31,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 398818,
+      "original_language": "en",
+      "original_title": "Call Me by Your Name",
+      "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+      "popularity": 11.7937,
+      "poster_path": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "release_date": "2017-07-28",
+      "title": "Call Me by Your Name",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 12507
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 24,
+      "original_language": "en",
+      "original_title": "Kill Bill: Vol. 1",
+      "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+      "popularity": 12.4646,
+      "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "release_date": "2003-10-10",
+      "title": "Kill Bill: Vol. 1",
+      "video": false,
+      "vote_average": 7.969,
+      "vote_count": 18357
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10751,
+        28,
+        35
+      ],
+      "id": 451048,
+      "original_language": "en",
+      "original_title": "Jungle Cruise",
+      "overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
+      "popularity": 12.1535,
+      "poster_path": "/3UPz63cGsAQlYQnkOHfAbUhl1O3.jpg",
+      "release_date": "2021-07-28",
+      "title": "Jungle Cruise",
+      "video": false,
+      "vote_average": 7.318,
+      "vote_count": 5988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+      "genre_ids": [
+        27,
+        28
+      ],
+      "id": 36647,
+      "original_language": "en",
+      "original_title": "Blade",
+      "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+      "popularity": 8.4546,
+      "poster_path": "/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
+      "release_date": "1998-08-21",
+      "title": "Blade",
+      "video": false,
+      "vote_average": 6.815,
+      "vote_count": 6449
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2hS80sTgsSmK0T61bd5J9YBc52k.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "popularity": 12.1487,
+      "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "release_date": "1994-09-14",
+      "title": "Léon: The Professional",
+      "video": false,
+      "vote_average": 8.299,
+      "vote_count": 15608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+      "genre_ids": [
+        14,
+        18,
+        12
+      ],
+      "id": 1571470,
+      "original_language": "en",
+      "original_title": "The Rats: A Witcher Tale",
+      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+      "popularity": 10.1817,
+      "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+      "release_date": "2025-10-29",
+      "title": "The Rats: A Witcher Tale",
+      "video": false,
+      "vote_average": 5.178,
+      "vote_count": 102
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+      "genre_ids": [
+        28,
+        18,
+        14
+      ],
+      "id": 656908,
+      "original_language": "hi",
+      "original_title": "रामायण",
+      "overview": "First part of the epic Ramayana Duology.",
+      "popularity": 11.7071,
+      "poster_path": "/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg",
+      "release_date": "2026-11-06",
+      "title": "Ramayana: Part One",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pvVpR8lPRAPbeVU6hqJwD4r9roo.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1581,
+      "original_language": "en",
+      "original_title": "The Holiday",
+      "overview": "Two women, one American and one British, swap homes at Christmastime following bad breakups. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.",
+      "popularity": 15.1119,
+      "poster_path": "/6fbqG49Q7IWBWdyJ7asNTcNbnG6.jpg",
+      "release_date": "2006-12-05",
+      "title": "The Holiday",
+      "video": false,
+      "vote_average": 7.091,
+      "vote_count": 5434
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+      "genre_ids": [
+        53,
+        80,
+        10770
+      ],
+      "id": 801335,
+      "original_language": "en",
+      "original_title": "Girl in the Basement",
+      "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+      "popularity": 11.5778,
+      "poster_path": "/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+      "release_date": "2021-02-27",
+      "title": "Girl in the Basement",
+      "video": false,
+      "vote_average": 7.574,
+      "vote_count": 801
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 667538,
+      "original_language": "en",
+      "original_title": "Transformers: Rise of the Beasts",
+      "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+      "popularity": 11.1198,
+      "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "release_date": "2023-06-06",
+      "title": "Transformers: Rise of the Beasts",
+      "video": false,
+      "vote_average": 7.197,
+      "vote_count": 5098
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9IHZeCusOd7RUaQpUrQJlKqjsUZ.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80
+      ],
+      "id": 1290879,
+      "original_language": "en",
+      "original_title": "The Woman in Cabin 10",
+      "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
+      "popularity": 11.349,
+      "poster_path": "/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+      "release_date": "2025-10-09",
+      "title": "The Woman in Cabin 10",
+      "video": false,
+      "vote_average": 6.207,
+      "vote_count": 721
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2CN0JxFr7oqZXDdi3vE2b1G44d1.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 54813,
+      "original_language": "en",
+      "original_title": "The 8th Crown: The Official 2010 FIFA World Cup Film",
+      "overview": "Experience the journey of the most-watched sporting event in the world as it was meant to be seen: in dynamic and vibrant 3D on Blu-ray. Relive the action and intensity of the 2010 FIFA World Cup South Africa as though you were actually in the stadium witnessing all the drama and athletic skill. The greatest players in the world--supported by the most passionate fans--met up on the biggest stage in sports and made history as the 2010 FIFA World Cup enthralled South Africa and the world.",
+      "popularity": 9.8012,
+      "poster_path": "/2topV1y5HvgZMNdC3Xg2W6YNTMG.jpg",
+      "release_date": "2010-11-16",
+      "title": "The 8th Crown: The Official 2010 FIFA World Cup Film",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        16
+      ],
+      "id": 3933,
+      "original_language": "en",
+      "original_title": "Corpse Bride",
+      "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+      "popularity": 12.4396,
+      "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+      "release_date": "2005-09-12",
+      "title": "Corpse Bride",
+      "video": false,
+      "vote_average": 7.585,
+      "vote_count": 9908
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x6NbDqRswn8mzD4KVOTC82vNRVe.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1127495,
+      "original_language": "it",
+      "original_title": "Gillo: Le donne, i cavalier, l'armi, gli amori",
+      "overview": "Pontecorvo is one of those Italian filmmakers marked for life by neorealism. He declares that he decided to do cinema after leaving a screening of \"Paisa\" by Roberto Rossellini. The future filmmaker was then in Paris, a year after a war during which he became one of the main figures of the Italian resistance and one of the founders of the Youth Front. Leaving his status as a war hero behind him, Pontecorvo made his directorial debut with \"Giovanna\", a short film heralding a cinematic career dedicated to what he himself calls the \"dictatorship of truth.\"",
+      "popularity": 7.5442,
+      "poster_path": "/ymzftyJlV5rkon1biSpArpeVh9g.jpg",
+      "release_date": "2007-10-11",
+      "title": "Gillo of Ladies and Knights, of Loves and Arms",
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 13494,
+      "original_language": "en",
+      "original_title": "Red Sonja",
+      "overview": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+      "popularity": 11.6788,
+      "poster_path": "/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
+      "release_date": "2025-07-31",
+      "title": "Red Sonja",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 143
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 579974,
+      "original_language": "te",
+      "original_title": "రౌద్రం రణం రుధిరం",
+      "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "popularity": 11.6875,
+      "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "release_date": "2022-03-24",
+      "title": "RRR",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1483
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 856505,
+      "original_language": "en",
+      "original_title": "Dark Arts: Inside 'To the Devil a Daughter'",
+      "overview": "A series of interviews between film historians Jonathan Rigby, Kevin Lyons and John J. Johnston as they discuss the troubled production of the film and how it relates to the end of Hammer’s horror run for some time.",
+      "popularity": 6.2667,
+      "poster_path": null,
+      "release_date": "2018-01-28",
+      "title": "Dark Arts: Inside 'To the Devil a Daughter'",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zT9iYKMtmU82Jo44WbiuMOW7jRi.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 307081,
+      "original_language": "en",
+      "original_title": "Southpaw",
+      "overview": "Billy \"The Great\" Hope, the reigning junior middleweight boxing champion, has an impressive career, a loving wife and daughter, and a lavish lifestyle. However, when tragedy strikes, Billy hits rock bottom, losing his family, his house and his manager. He soon finds an unlikely savior in Tick Willis, a former fighter who trains the city's toughest amateur boxers. With his future on the line, Hope fights to reclaim the trust of those he loves the most.",
+      "popularity": 12.482,
+      "poster_path": "/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg",
+      "release_date": "2015-03-24",
+      "title": "Southpaw",
+      "video": false,
+      "vote_average": 7.363,
+      "vote_count": 5670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lAs4Y5a8Pi86xDwuv8cx2prOVI2.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14,
+        10749
+      ],
+      "id": 447277,
+      "original_language": "en",
+      "original_title": "The Little Mermaid",
+      "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+      "popularity": 11.5212,
+      "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "release_date": "2023-05-18",
+      "title": "The Little Mermaid",
+      "video": false,
+      "vote_average": 6.288,
+      "vote_count": 3198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 25376,
+      "original_language": "es",
+      "original_title": "El secreto de sus ojos",
+      "overview": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjamín begins writing a novel based on the unsolved mystery of a newlywed’s rape and murder. With the help of a former colleague, judge Irene, he attempts to make sense of the past.",
+      "popularity": 9.7333,
+      "poster_path": "/dkeAwfZzwL3WvToydE3CXiY80E0.jpg",
+      "release_date": "2009-08-13",
+      "title": "The Secret in Their Eyes",
+      "video": false,
+      "vote_average": 7.972,
+      "vote_count": 2734
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

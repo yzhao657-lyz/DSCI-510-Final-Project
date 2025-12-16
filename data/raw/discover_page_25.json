@@ -1,0 +1,396 @@
+{
+  "page": 25,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53
+      ],
+      "id": 1254135,
+      "original_language": "fr",
+      "original_title": "13 jours, 13 nuits",
+      "overview": "Kabul, August 15, 2021. US troops are preparing to withdraw from Afghanistan, while the Taliban are marching on the capital to seize power. Amid the chaos, Commander Mohamed Bida and his men are in charge of security at the French embassy, the last Western mission to remain open. Trapped along with 500 people, left to their own devices, the team must reach the airport at all costs. A perilous mission with no guarantee of success to flee the hell of Kabul and rescue what remains of humanity.",
+      "popularity": 12.8989,
+      "poster_path": "/orcdyqJZhbr731iN7yq7TK5zluc.jpg",
+      "release_date": "2025-06-27",
+      "title": "13 Days, 13 Nights: In the Hell of Kabul",
+      "video": false,
+      "vote_average": 6.602,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uSNyVHYDr7WyPozVJ9mYYoMyymm.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18,
+        80,
+        28
+      ],
+      "id": 1211886,
+      "original_language": "ht",
+      "original_title": "Kidnapping Inc.",
+      "overview": "A group of kidnappers take the son of a wealthy presidential candidate in Haiti. Doc and Zoe are two amateur gangsters tasked with delivering the young man to their ruthless boss. With a hitman on their trail, Zoe accidentally kills the hostage. Panicked, Doc and Zoe come across Patrick and his very pregnant wife Laura. Patrick looks exactly like the senator’s dead son. Doc and Zoe decide to abduct the couple and replace the candidate's son with Patrick.",
+      "popularity": 10.7845,
+      "poster_path": "/n6Mn9Xe7Yy0lo4WHKm4jR3QmmM0.jpg",
+      "release_date": "2025-02-07",
+      "title": "Kidnapping Inc.",
+      "video": false,
+      "vote_average": 7.75,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWJPW8Z2fZr9vmBzqlLh2o5vOac.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 109843,
+      "original_language": "en",
+      "original_title": "Ill Manors",
+      "overview": "Ensemble film revolving around characters living in Forest Gate, London. Over the course of a few days, six inter-linking stories explore issues of drug use, prostitution and urban poverty.",
+      "popularity": 8.4936,
+      "poster_path": "/qhN0X6sDUalPxoNRfuUIBR6QmSO.jpg",
+      "release_date": "2012-06-06",
+      "title": "Ill Manors",
+      "video": false,
+      "vote_average": 6.293,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uQ5xARQz6BiKlppKCBnKmkfW76m.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 13455,
+      "original_language": "en",
+      "original_title": "Push",
+      "overview": "After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.",
+      "popularity": 13.0263,
+      "poster_path": "/fHStfRjQGstuqtUz4Q22lbFU58M.jpg",
+      "release_date": "2009-02-04",
+      "title": "Push",
+      "video": false,
+      "vote_average": 6.145,
+      "vote_count": 2359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dHoRIZJgwA26zE5WKyEazKUoZAZ.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 1328402,
+      "original_language": "en",
+      "original_title": "The People In The Walls",
+      "overview": "A viral ritual allows three kids to conjure people from the walls as they must now try to put them back before it is too late.",
+      "popularity": 11.5972,
+      "poster_path": "/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg",
+      "release_date": "2024-08-01",
+      "title": "The People In The Walls",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 1357886,
+      "original_language": "it",
+      "original_title": "Django Undisputed",
+      "overview": "Determined to exact his justice, Django faces dangerous challenges and bloody clashes to restore order in a territory dominated by lawlessness and injustice.",
+      "popularity": 13.6314,
+      "poster_path": "/porcUhC4jqFt72TaxbjOQo2lTzL.jpg",
+      "release_date": "2024-04-22",
+      "title": "Django Undisputed",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19913,
+      "original_language": "en",
+      "original_title": "(500) Days of Summer",
+      "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+      "popularity": 11.1158,
+      "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "release_date": "2009-07-17",
+      "title": "(500) Days of Summer",
+      "video": false,
+      "vote_average": 7.297,
+      "vote_count": 10711
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cJb3cXT8Zx3VdXTKDyR3O5SbVKv.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 13313,
+      "original_language": "en",
+      "original_title": "Beauty and the Beast: The Enchanted Christmas",
+      "overview": "Astonished to find the Beast has a deep-seeded hatred for the Christmas season, Belle endeavors to change his mind on the matter.",
+      "popularity": 12.4333,
+      "poster_path": "/l1Tb0fvnj9wnCgm5qnTRoO6OxDT.jpg",
+      "release_date": "1997-11-11",
+      "title": "Beauty and the Beast: The Enchanted Christmas",
+      "video": false,
+      "vote_average": 6.224,
+      "vote_count": 1072
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8GWfHRApMYUQl1JSX1drAMs5aY1.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 13186,
+      "original_language": "en",
+      "original_title": "Wrong Turn 2: Dead End",
+      "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+      "popularity": 12.3726,
+      "poster_path": "/yd3RMKUmeNQusDsQ3G8LyreAr0O.jpg",
+      "release_date": "2007-08-25",
+      "title": "Wrong Turn 2: Dead End",
+      "video": false,
+      "vote_average": 6.137,
+      "vote_count": 1483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/umaoScaCsfl9g2dyrXrvMPp59Q7.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 280,
+      "original_language": "en",
+      "original_title": "Terminator 2: Judgment Day",
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "popularity": 12.7716,
+      "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "release_date": "1991-07-03",
+      "title": "Terminator 2: Judgment Day",
+      "video": false,
+      "vote_average": 8.136,
+      "vote_count": 13748
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wYn0trzWTOMKuUZek6E5y5pQc8u.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 803512,
+      "original_language": "en",
+      "original_title": "AEW Revolution 2021: The Buy In",
+      "overview": "All Elite Wrestling's preshow event for the second annual Revolution, held at Daily's Place in Jacksonville, Florida.",
+      "popularity": 10.0943,
+      "poster_path": "/iLyxZYN0tzqJAcB8WuJtxlkR2eb.jpg",
+      "release_date": "2021-03-07",
+      "title": "AEW Revolution 2021: The Buy In",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s4EPSbpbnf20oWq64lKRn28Yx7J.jpg",
+      "genre_ids": [
+        878
+      ],
+      "id": 1003596,
+      "original_language": "en",
+      "original_title": "Avengers: Doomsday",
+      "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+      "popularity": 12.8552,
+      "poster_path": "/6eB2oh1SplddsZYCdayrIdrIGLd.jpg",
+      "release_date": "2026-12-16",
+      "title": "Avengers: Doomsday",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/akNBILfG0vh7WhuzjA1bXfrgpYI.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 49040,
+      "original_language": "en",
+      "original_title": "The Bourne Legacy",
+      "overview": "New CIA operative Aaron Cross experiences life-or-death stakes that have been triggered by the previous actions of Jason Bourne.",
+      "popularity": 17.3915,
+      "poster_path": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "release_date": "2012-08-08",
+      "title": "The Bourne Legacy",
+      "video": false,
+      "vote_average": 6.239,
+      "vote_count": 5940
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 18240,
+      "original_language": "en",
+      "original_title": "The Proposal",
+      "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+      "popularity": 12.875,
+      "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+      "release_date": "2009-06-02",
+      "title": "The Proposal",
+      "video": false,
+      "vote_average": 7.151,
+      "vote_count": 7242
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 953,
+      "original_language": "en",
+      "original_title": "Madagascar",
+      "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+      "popularity": 13.5054,
+      "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+      "release_date": "2005-05-25",
+      "title": "Madagascar",
+      "video": false,
+      "vote_average": 6.917,
+      "vote_count": 11383
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3TGC9VU0xH8wBTANogv7eQiEIYy.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 982389,
+      "original_language": "de",
+      "original_title": "Und dann steht einer auf und öffnet das Fenster",
+      "overview": "Karla, a strong, sensual and experienced woman, learns that she has terminal cancer. She only has a few months left. After a wild life as a photographer of music bands, full of touring, joints and rock 'n' roll, the woman in her mid-sixties has no desire for sentimentality. She wants to be left alone with her fate and plans a dignified exit. She refuses the help of voluntary euthanasia assistant Fred, a single-parent traffic planner who always means well. But Fred's son Phil, a shy teenager with a great sense of poetry, manages to get in touch with the terminally ill artist. He is allowed to archive their concert photos for posterity - and in the process gets to know the funky student Rona. As Fred, Phil and Karla open up to each other, a wonderful friendship develops. While father and son initially believed that they would accompany Karla when she died, the opposite suddenly happened: they both learned to live from her",
+      "popularity": 8.6412,
+      "poster_path": "/pwOcdTwnGdaf7dmAnP9Dnxrwtdc.jpg",
+      "release_date": "2022-08-31",
+      "title": "Und dann steht einer auf und öffnet das Fenster",
+      "video": false,
+      "vote_average": 6.875,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg",
+      "genre_ids": [
+        35,
+        12,
+        80
+      ],
+      "id": 1137350,
+      "original_language": "en",
+      "original_title": "The Phoenician Scheme",
+      "overview": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins.",
+      "popularity": 14.0769,
+      "poster_path": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "release_date": "2025-05-23",
+      "title": "The Phoenician Scheme",
+      "video": false,
+      "vote_average": 6.63,
+      "vote_count": 650
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oeEiUwvqHxWT0XqD3YlViaiJOVD.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 64690,
+      "original_language": "en",
+      "original_title": "Drive",
+      "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+      "popularity": 14.0681,
+      "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "release_date": "2011-09-15",
+      "title": "Drive",
+      "video": false,
+      "vote_average": 7.583,
+      "vote_count": 13223
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 816073,
+      "original_language": "es",
+      "original_title": "El Corrido del Hijo de su P' Madre",
+      "overview": "",
+      "popularity": 9.0043,
+      "poster_path": "/jEXgW0V9tfmdTDexQw5F4B4U6Z2.jpg",
+      "release_date": "2004-12-31",
+      "title": "El Corrido del Hijo de su P' Madre",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 756999,
+      "original_language": "en",
+      "original_title": "The Black Phone",
+      "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
+      "popularity": 12.9129,
+      "poster_path": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+      "release_date": "2022-06-16",
+      "title": "The Black Phone",
+      "video": false,
+      "vote_average": 7.546,
+      "vote_count": 5545
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

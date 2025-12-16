@@ -1,0 +1,390 @@
+{
+  "page": 26,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tTX4QYB7fMSlv8tDpAYW4G7Zvfh.jpg",
+      "genre_ids": [
+        10751
+      ],
+      "id": 77267,
+      "original_language": "nl",
+      "original_title": "Sinterklaas: Het Pakjes Mysterie",
+      "overview": "Sinterklaas wants to be absolutely sure that all the presents will be delivered on time. To make that happen, he has come up with a clever plan: a secret gift storage facility in the Netherlands! Months before the official arrival, he secretly goes to check how things are going. But when he arrives, he gets the shock of his life: there are no presents at all! The Piets have received false instructions, and the arrival ceremony has been mysteriously canceled. Someone is pretending to be Sinterklaas — but who…?",
+      "popularity": 10.3008,
+      "poster_path": "/o15PoJk6ZoqttEdoyYktPcXm3PD.jpg",
+      "release_date": "2010-10-13",
+      "title": "Sinterklaas: The Mystery Of The Presents",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7OwZxXuLPtCFjdqJdiTuEE1DE4J.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 1230368,
+      "original_language": "en",
+      "original_title": "Springsteen: Deliver Me from Nowhere",
+      "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+      "popularity": 12.5664,
+      "poster_path": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "release_date": "2025-10-22",
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "video": false,
+      "vote_average": 7.034,
+      "vote_count": 117
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+      "popularity": 14.8555,
+      "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "release_date": "2019-06-28",
+      "title": "Spider-Man: Far From Home",
+      "video": false,
+      "vote_average": 7.399,
+      "vote_count": 16501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fBlzTwgtbDYkDKlhnPu69jHfVGy.jpg",
+      "genre_ids": [
+        27,
+        10749
+      ],
+      "id": 1242011,
+      "original_language": "en",
+      "original_title": "Together",
+      "overview": "With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh.",
+      "popularity": 13.2751,
+      "poster_path": "/m52XidzKx94bKlToZfEXUnL3pdy.jpg",
+      "release_date": "2025-07-28",
+      "title": "Together",
+      "video": false,
+      "vote_average": 7.105,
+      "vote_count": 746
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1079485,
+      "original_language": "en",
+      "original_title": "Winnie-the-Pooh: Blood and Honey 2",
+      "overview": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
+      "popularity": 9.4309,
+      "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+      "release_date": "2024-03-26",
+      "title": "Winnie-the-Pooh: Blood and Honey 2",
+      "video": false,
+      "vote_average": 5.861,
+      "vote_count": 433
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 70,
+      "original_language": "en",
+      "original_title": "Million Dollar Baby",
+      "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+      "popularity": 10.3573,
+      "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+      "release_date": "2004-12-05",
+      "title": "Million Dollar Baby",
+      "video": false,
+      "vote_average": 7.954,
+      "vote_count": 10080
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 49521,
+      "original_language": "en",
+      "original_title": "Man of Steel",
+      "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+      "popularity": 14.1525,
+      "poster_path": "/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
+      "release_date": "2013-06-12",
+      "title": "Man of Steel",
+      "video": false,
+      "vote_average": 6.64,
+      "vote_count": 15806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9UTtkDubZJ7KolXtpMds9guAk0z.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 605928,
+      "original_language": "en",
+      "original_title": "The Power of the Present",
+      "overview": "Exploring the history of the 'Power Rangers' franchise, casting, special effects and music.",
+      "popularity": 12.0465,
+      "poster_path": "/935rKaSrvVvjjmdL0a1fnyVSg1W.jpg",
+      "release_date": "2017-06-27",
+      "title": "The Power of the Present",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 264660,
+      "original_language": "en",
+      "original_title": "Ex Machina",
+      "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+      "popularity": 13.0797,
+      "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "release_date": "2015-01-21",
+      "title": "Ex Machina",
+      "video": false,
+      "vote_average": 7.572,
+      "vote_count": 13871
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g6X2pS2L5aszT2pDaqSuPHl68WW.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 24619,
+      "original_language": "en",
+      "original_title": "Blind Horizon",
+      "overview": "Left for dead in the remote Southwest, Frank is found clinging to life and in a state of amnesia. As he recovers, ominous memories begin to flash back...",
+      "popularity": 11.6523,
+      "poster_path": "/gmEHqjdjPiFFZnXq0nNV3VUXLS4.jpg",
+      "release_date": "2003-12-14",
+      "title": "Blind Horizon",
+      "video": false,
+      "vote_average": 5.644,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+      "genre_ids": [
+        878,
+        53,
+        9648,
+        28
+      ],
+      "id": 406990,
+      "original_language": "en",
+      "original_title": "What Happened to Monday",
+      "overview": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+      "popularity": 10.2466,
+      "poster_path": "/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+      "release_date": "2017-08-18",
+      "title": "What Happened to Monday",
+      "video": false,
+      "vote_average": 7.155,
+      "vote_count": 6305
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 1114967,
+      "original_language": "en",
+      "original_title": "Good Fortune",
+      "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+      "popularity": 12.5497,
+      "poster_path": "/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
+      "release_date": "2025-10-14",
+      "title": "Good Fortune",
+      "video": false,
+      "vote_average": 7.057,
+      "vote_count": 317
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 298618,
+      "original_language": "en",
+      "original_title": "The Flash",
+      "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "popularity": 12.7844,
+      "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "release_date": "2023-06-13",
+      "title": "The Flash",
+      "video": false,
+      "vote_average": 6.623,
+      "vote_count": 4787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12,
+        28
+      ],
+      "id": 839033,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The War of the Rohirrim",
+      "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+      "popularity": 11.3273,
+      "poster_path": "/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",
+      "release_date": "2024-12-05",
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tOkeJG8RVxWTxKoaiOklauFxGNe.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 323555,
+      "original_language": "en",
+      "original_title": "That Gal...Who Was in That Thing: That Guy 2",
+      "overview": "Actresses talk about their personal lives and dealing with a balance between family responsibilities and being a professional actor.",
+      "popularity": 6.829,
+      "poster_path": "/1SlPtV8C4OvdWaXEkOpVQSC2XVA.jpg",
+      "release_date": "2015-03-07",
+      "title": "That Gal...Who Was in That Thing: That Guy 2",
+      "video": false,
+      "vote_average": 6.667,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 209112,
+      "original_language": "en",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+      "popularity": 14.257,
+      "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "release_date": "2016-03-23",
+      "title": "Batman v Superman: Dawn of Justice",
+      "video": false,
+      "vote_average": 5.988,
+      "vote_count": 18624
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3KmutBzJ0dhfHOE7H6stdAi2HWg.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 457749,
+      "original_language": "sv",
+      "original_title": "Utan tvivel är man inte klok",
+      "overview": "A Documentary about the Swedish Comedian Tage Danielsson.  He was one member of the \"Hasse & Tage\" duo, the other beeing Hasse Alfredsson.  He was also a writer and an Actor.",
+      "popularity": 13.216,
+      "poster_path": "/n5QuCeIyhAwk9OuwEDSFRDEhnd0.jpg",
+      "release_date": "1995-10-13",
+      "title": "Utan tvivel är man inte klok",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 9769,
+      "original_language": "en",
+      "original_title": "Lolita",
+      "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+      "popularity": 12.9457,
+      "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+      "release_date": "1997-09-27",
+      "title": "Lolita",
+      "video": false,
+      "vote_average": 7.115,
+      "vote_count": 1903
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h4HSZjOeAoHQ3qPuy6x9Cyr69bS.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1267905,
+      "original_language": "en",
+      "original_title": "The Roses",
+      "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+      "popularity": 12.2729,
+      "poster_path": "/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
+      "release_date": "2025-08-27",
+      "title": "The Roses",
+      "video": false,
+      "vote_average": 6.708,
+      "vote_count": 426
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+      "genre_ids": [
+        10749,
+        10751,
+        16,
+        14
+      ],
+      "id": 10020,
+      "original_language": "en",
+      "original_title": "Beauty and the Beast",
+      "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+      "popularity": 11.7745,
+      "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "release_date": "1991-10-22",
+      "title": "Beauty and the Beast",
+      "video": false,
+      "vote_average": 7.728,
+      "vote_count": 10396
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

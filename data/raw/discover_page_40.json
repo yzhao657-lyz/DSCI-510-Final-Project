@@ -1,0 +1,397 @@
+{
+  "page": 40,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        18
+      ],
+      "id": 1333100,
+      "original_language": "ja",
+      "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+      "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+      "popularity": 11.4864,
+      "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+      "release_date": "2024-11-08",
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "video": false,
+      "vote_average": 8.757,
+      "vote_count": 136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 335983,
+      "original_language": "en",
+      "original_title": "Venom",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "popularity": 8.9749,
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "release_date": "2018-09-28",
+      "title": "Venom",
+      "video": false,
+      "vote_average": 6.827,
+      "vote_count": 16876
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 1446551,
+      "original_language": "it",
+      "original_title": "Morte di una ragazza perbene",
+      "overview": "",
+      "popularity": 7.0773,
+      "poster_path": null,
+      "release_date": "1999-11-08",
+      "title": "Morte di una ragazza perbene",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 509670,
+      "original_language": "pt",
+      "original_title": "Banda de Ipanema — Folia de Albino",
+      "overview": "A movie about Banda de Ipanema, one of Rio de Janeiro’s most traditional Carnaval blocks, and its founder Albino Pinheiro.",
+      "popularity": 7.0396,
+      "poster_path": "/AidnM9bpPXQhXRiYtAH3kyfYwtG.jpg",
+      "release_date": "2002-01-01",
+      "title": "Banda de Ipanema — Folia de Albino",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 299054,
+      "original_language": "en",
+      "original_title": "Expend4bles",
+      "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+      "popularity": 11.3968,
+      "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+      "release_date": "2023-09-15",
+      "title": "Expend4bles",
+      "video": false,
+      "vote_average": 6.087,
+      "vote_count": 1779
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 194,
+      "original_language": "fr",
+      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+      "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+      "popularity": 10.3831,
+      "poster_path": "/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
+      "release_date": "2001-04-25",
+      "title": "Amélie",
+      "video": false,
+      "vote_average": 7.913,
+      "vote_count": 12050
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fyS2H53KXDIllbjLMx6yKWog1Ce.jpg",
+      "genre_ids": [
+        10770,
+        18
+      ],
+      "id": 1319477,
+      "original_language": "de",
+      "original_title": "Ein Zimmer für Papa",
+      "overview": "Jonas, a sales professional from Frankfurt, finds the best solution to every problem at work. In his private life, however, there is something that can still be optimized: being a father! When his daughter Laila, who is growing up with her mother Shari in Hamburg, demands more time and closeness from him, he has to readjust his life, much to the chagrin of his girlfriend Kim.",
+      "popularity": 9.5446,
+      "poster_path": null,
+      "release_date": "2024-10-09",
+      "title": "Ein Zimmer für Papa",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/FPsLeZ6ozmeMXrA0V4KoBlUGbG.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 73585,
+      "original_language": "fr",
+      "original_title": "Mon père est femme de ménage",
+      "overview": "Polo is 16 and has all the worries of a teenager his age. Between a bedridden mother and a sister who dreams of being a Miss, the only one he can look up to is his father. Unfortunately, he works as a maid ...",
+      "popularity": 10.7053,
+      "poster_path": "/ucgYdtaZsCbUFP1JpOjpuX2yduZ.jpg",
+      "release_date": "2011-04-13",
+      "title": "My Father Is a Cleaning Lady",
+      "video": false,
+      "vote_average": 5.432,
+      "vote_count": 37
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+      "genre_ids": [
+        80,
+        35,
+        18,
+        36
+      ],
+      "id": 487558,
+      "original_language": "en",
+      "original_title": "BlacKkKlansman",
+      "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+      "popularity": 6.9014,
+      "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "release_date": "2018-08-09",
+      "title": "BlacKkKlansman",
+      "video": false,
+      "vote_average": 7.492,
+      "vote_count": 7884
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        18
+      ],
+      "id": 293863,
+      "original_language": "en",
+      "original_title": "The Age of Adaline",
+      "overview": "After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.",
+      "popularity": 10.0294,
+      "poster_path": "/MbILysGhjAbnZi1Okae9wYqLMx.jpg",
+      "release_date": "2015-04-16",
+      "title": "The Age of Adaline",
+      "video": false,
+      "vote_average": 7.477,
+      "vote_count": 6951
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1724,
+      "original_language": "en",
+      "original_title": "The Incredible Hulk",
+      "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+      "popularity": 11.6718,
+      "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "release_date": "2008-06-12",
+      "title": "The Incredible Hulk",
+      "video": false,
+      "vote_average": 6.227,
+      "vote_count": 12363
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l6ylNrKhLberlgaLQr4VQXXc6PU.jpg",
+      "genre_ids": [
+        36,
+        80,
+        18
+      ],
+      "id": 1250508,
+      "original_language": "ta",
+      "original_title": "காந்தா",
+      "overview": "Set in the backdrop of a film set, in the 1950’s in post colonial Madras, the film is centred around the professional rivalry between a film-maker trying to make his seminal film and the top reigning actor who the director once introduced. The rivalry spirals around the leading actress, a debutante and as the relationship between the three.",
+      "popularity": 10.8486,
+      "poster_path": "/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
+      "release_date": "2025-11-13",
+      "title": "Kaantha",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 559969,
+      "original_language": "en",
+      "original_title": "El Camino: A Breaking Bad Movie",
+      "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+      "popularity": 9.7542,
+      "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+      "release_date": "2019-10-11",
+      "title": "El Camino: A Breaking Bad Movie",
+      "video": false,
+      "vote_average": 7.044,
+      "vote_count": 5411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fiSlTGaaQsktasb5ySYGFe6DpaO.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 472918,
+      "original_language": "id",
+      "original_title": "Wiro Sableng: Pendekar Kapak Maut Naga Geni 212",
+      "overview": "After being trained in the art of silat, a disciple gets sent on a journey by his mentor to take down a treacherous e-pupil with a villainous plan.",
+      "popularity": 7.4782,
+      "poster_path": "/3BxLdpoTZpuwcd8LYXSvBOzddi3.jpg",
+      "release_date": "2018-08-30",
+      "title": "Wiro Sableng: 212 Warrior",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1432046,
+      "original_language": "ko",
+      "original_title": "남친깨기전에빨리빼!",
+      "overview": "",
+      "popularity": 10.8245,
+      "poster_path": "/g0NN2e7WXekSGFyjtf4fTLEsOEh.jpg",
+      "release_date": "2021-03-07",
+      "title": "남친깨기전에빨리빼!",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AePlQ3osZShJmbNj8tzQ3NoMTQF.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1013446,
+      "original_language": "fr",
+      "original_title": "Reflet dans un diamant mort",
+      "overview": "When the mysterious woman in the room next door disappears, a debonair 70-year-old ex-spy living in a luxury hotel on the Côte d'Azur is confronted by the demons and darlings of a lurid past in which moviemaking, memories and madness collide.",
+      "popularity": 7.9262,
+      "poster_path": "/5CdRxBu7jRDHjthkAL8vE0GdKUD.jpg",
+      "release_date": "2025-06-25",
+      "title": "Reflection in a Dead Diamond",
+      "video": false,
+      "vote_average": 5.907,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5xgxXZ9C8KZDg0xWbk6rX0XcO9T.jpg",
+      "genre_ids": [
+        28,
+        27,
+        10749
+      ],
+      "id": 986206,
+      "original_language": "fr",
+      "original_title": "Night Carnage",
+      "overview": "A blogger who is also a werewolf meets a dashing playboy with a dark secret of his own. Starring Logan Andrews and Christian Howard.",
+      "popularity": 11.2612,
+      "poster_path": "/w0wjPQKhlqisSbylf1sWZiNyc2h.jpg",
+      "release_date": "2025-07-29",
+      "title": "Night Carnage",
+      "video": false,
+      "vote_average": 5.82,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dTDETgmTPeEbnI3cwfQhTETgygv.jpg",
+      "genre_ids": [
+        27,
+        878,
+        9648,
+        18
+      ],
+      "id": 9682,
+      "original_language": "en",
+      "original_title": "Pulse",
+      "overview": "When the dead discover a means to contact the living through electronic devices, cellphones and computers become open gateways to monstrosities and destruction.",
+      "popularity": 9.2648,
+      "poster_path": "/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+      "release_date": "2006-08-11",
+      "title": "Pulse",
+      "video": false,
+      "vote_average": 5.061,
+      "vote_count": 566
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pQOvz2IGfzzYR6BvmFfxT9t9A91.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 643216,
+      "original_language": "fr",
+      "original_title": "Le neveu",
+      "overview": "Burgundy, France, end of 1945. On the day of his 15th birthday, Louis receives a very special gift from his uncle Jules, who decides to take his nephew to his favorite brothel in an attempt to let him explore his new life as a grown-up man. Through the evening’s bittersweet encounters, Louis discovers the adult world in all its complexity and cruelty.",
+      "popularity": 12.6107,
+      "poster_path": "/vTnlGqJLNVInSYSccPQpoEYMlGO.jpg",
+      "release_date": "2018-06-03",
+      "title": "The Nephew",
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ojlXbuOWrZ1MK3eD9AkiEBQhsI.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "id": 26809,
+      "original_language": "en",
+      "original_title": "Prep & Landing",
+      "overview": "Wayne gets a new rookie partner, Lanny, after his previous partner got the promotion he wanted. Lanny has to remind Wayne of the Spirit of Christmas and the importance of being an elf in Santa's Prep and Landing elite unit.",
+      "popularity": 9.4153,
+      "poster_path": "/jl4UZyUA1xPFZMYWYJ4ZzuccW7Q.jpg",
+      "release_date": "2009-12-24",
+      "title": "Prep & Landing",
+      "video": false,
+      "vote_average": 6.89,
+      "vote_count": 141
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

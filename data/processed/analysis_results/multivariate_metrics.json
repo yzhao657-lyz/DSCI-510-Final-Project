@@ -1,0 +1,15 @@
+{
+  "model": "LinearRegression(features -> log_revenue)",
+  "features": [
+    "budget",
+    "popularity",
+    "vote_average",
+    "vote_count",
+    "movie_age",
+    "release_month",
+    "director_encoded"
+  ],
+  "r2": 0.34907688634650147,
+  "rmse": 4.613196924544443,
+  "n": 499
+}

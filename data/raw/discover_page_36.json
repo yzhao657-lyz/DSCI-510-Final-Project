@@ -1,0 +1,390 @@
+{
+  "page": 36,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 167426,
+      "original_language": "es",
+      "original_title": "Y decirte alguna estupidez, por ejemplo, te quiero",
+      "overview": "The adventures of a group of secondary school . Juan, one of the group, falls in love with Sara, the new girl.",
+      "popularity": 11.4323,
+      "poster_path": "/aJfo2TGjFGSb9s8kyWhAr3ZUy70.jpg",
+      "release_date": "2000-11-24",
+      "title": "Y decirte alguna estupidez, por ejemplo, te quiero",
+      "video": false,
+      "vote_average": 2.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mfP8XBN3qyXVmqH4YfDnUBA1y1j.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 267806,
+      "original_language": "en",
+      "original_title": "V/H/S: Viral",
+      "overview": "As the streets of Los Angeles overflow with camera-wielding gawkers seeking to capture images of a bizarre police pursuit, the same people who sought to exploit the suffering of others for amusement on the Internet become the stars of a gruesome viral video from which no one gets out alive.",
+      "popularity": 8.3341,
+      "poster_path": "/aiowPXtxPMTG1RBL03CX38cafrQ.jpg",
+      "release_date": "2014-11-21",
+      "title": "V/H/S: Viral",
+      "video": false,
+      "vote_average": 4.844,
+      "vote_count": 671
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 126108,
+      "original_language": "fr",
+      "original_title": "Léo, en jouant « Dans la compagnie des hommes »",
+      "overview": "A troupe of actors rehearse a play. In the play-within-the-film, an ambitious son and his distant father fight for control of an armaments firm and are pushed to eventual destruction by dangerous outside forces and traitorous aides.",
+      "popularity": 13.3789,
+      "poster_path": "/yuv24cZRCIYz5kLBf5pyrZxI2Cv.jpg",
+      "release_date": "2003-05-15",
+      "title": "Playing 'In the Company of Men'",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z4nKeZpPCrTifS6pzzK8vNleADl.jpg",
+      "genre_ids": [
+        14,
+        28,
+        9648
+      ],
+      "id": 123553,
+      "original_language": "en",
+      "original_title": "The Mortal Instruments: City of Bones",
+      "overview": "In New York City, Clary Fray, a seemingly ordinary teenager, learns that she is descended from a line of Shadowhunters — half-angel warriors who protect humanity from evil forces. After her mother disappears, Clary joins forces with a group of Shadowhunters and enters Downworld, an alternate realm filled with demons, vampires, and a host of other creatures. Clary and her companions must find and protect an ancient cup that holds the key to her mother's future.",
+      "popularity": 11.5255,
+      "poster_path": "/zaK1aVn5vXfNwLIDop9U8XA3Q0x.jpg",
+      "release_date": "2013-08-21",
+      "title": "The Mortal Instruments: City of Bones",
+      "video": false,
+      "vote_average": 6.436,
+      "vote_count": 4568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xEd4sKtyCtm0bnbIwXgWuqZePpl.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 33217,
+      "original_language": "en",
+      "original_title": "Diary of a Wimpy Kid",
+      "overview": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
+      "popularity": 11.1108,
+      "poster_path": "/iLAGiPnSuODt9cn332bkFElrRig.jpg",
+      "release_date": "2010-03-19",
+      "title": "Diary of a Wimpy Kid",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 1711
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nZsKWhwhUL3Eg88SkIaJjuIZzpN.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "id": 1319895,
+      "original_language": "en",
+      "original_title": "Hostile Takeover",
+      "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+      "popularity": 11.5741,
+      "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+      "release_date": "2025-08-08",
+      "title": "Hostile Takeover",
+      "video": false,
+      "vote_average": 7.147,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 1271142,
+      "original_language": "de",
+      "original_title": "Der Amsterdam-Krimi: Das Mädchen ohne Namen",
+      "overview": "",
+      "popularity": 14.1107,
+      "poster_path": "/tCRjme0JY4Tiyhi9fHS2wwzI4Ko.jpg",
+      "release_date": "2022-03-17",
+      "title": "Amsterdam Undercover: The Girl Without a Name",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+      "genre_ids": [
+        28,
+        14,
+        27
+      ],
+      "id": 957452,
+      "original_language": "en",
+      "original_title": "The Crow",
+      "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
+      "popularity": 10.4023,
+      "poster_path": "/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+      "release_date": "2024-08-21",
+      "title": "The Crow",
+      "video": false,
+      "vote_average": 5.803,
+      "vote_count": 1173
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aLBrmLBvN25OmCvr488CkM9XYm7.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 391713,
+      "original_language": "en",
+      "original_title": "Lady Bird",
+      "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+      "popularity": 12.5125,
+      "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "release_date": "2017-09-01",
+      "title": "Lady Bird",
+      "video": false,
+      "vote_average": 7.254,
+      "vote_count": 8840
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w9G2h2KIptzW7Nln7RZBlIuqROM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1437256,
+      "original_language": "ko",
+      "original_title": "죽기 전에 한 번만",
+      "overview": "",
+      "popularity": 8.8609,
+      "poster_path": "/skQF6XxzJcsU3cVB0tY8KvcC0qU.jpg",
+      "release_date": "2025-02-14",
+      "title": "죽기 전에 한 번만",
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9pWJnd9jneXRkjOnpHCLN41Bse5.jpg",
+      "genre_ids": [
+        28,
+        9648
+      ],
+      "id": 1339149,
+      "original_language": "zh",
+      "original_title": "怒火十二小时",
+      "overview": "A retired Chinese soldier, Lei Jun, finds himself in a race against time when a terrorist attack targets a Chinese community abroad. With only 12 hours to act, he must summon all his strength and courage to protect his fellow citizens and survive the dire situation.",
+      "popularity": 11.5547,
+      "poster_path": "/c2ZtLl1EATKymqUlmNYFdI817tn.jpg",
+      "release_date": "2024-08-28",
+      "title": "Fury 12 Hours",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749,
+        10752
+      ],
+      "id": 70467,
+      "original_language": "de",
+      "original_title": "Trenck - Zwei Herzen gegen die Krone",
+      "overview": "Prussian general's son Friedrich, Freiherr (German baron) von der Trenck, is an unruly student whose countless affairs make him enemies, but he wins every duel. Frederic II the Great recruits him for his personal bodyguard. During his cadet training under the cruel stickler Graf (count) von Jaschinsky Friedrich falls in love with the king's headstrong oldest sister Amalia. She, however, refuses to be married off the the Swedish king's heir. When Prussia makes war on Austria over Silesia, Trenck's loyalty is dubious on account of an Austrian family branch. Janischky eagerly convinces the king there is more.",
+      "popularity": 7.262,
+      "poster_path": "/972wAGsZcUthh3KAh9hY1Pj6ZxU.jpg",
+      "release_date": "2003-02-09",
+      "title": "Trenck - Zwei Herzen gegen die Krone",
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/re0MiO6ypYwdgfBfUUv4Sykmd2s.jpg",
+      "genre_ids": [
+        35,
+        10770
+      ],
+      "id": 907393,
+      "original_language": "en",
+      "original_title": "Live in Front of a Studio Audience: The Facts of Life and Diff'rent Strokes",
+      "overview": "The live special event features reenactments of episodes from “The Facts of Life” and “Diff’rent Strokes”.",
+      "popularity": 7.0908,
+      "poster_path": "/vV84nbqgdRmrVKCjGzwLp4mZo1j.jpg",
+      "release_date": "2021-12-07",
+      "title": "Live in Front of a Studio Audience: The Facts of Life and Diff'rent Strokes",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Gr2PsYMsnBtmtAeA8onU6OSrjd.jpg",
+      "genre_ids": [
+        10770,
+        80,
+        18
+      ],
+      "id": 373332,
+      "original_language": "de",
+      "original_title": "Wenn du wüsstest, wie schön es hier ist",
+      "overview": "The 16-year-old daughter of the highest dignitary in Hüttenberg is found murdered in the disused mine. For the first time, Muck has to deal with a case of this magnitude.",
+      "popularity": 6.1148,
+      "poster_path": "/ginvk50ekpl2zdcTrlBTODpRSdN.jpg",
+      "release_date": "2015-03-19",
+      "title": "Wenn du wüsstest, wie schön es hier ist",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 300668,
+      "original_language": "en",
+      "original_title": "Annihilation",
+      "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+      "popularity": 7.6225,
+      "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "release_date": "2018-02-22",
+      "title": "Annihilation",
+      "video": false,
+      "vote_average": 6.436,
+      "vote_count": 9105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p5HKeRbNRTZL2tvFhmXF8oVL1y6.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 50544,
+      "original_language": "en",
+      "original_title": "Friends with Benefits",
+      "overview": "Dylan is done with relationships. Jamie decides to stop buying into the Hollywood clichés of true love. When the two become friends they decide to try something new and take advantage of their mutual attraction - but without any emotional attachment.",
+      "popularity": 11.0068,
+      "poster_path": "/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
+      "release_date": "2011-07-21",
+      "title": "Friends with Benefits",
+      "video": false,
+      "vote_average": 6.65,
+      "vote_count": 8227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8BfXvZio7fB1FFWqB2Oz6tbi3ZX.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1244039,
+      "original_language": "en",
+      "original_title": "Butchers Book Two: Raghorn",
+      "overview": "Book one followed a family of sadistic butchers, living in the backcountry, who see anyone that crosses their path as dead meat. In “Butchers Book Two: Raghorn,” the story continues when an accident leaves the captors in the hands of brutal cannibals who plan to hack them up for meat.",
+      "popularity": 12.5588,
+      "poster_path": "/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg",
+      "release_date": "2024-02-29",
+      "title": "Butchers Book Two: Raghorn",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 300201,
+      "original_language": "de",
+      "original_title": "Ein ganzer Kerl für Mama",
+      "overview": "By a stupid coincidence, single mother Tanja and her two children have to share their vacation home on the Cote d'Azur with the writer Paul Wackernagel. A pure battle of the sexes breaks out between the author of chauvinistic advice books for suffering men and the divorce lawyer.",
+      "popularity": 7.6937,
+      "poster_path": "/dhY3U5syhaZqROYGEV5ksUsazhb.jpg",
+      "release_date": "2002-10-08",
+      "title": "Ein ganzer Kerl für Mama",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 400160,
+      "original_language": "en",
+      "original_title": "The SpongeBob Movie: Sponge on the Run",
+      "overview": "When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.",
+      "popularity": 11.9586,
+      "poster_path": "/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
+      "release_date": "2020-08-14",
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "video": false,
+      "vote_average": 7.422,
+      "vote_count": 2925
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sKbMaVwz1Skgleb2kFC49MEQKbS.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 478899,
+      "original_language": "en",
+      "original_title": "Glyndebourne Live: Il barbiere di Siviglia",
+      "overview": "Figaro uses every trick he can muster to outwit Dr Bartolo and ensure his master wins his chosen bride. He meets his match in the would-be-bride Rosina, who has schemes of her own.  Glyndebourne favourite Danielle de Niese adds the crafty Rosina to her growing list of bel canto heroines.  Directed by Annabel Arden with playful energy springing from Rossini’s joyous music, this new production heralds the welcome return of a masterpiece not seen at Glyndebourne Festival since 1982.",
+      "popularity": 7.3043,
+      "poster_path": "/cmcqcllqiiSgayUekcYVzMDxBqg.jpg",
+      "release_date": "2016-06-21",
+      "title": "Glyndebourne Live: Il barbiere di Siviglia",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

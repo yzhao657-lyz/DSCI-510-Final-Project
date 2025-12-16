@@ -1,0 +1,399 @@
+{
+  "page": 33,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 10195,
+      "original_language": "en",
+      "original_title": "Thor",
+      "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+      "popularity": 12.7227,
+      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "release_date": "2011-04-21",
+      "title": "Thor",
+      "video": false,
+      "vote_average": 6.769,
+      "vote_count": 21905
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oU0lGpUukjNOgZeuIqueNM3QiBE.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10751
+      ],
+      "id": 10510,
+      "original_language": "en",
+      "original_title": "Miracle on 34th Street",
+      "overview": "Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in.",
+      "popularity": 10.0997,
+      "poster_path": "/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg",
+      "release_date": "1994-11-18",
+      "title": "Miracle on 34th Street",
+      "video": false,
+      "vote_average": 6.744,
+      "vote_count": 1103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mXFmGlMCgTIOyHaGmQG1Hb6Rv2m.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 36557,
+      "original_language": "en",
+      "original_title": "Casino Royale",
+      "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+      "popularity": 13.3276,
+      "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "release_date": "2006-11-14",
+      "title": "Casino Royale",
+      "video": false,
+      "vote_average": 7.567,
+      "vote_count": 11301
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 127585,
+      "original_language": "en",
+      "original_title": "X-Men: Days of Future Past",
+      "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+      "popularity": 11.9221,
+      "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "release_date": "2014-05-15",
+      "title": "X-Men: Days of Future Past",
+      "video": false,
+      "vote_average": 7.527,
+      "vote_count": 15906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gdxYE9xSutccbpIBlyB4F7pl0gA.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1299655,
+      "original_language": "en",
+      "original_title": "Blue Moon",
+      "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator Richard Rodgers celebrates the opening night of his ground-breaking hit musical “Oklahoma!”.",
+      "popularity": 10.8864,
+      "poster_path": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+      "release_date": "2025-10-17",
+      "title": "Blue Moon",
+      "video": false,
+      "vote_average": 6.875,
+      "vote_count": 76
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 863,
+      "original_language": "en",
+      "original_title": "Toy Story 2",
+      "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "popularity": 12.143,
+      "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+      "release_date": "1999-10-30",
+      "title": "Toy Story 2",
+      "video": false,
+      "vote_average": 7.604,
+      "vote_count": 14496
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xD3ePiiueSrWp4aXtZNrWhzLrlh.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1128559,
+      "original_language": "en",
+      "original_title": "Super/Man: The Christopher Reeve Story",
+      "overview": "Christopher Reeve portrayed the Man of Steel in four Superman films and played dozens of other roles that displayed his talent and range as an actor, before being injured in a near-fatal horse-riding accident in 1995 that left him paralyzed from the neck down. After becoming a quadriplegic, he became a charismatic leader and activist in the quest to find a cure for spinal cord injuries, as well as a passionate advocate for disability rights and care.",
+      "popularity": 8.2711,
+      "poster_path": "/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
+      "release_date": "2024-09-21",
+      "title": "Super/Man: The Christopher Reeve Story",
+      "video": false,
+      "vote_average": 8.083,
+      "vote_count": 186
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 489,
+      "original_language": "en",
+      "original_title": "Good Will Hunting",
+      "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+      "popularity": 12.2175,
+      "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "release_date": "1997-12-05",
+      "title": "Good Will Hunting",
+      "video": false,
+      "vote_average": 8.157,
+      "vote_count": 13316
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvtGBiE4r2xCVp0qR0mbM85Doxp.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 112160,
+      "original_language": "fr",
+      "original_title": "Chroniques sexuelles d'une famille d'aujourd'hui",
+      "overview": "Three generations of a French family open up about their sexual experiences and desires after young Romain is caught masturbating in his biology class.",
+      "popularity": 10.459,
+      "poster_path": "/pebwFXu7izkXf8b8soWVXoRyJoR.jpg",
+      "release_date": "2012-05-09",
+      "title": "Sexual Chronicles of a French Family",
+      "video": false,
+      "vote_average": 5.378,
+      "vote_count": 393
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        35,
+        14
+      ],
+      "id": 508965,
+      "original_language": "en",
+      "original_title": "Klaus",
+      "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+      "popularity": 11.544,
+      "poster_path": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "release_date": "2019-11-08",
+      "title": "Klaus",
+      "video": false,
+      "vote_average": 8.225,
+      "vote_count": 4430
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10751,
+        35
+      ],
+      "id": 482321,
+      "original_language": "en",
+      "original_title": "Ron's Gone Wrong",
+      "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+      "popularity": 6.7379,
+      "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+      "release_date": "2021-10-14",
+      "title": "Ron's Gone Wrong",
+      "video": false,
+      "vote_average": 7.869,
+      "vote_count": 1958
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 54138,
+      "original_language": "en",
+      "original_title": "Star Trek Into Darkness",
+      "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+      "popularity": 12.3339,
+      "poster_path": "/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
+      "release_date": "2013-05-05",
+      "title": "Star Trek Into Darkness",
+      "video": false,
+      "vote_average": 7.321,
+      "vote_count": 9412
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1241470,
+      "original_language": "en",
+      "original_title": "Osiris",
+      "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+      "popularity": 12.0176,
+      "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+      "release_date": "2025-07-25",
+      "title": "Osiris",
+      "video": false,
+      "vote_average": 6.286,
+      "vote_count": 147
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xkaeirZBfs9nfz2TJoFHxyOLCcC.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 22683,
+      "original_language": "en",
+      "original_title": "Gifted Hands: The Ben Carson Story",
+      "overview": "Gifted Hands: The Ben Carson Story is a movie based on the life story of world-renowned neurosurgeon Ben Carson from 1961 to 1987.",
+      "popularity": 11.9575,
+      "poster_path": "/4NxxtiqezjUmUxoDTOjO5FeJvFt.jpg",
+      "release_date": "2009-02-07",
+      "title": "Gifted Hands: The Ben Carson Story",
+      "video": false,
+      "vote_average": 7.789,
+      "vote_count": 759
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aJKvkpFEmuU8JlxqUlHYSo2LN3w.jpg",
+      "genre_ids": [
+        53,
+        18,
+        80
+      ],
+      "id": 433627,
+      "original_language": "en",
+      "original_title": "7 Days in Entebbe",
+      "overview": "In 1976, four hijackers take over an Air France airplane en route from Tel Aviv to Paris and force it to land in Entebbe, Uganda. With 248 passengers on board, one of the most daring rescue missions ever is set in motion.",
+      "popularity": 10.3423,
+      "poster_path": "/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg",
+      "release_date": "2018-03-15",
+      "title": "7 Days in Entebbe",
+      "video": false,
+      "vote_average": 5.82,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 384018,
+      "original_language": "en",
+      "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+      "overview": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.",
+      "popularity": 12.8196,
+      "poster_path": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "release_date": "2019-07-31",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "video": false,
+      "vote_average": 6.843,
+      "vote_count": 7560
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mB6960cn6ThaJqAjGQn1A5ONuJ0.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1202882,
+      "original_language": "es",
+      "original_title": "Una mano bajo la nieve y otras historias",
+      "overview": "An anthology of 7 Mexican short films, all created by 5 up-and-coming independent filmmakers, with a common thread: to explore themes of human relationships. In order, A Hand Beneath the Snow (Una mano bajo la nieve), Friendship (Amistad), The View from Up Above (La vista desde arriba), The Short Film (El cortometraje), Silvestre (Silvestre), Cocktails For Two (Cóctel para dos) and When I Hear You Sing, I Forget (Cuando te escucho cantar, olvido).",
+      "popularity": 11.0538,
+      "poster_path": "/eK7Lp1GBXkv9mkG63gY2n6sbddK.jpg",
+      "release_date": "2023-12-31",
+      "title": "Una mano bajo la nieve y otras historias",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        53
+      ],
+      "id": 870028,
+      "original_language": "en",
+      "original_title": "The Accountant²",
+      "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+      "popularity": 13.5523,
+      "poster_path": "/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "release_date": "2025-04-23",
+      "title": "The Accountant²",
+      "video": false,
+      "vote_average": 7.124,
+      "vote_count": 1507
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 762441,
+      "original_language": "en",
+      "original_title": "A Quiet Place: Day One",
+      "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+      "popularity": 11.2845,
+      "poster_path": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+      "release_date": "2024-06-26",
+      "title": "A Quiet Place: Day One",
+      "video": false,
+      "vote_average": 6.684,
+      "vote_count": 3059
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eojywftaqRVeCNvMg8Ah9RsjH9g.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 50724,
+      "original_language": "es",
+      "original_title": "La mujer de mi hermano",
+      "overview": "After almost 10 years of marriage, attractive Zoe discovers that her marriage lacks passion and surprise, and is seduced by the possibility of finding those sensations already forgotten in her husband's brother. From this premise a series of events lead these three characters to a dangerous game of revenges, secrets and passions. Two brothers and one woman: the triangle is outlined in a disquieting way. It is a bomb that triggers family secrets, the contained rage of desire and the unmanageable power of love. An exciting story that subjugates the viewer from beginning to end.  Even though Zoe/Sonia has been married to Ignacio/Ishan for about a decade, they are unable to have children. She wants to be intimate but he prefers to be ready for intimacy on Saturdays only, and she gets physically drawn to his artistic brother, Gonzalo/Rohan. Then things get complicated for her after she tests positive for motherhood and finds that her husband may be gay.",
+      "popularity": 11.9016,
+      "poster_path": "/bDB9p8z2vzbF6wJzWct0PwfXl4H.jpg",
+      "release_date": "2005-11-04",
+      "title": "My Brother's Wife",
+      "video": false,
+      "vote_average": 6.381,
+      "vote_count": 135
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

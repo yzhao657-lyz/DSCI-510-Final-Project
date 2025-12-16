@@ -1,0 +1,400 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1379963,
+      "original_language": "es",
+      "original_title": "Dímelo bajito",
+      "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+      "popularity": 120.1437,
+      "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+      "release_date": "2025-12-11",
+      "title": "Tell Me Softly",
+      "video": false,
+      "vote_average": 6.38,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 1033148,
+      "original_language": "en",
+      "original_title": "Die My Love",
+      "overview": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, with Jackson frequently absent, and the pressures of domestic life weighing on her, Grace begins to unravel, leaving a path of destruction in her wake.",
+      "popularity": 111.9264,
+      "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+      "release_date": "2025-10-06",
+      "title": "Die My Love",
+      "video": false,
+      "vote_average": 6.408,
+      "vote_count": 147
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1422096,
+      "original_language": "en",
+      "original_title": "Good Boy",
+      "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+      "popularity": 126.1474,
+      "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+      "release_date": "2025-10-01",
+      "title": "Good Boy",
+      "video": false,
+      "vote_average": 6.797,
+      "vote_count": 347
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12,
+        28
+      ],
+      "id": 980477,
+      "original_language": "zh",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "popularity": 127.1462,
+      "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+      "release_date": "2025-01-29",
+      "title": "Ne Zha 2",
+      "video": false,
+      "vote_average": 8.072,
+      "vote_count": 493
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 1062722,
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "popularity": 107.9969,
+      "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "release_date": "2025-10-17",
+      "title": "Frankenstein",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 2218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qFxULMQeFTdo2dcuviEdwks3CIO.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1286185,
+      "original_language": "en",
+      "original_title": "The Carpenter's Son",
+      "overview": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces.",
+      "popularity": 114.2448,
+      "poster_path": "/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
+      "release_date": "2025-11-13",
+      "title": "The Carpenter's Son",
+      "video": false,
+      "vote_average": 5.176,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "popularity": 106.4704,
+      "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "video": false,
+      "vote_average": 7.626,
+      "vote_count": 598
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "popularity": 98.5964,
+      "poster_path": "/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg",
+      "release_date": "2025-11-19",
+      "title": "Wicked: For Good",
+      "video": false,
+      "vote_average": 6.752,
+      "vote_count": 444
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 269149,
+      "original_language": "en",
+      "original_title": "Zootopia",
+      "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+      "popularity": 108.0006,
+      "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "release_date": "2016-02-11",
+      "title": "Zootopia",
+      "video": false,
+      "vote_average": 7.756,
+      "vote_count": 17288
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 949709,
+      "original_language": "zh",
+      "original_title": "危机航线",
+      "overview": "\"Anyone? There is ......\" A mysterious message from Gao Haojun comes from ten thousand meters in the air. A five-star A380 ultra-luxury airliner was hijacked on its international maiden voyage, and international security expert Gao Haojun stood up to a group of thugs, his daughter Xiaojun was trapped in the cabin, and Mike, the leader of the hijackers, threatened the lives of more than 800 people in the plane as a bargaining chip, and Xiaojun's mother, Fu Yuan, was also in danger. ...... Will the passengers on board be able to land safely and how should this crisis be resolved?",
+      "popularity": 95.461,
+      "poster_path": "/v8ySgr4CE45SrrIt4PqqYc1diW6.jpg",
+      "release_date": "2024-09-29",
+      "title": "High Forces",
+      "video": false,
+      "vote_average": 6.036,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kUuWEOgqlVqcXsXujJPK8C6kjum.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1288072,
+      "original_language": "en",
+      "original_title": "Keeper",
+      "overview": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated and in the presence of an unspeakable evil that reveals the cabin's horrifying secrets.",
+      "popularity": 103.8914,
+      "poster_path": "/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
+      "release_date": "2025-11-12",
+      "title": "Keeper",
+      "video": false,
+      "vote_average": 5.385,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1291608,
+      "original_language": "hi",
+      "original_title": "धुरंधर",
+      "overview": "After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
+      "popularity": 96.5976,
+      "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+      "release_date": "2025-12-05",
+      "title": "Dhurandhar",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 1309012,
+      "original_language": "en",
+      "original_title": "Altered",
+      "overview": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
+      "popularity": 89.3762,
+      "poster_path": "/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+      "release_date": "2025-09-18",
+      "title": "Altered",
+      "video": false,
+      "vote_average": 6.262,
+      "vote_count": 65
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1363123,
+      "original_language": "en",
+      "original_title": "The Family Plan 2",
+      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+      "popularity": 87.4152,
+      "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+      "release_date": "2025-11-11",
+      "title": "The Family Plan 2",
+      "video": false,
+      "vote_average": 6.685,
+      "vote_count": 352
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1561955,
+      "original_language": "ta",
+      "original_title": "ஸ்டீபன்",
+      "overview": "A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.",
+      "popularity": 75.992,
+      "poster_path": "/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+      "release_date": "2025-12-05",
+      "title": "Stephen",
+      "video": false,
+      "vote_average": 6.625,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "genre_ids": [
+        53,
+        80,
+        28
+      ],
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "popularity": 82.2718,
+      "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "release_date": "2025-09-23",
+      "title": "One Battle After Another",
+      "video": false,
+      "vote_average": 7.49,
+      "vote_count": 1860
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1t7BMQiYCXI9YLvuMiGwJpO93Kz.jpg",
+      "genre_ids": [
+        35,
+        16,
+        12,
+        27
+      ],
+      "id": 203101,
+      "original_language": "ja",
+      "original_title": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
+      "overview": "In their efforts to find a safe haven from the zombie apocalypse, the gang find themselves on a deserted island. Now, they take advantage of the momentary respite to enjoy some surf, sand and bathing suits!",
+      "popularity": 95.4762,
+      "poster_path": "/jlRGVYItWkDIJg4OZp9S2g5lKuc.jpg",
+      "release_date": "2011-04-25",
+      "title": "High School of the Dead: Drifters of the Dead",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 474
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eMBYlgFTHfZaTz96eJxlkeMsKo9.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1539104,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
+      "popularity": 83.1463,
+      "poster_path": "/tc7RrVW5FGvyO2tsgW6LIN1esHI.jpg",
+      "release_date": "2025-11-07",
+      "title": "JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 57
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        14,
+        10402,
+        35,
+        16
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+      "popularity": 75.9704,
+      "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
+      "video": false,
+      "vote_average": 8.186,
+      "vote_count": 2035
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        80,
+        18
+      ],
+      "id": 7451,
+      "original_language": "en",
+      "original_title": "xXx",
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "popularity": 75.0998,
+      "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "release_date": "2002-08-09",
+      "title": "xXx",
+      "video": false,
+      "vote_average": 5.975,
+      "vote_count": 4688
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

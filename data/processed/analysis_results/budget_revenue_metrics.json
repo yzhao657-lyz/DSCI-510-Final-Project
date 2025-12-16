@@ -1,0 +1,8 @@
+{
+  "model": "LinearRegression(log_budget -> log_revenue)",
+  "coef": 1.613530814112271,
+  "intercept": -10.75912760153778,
+  "r2": 0.3689624497644145,
+  "rmse": 4.542184267357257,
+  "n": 499
+}

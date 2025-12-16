@@ -1,0 +1,400 @@
+{
+  "page": 44,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/yEBBtk1eyZltGgJt8Z2zi3KIvvX.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 689249,
+      "original_language": "es",
+      "original_title": "La Casa de Papel: el fenómeno",
+      "overview": "A documentary on why 'Money Heist' sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.",
+      "popularity": 8.9102,
+      "poster_path": "/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",
+      "release_date": "2020-04-03",
+      "title": "Money Heist: The Phenomenon",
+      "video": false,
+      "vote_average": 7.445,
+      "vote_count": 1082
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "id": 718930,
+      "original_language": "en",
+      "original_title": "Bullet Train",
+      "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+      "popularity": 11.0867,
+      "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "release_date": "2022-08-03",
+      "title": "Bullet Train",
+      "video": false,
+      "vote_average": 7.42,
+      "vote_count": 7090
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35,
+        14
+      ],
+      "id": 330457,
+      "original_language": "en",
+      "original_title": "Frozen II",
+      "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+      "popularity": 10.5366,
+      "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "release_date": "2019-11-20",
+      "title": "Frozen II",
+      "video": false,
+      "vote_average": 7.24,
+      "vote_count": 10083
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cw1BkYi8bP62hTw5HoEngVZfTTw.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 667739,
+      "original_language": "en",
+      "original_title": "The Man from Toronto",
+      "overview": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin known as The Man from Toronto in hopes of staying alive.",
+      "popularity": 9.4097,
+      "poster_path": "/uTCfTibqtk4f90cC59bLPMOmsfc.jpg",
+      "release_date": "2022-12-23",
+      "title": "The Man from Toronto",
+      "video": false,
+      "vote_average": 6.399,
+      "vote_count": 474
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/OJjifB23OdoVtEPnQqMDb5bntu.jpg",
+      "genre_ids": [
+        80
+      ],
+      "id": 1428425,
+      "original_language": "de",
+      "original_title": "Uhudler-Verschwörung - Ein Stinatz Krimi",
+      "overview": "The death of a winemaker leaves Sifkovits unmoved – what with a fermentation gas accident, there's something going on, or in this case, something in the vine! Of course, the \"Burgenland Columbo\" isn't deterred by trivialities like his boss's order not to investigate under any circumstances.",
+      "popularity": 9.896,
+      "poster_path": "/rcl7Jk6ClaUzjXJicXYmusBplI1.jpg",
+      "release_date": "2025-10-20",
+      "title": "Uhudler-Verschwörung - Ein Stinatz Krimi",
+      "video": false,
+      "vote_average": 7.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7KR1nKGaYqPuFBnqP7XBIX0DZlR.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 770156,
+      "original_language": "en",
+      "original_title": "Lucy Shimmers and the Prince of Peace",
+      "overview": "Second chances start when a hardened criminal crosses paths with a precocious little girl who is helped by an angel to change hearts during the holiday season.",
+      "popularity": 8.5219,
+      "poster_path": "/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg",
+      "release_date": "2020-10-19",
+      "title": "Lucy Shimmers and the Prince of Peace",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 330
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 379604,
+      "original_language": "de",
+      "original_title": "Wenn eine Mutter ihr Leben verspielt",
+      "overview": "",
+      "popularity": 9.6474,
+      "poster_path": null,
+      "release_date": "2001-04-25",
+      "title": "Wenn eine Mutter ihr Leben verspielt",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 552931,
+      "original_language": "it",
+      "original_title": "Le romane - Storie di donne e di quartieri",
+      "overview": "",
+      "popularity": 6.7007,
+      "poster_path": "/4mZ3A7jutC1xU6r7mYRkXjSr3b0.jpg",
+      "release_date": "2016-06-14",
+      "title": "Le romane - Storie di donne e di quartieri",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dJZCY38DSzZdGdVtFsEdJIrKOmG.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1323475,
+      "original_language": "en",
+      "original_title": "Champagne Problems",
+      "overview": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+      "popularity": 11.0722,
+      "poster_path": "/A2TCPPkzmWd5SwjBlxMlB6yQ4yK.jpg",
+      "release_date": "2025-11-18",
+      "title": "Champagne Problems",
+      "video": false,
+      "vote_average": 6.11,
+      "vote_count": 145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b8Ma7TkasTDpMIkoIngzHVcgANa.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 508947,
+      "original_language": "en",
+      "original_title": "Turning Red",
+      "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+      "popularity": 9.5887,
+      "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "release_date": "2022-03-10",
+      "title": "Turning Red",
+      "video": false,
+      "vote_average": 7.327,
+      "vote_count": 5607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 927254,
+      "original_language": "en",
+      "original_title": "The Twits",
+      "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+      "popularity": 9.8281,
+      "poster_path": "/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg",
+      "release_date": "2025-10-17",
+      "title": "The Twits",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 71
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5blbwmFZekM3ffqxDoveupJck5C.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        878
+      ],
+      "id": 20760,
+      "original_language": "en",
+      "original_title": "Lilo & Stitch 2: Stitch Has a Glitch",
+      "overview": "Now, we find the rowdy extraterrestrial getting used to life with his new ʻohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!",
+      "popularity": 9.4741,
+      "poster_path": "/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
+      "release_date": "2005-08-22",
+      "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+      "video": false,
+      "vote_average": 6.685,
+      "vote_count": 1587
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        36,
+        18
+      ],
+      "id": 405375,
+      "original_language": "de",
+      "original_title": "Olga Benario - Ein Leben für die Revolution",
+      "overview": "Documentary drama about the revolutionary Olga Benario",
+      "popularity": 5.919,
+      "poster_path": "/rEsOesR8RM3gK2lODfJ0kalctcw.jpg",
+      "release_date": "2004-02-02",
+      "title": "Olga Benario - Ein Leben für die Revolution",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jNL5JUgn4i1ckiVb4R7UQRjZNU7.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 646471,
+      "original_language": "id",
+      "original_title": "Rayya, Cahaya Di Atas Cahaya",
+      "overview": "Rayya is a great artist, diverse talents. She's an actress, musician, singer, and even a model. The glamorous world that many people dream of is already in the grip. The arrogance that usually comes with success was embraced. But, the success of weakening Rayya was 'dumped', the momentum was the trigger that turned Rayya's confusion into a plan to stop his own life. about him with the hope that in the end there will be nothing left. Arya is a middle-aged photographer who also has her own problems. The man who found a way out of his problem thanks to Rayya. Both of them proceed together to find light above light",
+      "popularity": 5.892,
+      "poster_path": "/rmiJ1VFUhL7wz93UILGC8nefIwk.jpg",
+      "release_date": "2012-09-20",
+      "title": "Rayya, Cahaya Di Atas Cahaya",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1IPEh9U51W0ygb0U7XotU64JDAh.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 983105,
+      "original_language": "sv",
+      "original_title": "Året jag slutade prestera och började onanera",
+      "overview": "Ambitious overachiever Hanna just needs one more kid before her life is perfect. Instead, her baby daddy unexpectedly dumps her. Suddenly, she finds herself without a place to live, job or family. With every fiber of her being set for victory, Hanna refuses to give up and decides to win him back. But to get there means having to win something much more important, love and desire for herself and who she is.",
+      "popularity": 9.0977,
+      "poster_path": "/ckbnMAgX8PxShIYmK1LFByKNhEL.jpg",
+      "release_date": "2022-10-21",
+      "title": "The Year I Started Masturbating",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mMxXy6BLvYlIlS0DgYl8kor0Gb0.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 134018,
+      "original_language": "de",
+      "original_title": "Das Haus der schlafenden Schönen",
+      "overview": "Edmond, a man in his sixties whose wife has recently passed away, is told about a secret establishment where men can spend an entire night in bed alongside beautiful, sleeping young women, who stretch, roll over and dream, but never awaken. Bedazzled by their seductive yet innocent tenderness, but distressed about the reason for their deep sleep, he delves into the mystery of the house of sleeping beauties.",
+      "popularity": 8.4721,
+      "poster_path": "/myzmLGcvh442NhvSauKZxNdOdV5.jpg",
+      "release_date": "2006-11-02",
+      "title": "House of the Sleeping Beauties",
+      "video": false,
+      "vote_average": 5.368,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg",
+      "genre_ids": [
+        12,
+        35,
+        14,
+        28,
+        10751
+      ],
+      "id": 1091181,
+      "original_language": "fr",
+      "original_title": "Loups-Garous",
+      "overview": "When an old card game comes to life, a family jumps back in time to a medieval village where they must unmask werewolves to secure their return home.",
+      "popularity": 5.9572,
+      "poster_path": "/nKDH9pjh1fkBcb3PNouQ0qmN6cW.jpg",
+      "release_date": "2024-10-22",
+      "title": "Family Pack",
+      "video": false,
+      "vote_average": 5.614,
+      "vote_count": 504
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/egJQ3nIon5fT8wyXcKRHzvmtZpD.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 544,
+      "original_language": "en",
+      "original_title": "There's Something About Mary",
+      "overview": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+      "popularity": 11.6368,
+      "poster_path": "/slJD1Dvnsf15LoeqhERsyzisAdn.jpg",
+      "release_date": "1998-07-15",
+      "title": "There's Something About Mary",
+      "video": false,
+      "vote_average": 6.618,
+      "vote_count": 5163
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/flBvN0JFdf7jTMtr0RAHAToUQz9.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 372921,
+      "original_language": "ko",
+      "original_title": "공즉시색",
+      "overview": "Ho-kyeong, Joo-yeong and Yeon-hee are students of an American university who are all pretty and sexy. They either know too much or know too little so they decide to find men who can satisfy them. A lean man who was a former nude model, a younger man who has perfect techniques and a man who thinks very highly of women; these guys start the project!",
+      "popularity": 10.3406,
+      "poster_path": "/k8dsPTp1Ga67c0Ie00qyR3vcPG3.jpg",
+      "release_date": "2015-12-01",
+      "title": "Mutual Relations",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zivCs8QHipco13PVKI3ZVfBcRPx.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35
+      ],
+      "id": 1304434,
+      "original_language": "zh",
+      "original_title": "浪浪山小妖怪",
+      "overview": "The Little Pig Yao decides to leave Langlang Mountain to join the pilgrimage. On the journey west, what trials will the little monsters face? In the end, will they achieve their dreams and live as they truly desire?",
+      "popularity": 10.7626,
+      "poster_path": "/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
+      "release_date": "2025-08-02",
+      "title": "Nobody",
+      "video": false,
+      "vote_average": 7.452,
+      "vote_count": 42
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718177
+}

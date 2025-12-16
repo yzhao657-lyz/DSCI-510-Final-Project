@@ -1,0 +1,393 @@
+{
+  "page": 28,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 1087891,
+      "original_language": "en",
+      "original_title": "The Amateur",
+      "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+      "popularity": 14.3568,
+      "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+      "release_date": "2025-04-09",
+      "title": "The Amateur",
+      "video": false,
+      "vote_average": 6.975,
+      "vote_count": 1384
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1573,
+      "original_language": "en",
+      "original_title": "Die Hard 2",
+      "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+      "popularity": 11.9594,
+      "poster_path": "/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+      "release_date": "1990-07-03",
+      "title": "Die Hard 2",
+      "video": false,
+      "vote_average": 6.961,
+      "vote_count": 6157
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bP6BqIljp4a3BqhxN7YPckcpKI.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        36
+      ],
+      "id": 1195631,
+      "original_language": "en",
+      "original_title": "William Tell",
+      "overview": "The narrative unfolds in the 14th Century, when the European nations vie for supremacy within the Holy Roman Empire. The ambitious Austrian Empire, desiring more land, invades neighbouring Switzerland, a serene and pastoral nation. Protagonist William Tell, a formerly peaceful hunter, finds himself forced to take action as his family and homeland come under threat from the oppressive Austrian King and his ruthless warlords.",
+      "popularity": 13.7456,
+      "poster_path": "/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg",
+      "release_date": "2025-01-17",
+      "title": "William Tell",
+      "video": false,
+      "vote_average": 6.237,
+      "vote_count": 196
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 540825,
+      "original_language": "it",
+      "original_title": "Royal Opera House: I Due Foscari",
+      "overview": "In Giuseppe Verdi's little-known early tragedy, a despairing father is torn between love for his family and his duty to a corrupt city. Jacopo Foscari, son of a 15th-century Doge of Venice, is convicted of murder and treason on a trumped-up charge. His wife Lucrezia is sure of his innocence. But the Doge, trapped by the machinations of the city, is forced to make a terrible decision.",
+      "popularity": 9.5504,
+      "poster_path": "/vdnLRwoQT11THS3RAUflWSh0INu.jpg",
+      "release_date": "2015-04-30",
+      "title": "Royal Opera House: I Due Foscari",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ejpLiTuMGBtmaLqvy97GOp6YUrU.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 2009,
+      "original_language": "ro",
+      "original_title": "4 luni, 3 săptămîni și 2 zile",
+      "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+      "popularity": 9.1008,
+      "poster_path": "/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+      "release_date": "2007-08-24",
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "video": false,
+      "vote_average": 7.538,
+      "vote_count": 782
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zZ3gUHMQZrPPzvfpr1pbnXOA1tf.jpg",
+      "genre_ids": [],
+      "id": 1051358,
+      "original_language": "en",
+      "original_title": "Toy Story 3 in Real Life",
+      "overview": "8 years ago, two brothers set out to explore filmmaking by recreating their favorite film. The following is the product of that endeavor.",
+      "popularity": 4.6407,
+      "poster_path": "/2x6ZTY0iGZeJJZfQG6wK4M47I2M.jpg",
+      "release_date": "2020-01-25",
+      "title": "Toy Story 3 in Real Life",
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h3X1YZXNeklLNKRVOS6DHGRosog.jpg",
+      "genre_ids": [
+        27,
+        35,
+        14
+      ],
+      "id": 287903,
+      "original_language": "en",
+      "original_title": "Krampus",
+      "overview": "When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.",
+      "popularity": 12.3835,
+      "poster_path": "/mzPCU6xQ2XQmD76cDVZPm5PZAaS.jpg",
+      "release_date": "2015-11-26",
+      "title": "Krampus",
+      "video": false,
+      "vote_average": 6.195,
+      "vote_count": 2312
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 1151272,
+      "original_language": "es",
+      "original_title": "Sirāt",
+      "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
+      "popularity": 10.7759,
+      "poster_path": "/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
+      "release_date": "2025-06-06",
+      "title": "Sirāt",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 255
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 76710,
+      "original_language": "en",
+      "original_title": "National Geographic: Pyramids of Death",
+      "overview": "They are some of the biggest pyramids on the planet, millions of tons of stone and earth towering above the landscape in a display of massive wealth and power. But it wasn't the pharaohs that built these pyramids. This is the majestic ancient city of Teotihuacán, Mexico, home to one of the most powerful civilizations of its time. But why, around 750 AD, did the advanced civilization that created Teotihuacán suddenly vanish? The identities of its founders, the language they spoke and even the original name of the city are all unknown. DNA analysis of bodies from Teotihuacán shows they weren't Mayan, Incan or Aztec, but an entirely different civilization. It was assumed to have been a peaceful, utopian society, but the latest discoveries are revealing a much darker scenario. In the depths of Teotihuacán's pyramids, experts have uncovered vault after vault filled with curious human remains.",
+      "popularity": 13.3389,
+      "poster_path": "/v333jy5F54NLy63AQB15SwoohhO.jpg",
+      "release_date": "2005-10-04",
+      "title": "National Geographic: Pyramids of Death",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Eo6FPq6A4aMeOe4tTmNKwUZRvM.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 28178,
+      "original_language": "en",
+      "original_title": "Hachi: A Dog's Tale",
+      "overview": "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home.",
+      "popularity": 13.0879,
+      "poster_path": "/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+      "release_date": "2009-06-08",
+      "title": "Hachi: A Dog's Tale",
+      "video": false,
+      "vote_average": 8.01,
+      "vote_count": 6988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 11036,
+      "original_language": "en",
+      "original_title": "The Notebook",
+      "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+      "popularity": 11.8734,
+      "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "release_date": "2004-06-25",
+      "title": "The Notebook",
+      "video": false,
+      "vote_average": 7.892,
+      "vote_count": 12194
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vxKa3gMHc84O1iHRkslqeHSsxE.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        10749
+      ],
+      "id": 1068452,
+      "original_language": "te",
+      "original_title": "హాయ్ నాన్న",
+      "overview": "Six-year-old Mahi, a spirited child with cystic fibrosis, shares a deep yet complex bond with her father, Viraj, a dedicated single parent and successful fashion photographer. Her curiosity about her absent mother leads to a journey of discovery when she runs away with her loyal dog, Pluto. A chance encounter with a kind woman named Yashna sparks unexpected revelations, intertwining their lives in ways they never anticipated. Set against a backdrop of love, sacrifice, and redemption, Mahi’s story is a heartfelt exploration of family, resilience, and the enduring power of connection.",
+      "popularity": 11.8456,
+      "poster_path": "/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+      "release_date": "2023-12-07",
+      "title": "Hi Nanna",
+      "video": false,
+      "vote_average": 7.974,
+      "vote_count": 57
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 4584,
+      "original_language": "en",
+      "original_title": "Sense and Sensibility",
+      "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, whose chances at marriage seem doomed by their family's sudden loss of fortune.  When Henry Dashwood dies unexpectedly, his estate must pass on by law to his son from his first marriage, John and wife Fanny. But these circumstances leave Mr. Dashwood's current wife, and daughters Elinor, Marianne and Margaret, without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+      "popularity": 12.6411,
+      "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "release_date": "1995-12-13",
+      "title": "Sense and Sensibility",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 1783
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1930,
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "popularity": 13.2618,
+      "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "release_date": "2012-06-23",
+      "title": "The Amazing Spider-Man",
+      "video": false,
+      "vote_average": 6.723,
+      "vote_count": 18088
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 748783,
+      "original_language": "en",
+      "original_title": "The Garfield Movie",
+      "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+      "popularity": 12.6861,
+      "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+      "release_date": "2024-04-30",
+      "title": "The Garfield Movie",
+      "video": false,
+      "vote_average": 7.027,
+      "vote_count": 1360
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1401318,
+      "original_language": "en",
+      "original_title": "A Merry Little Ex-Mas",
+      "overview": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
+      "popularity": 12.8329,
+      "poster_path": "/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
+      "release_date": "2025-11-12",
+      "title": "A Merry Little Ex-Mas",
+      "video": false,
+      "vote_average": 6.167,
+      "vote_count": 123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zGHdS1eLaU5wdYCJ6vY9QfQGCTo.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 346910,
+      "original_language": "en",
+      "original_title": "The Predator",
+      "overview": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+      "popularity": 13.0049,
+      "poster_path": "/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
+      "release_date": "2018-09-05",
+      "title": "The Predator",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 4969
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 324552,
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 2",
+      "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+      "popularity": 12.7077,
+      "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "release_date": "2017-02-08",
+      "title": "John Wick: Chapter 2",
+      "video": false,
+      "vote_average": 7.34,
+      "vote_count": 13827
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9KSboWOt09J72aMY4x8SS1IaOHK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 987400,
+      "original_language": "es",
+      "original_title": "Batman Azteca: Choque de imperios",
+      "overview": "In the time of the Aztec empire, tragedy strikes Yohualli Coatl when his father is murdered by Spanish conquistadors. To warn King Moctezuma and his high priest, Yoka, of imminent danger, Yohualli escapes to Tenochtitlán. There, he trains in the temple of the bat god Tzinacan with his mentor, developing equipment and weaponry to confront the Spanish invasion and avenge his father’s death. Along the way, he encounters key figures like the fierce Jaguar Woman and the conquistador Hernán Cortés.",
+      "popularity": 12.9807,
+      "poster_path": "/s0Mlo5w4INp3bUdsJo3RaSSMXWz.jpg",
+      "release_date": "2025-09-18",
+      "title": "Aztec Batman: Clash of Empires",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 121
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76341,
+      "original_language": "en",
+      "original_title": "Mad Max: Fury Road",
+      "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+      "popularity": 12.6212,
+      "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "release_date": "2015-05-13",
+      "title": "Mad Max: Fury Road",
+      "video": false,
+      "vote_average": 7.628,
+      "vote_count": 23566
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

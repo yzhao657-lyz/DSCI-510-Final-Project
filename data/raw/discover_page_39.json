@@ -1,0 +1,393 @@
+{
+  "page": 39,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1315986,
+      "original_language": "en",
+      "original_title": "Man with No Past",
+      "overview": "Waking up in an unfamiliar city, a man with no memory must confront the mysteries of his own identity. However, his desperate search to uncover the past pits him against a powerful enemy, leading to a showdown that ultimately reveals the truth.",
+      "popularity": 11.562,
+      "poster_path": "/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg",
+      "release_date": "2025-01-13",
+      "title": "Man with No Past",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg",
+      "genre_ids": [
+        37,
+        35,
+        80
+      ],
+      "id": 648878,
+      "original_language": "en",
+      "original_title": "Eddington",
+      "overview": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
+      "popularity": 10.0401,
+      "poster_path": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "release_date": "2025-07-16",
+      "title": "Eddington",
+      "video": false,
+      "vote_average": 6.489,
+      "vote_count": 523
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fTkUM5NpJmTWpjxvYWqhiAOmNuJ.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 18921,
+      "original_language": "sv",
+      "original_title": "Vi hade i alla fall tur med vädret igen!",
+      "overview": "Almost 30 years has passed and Gösta and Gun are retired. This summer they're going on a trip to their son's wedding in Gösta's new RV.",
+      "popularity": 6.996,
+      "poster_path": "/rtcAP3E5k6UrXpZOD2Z1nwX5K5m.jpg",
+      "release_date": "2008-12-05",
+      "title": "Well, We Were Lucky with the Weather – Again",
+      "video": false,
+      "vote_average": 3.357,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 166428,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon: The Hidden World",
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "popularity": 13.9268,
+      "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "release_date": "2019-01-03",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "video": false,
+      "vote_average": 7.75,
+      "vote_count": 6877
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 394475,
+      "original_language": "en",
+      "original_title": "Die letzte Vorstellung: Ein Rückblick",
+      "overview": "This hour-long 1999 documentary by Laurent Bouzereau features interviews with director Peter Bogdanovich, actors Cybil Shepherd, Timothy Bottoms, Jeff Bridges, Ellen Burstyn, Cloris Leachman, and Frank Marshall, and author Larry McMurty",
+      "popularity": 13.1297,
+      "poster_path": "/sb16TN2inaeSCNC0CvR0PYec7Ca.jpg",
+      "release_date": "1999-04-25",
+      "title": "Die letzte Vorstellung: Ein Rückblick",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sgU7YubDFMosoJQLtcrBCcEG1sq.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 2770,
+      "original_language": "en",
+      "original_title": "American Pie 2",
+      "overview": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
+      "popularity": 10.0772,
+      "poster_path": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+      "release_date": "2001-08-10",
+      "title": "American Pie 2",
+      "video": false,
+      "vote_average": 6.246,
+      "vote_count": 5140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1850,
+      "original_language": "en",
+      "original_title": "Man on the Moon",
+      "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+      "popularity": 6.3673,
+      "poster_path": "/d8rahmdfryjdmvLpSsDOUhGVQXl.jpg",
+      "release_date": "1999-12-22",
+      "title": "Man on the Moon",
+      "video": false,
+      "vote_average": 7.247,
+      "vote_count": 1901
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos when a gang targets them in a brutal attack. Alongside his new K-9 partner Argos, Jake launches into a relentless pursuit of justice, determined to protect his loved ones.",
+      "popularity": 10.6487,
+      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "release_date": "2025-11-13",
+      "title": "Muzzle: City of Wolves",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kMEFkFBdJRGze9n8fdmZsv9rxpE.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 790425,
+      "original_language": "fr",
+      "original_title": "Le Diable de la République : 40 ans de Front national",
+      "overview": "",
+      "popularity": 6.769,
+      "poster_path": "/gewJUD8Wg2DX7iX9kUOcNMco3sz.jpg",
+      "release_date": "2011-11-30",
+      "title": "Le Diable de la République : 40 ans de Front national",
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        18
+      ],
+      "id": 522518,
+      "original_language": "en",
+      "original_title": "A Dog's Journey",
+      "overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+      "popularity": 10.3773,
+      "poster_path": "/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+      "release_date": "2019-05-03",
+      "title": "A Dog's Journey",
+      "video": false,
+      "vote_average": 8.054,
+      "vote_count": 1586
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/edF5lb0KRAkRukNFAVDjHDbT8wn.jpg",
+      "genre_ids": [
+        878,
+        14
+      ],
+      "id": 286328,
+      "original_language": "en",
+      "original_title": "Emmanuelle Through Time: Emmanuelle's Skin City",
+      "overview": "Emmanuelle arrives in Las Vegas where she is abducted and asked by the military to help them with a device that allows people to travel to alternate realities.",
+      "popularity": 7.7316,
+      "poster_path": "/2A0EkvaE1JVi5BeVmrWhlPZ3lXD.jpg",
+      "release_date": "2011-10-06",
+      "title": "Emmanuelle Through Time: Emmanuelle's Skin City",
+      "video": false,
+      "vote_average": 5.111,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 679461,
+      "original_language": "es",
+      "original_title": "Casa de citas para señoritas El Chilar",
+      "overview": "",
+      "popularity": 10.885,
+      "poster_path": null,
+      "release_date": "1990-01-01",
+      "title": "Casa de citas para señoritas El Chilar",
+      "video": false,
+      "vote_average": 3.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6P6YdvJsAZlUZKipA86rbfjfKzD.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 113947,
+      "original_language": "en",
+      "original_title": "The Sessions",
+      "overview": "Though a childhood bout with polio left him dependent on an iron lung, Mark O'Brien maintains a career as a journalist and poet. A writing assignment dealing with sex and the disabled piques Mark's curiosity, and he decides to investigate the possibility of experiencing sex himself. When his overtures toward a caregiver scare her away, he books an appointment with sex surrogate Cheryl Cohen-Greene to lose his virginity.",
+      "popularity": 14.0598,
+      "poster_path": "/57o1DBc5DfJXVc8wArAblSbZ8sD.jpg",
+      "release_date": "2012-05-02",
+      "title": "The Sessions",
+      "video": false,
+      "vote_average": 6.879,
+      "vote_count": 585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c4vArFoyluY4XyBkSZe2kgae613.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 243688,
+      "original_language": "en",
+      "original_title": "Poltergeist",
+      "overview": "A family's suburban home is invaded by angry spirits. When the terrifying apparitions escalate their attacks and take the youngest daughter, the family must come together to rescue her.",
+      "popularity": 5.6489,
+      "poster_path": "/jBXupXZ7WEPUpkYFpkQsdipwBQn.jpg",
+      "release_date": "2015-05-20",
+      "title": "Poltergeist",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 2351
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 313369,
+      "original_language": "en",
+      "original_title": "La La Land",
+      "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "popularity": 10.7338,
+      "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "release_date": "2016-12-01",
+      "title": "La La Land",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 17664
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y9UU2JNjoFPI7ZvCuiWzpN9GJHZ.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 16270,
+      "original_language": "en",
+      "original_title": "Career Opportunities",
+      "overview": "Josie, the daughter of the town's wealthiest businessman, faces problems at home and wishes to leave town but is disoriented. Her decision is finalized after she falls asleep in a Target dressing room. She awakens to find herself locked in the store overnight with the janitor, Jim, the town \"no hoper\" and liar.",
+      "popularity": 11.6394,
+      "poster_path": "/opfsY8aUZ1GjqiZFvYzdvETzl1l.jpg",
+      "release_date": "1991-03-29",
+      "title": "Career Opportunities",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 718
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r7RdSJWKeqgQ6ZsxM08d2xRoKor.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 406994,
+      "original_language": "en",
+      "original_title": "Better Watch Out",
+      "overview": "On a quiet suburban street tucked within a 'safe neighborhood', a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.",
+      "popularity": 8.9053,
+      "poster_path": "/liI4c3GYaKuAo4FsCF4RKvFFqbV.jpg",
+      "release_date": "2017-10-06",
+      "title": "Better Watch Out",
+      "video": false,
+      "vote_average": 6.665,
+      "vote_count": 1581
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+      "genre_ids": [
+        35,
+        12,
+        14,
+        16,
+        10751
+      ],
+      "id": 10192,
+      "original_language": "en",
+      "original_title": "Shrek Forever After",
+      "overview": "A midlife-crisis burdened Shrek, longing for the days when he felt like a real ogre, makes a pact with magic deal-maker Rumpelstiltskin. But when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.",
+      "popularity": 14.2178,
+      "poster_path": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+      "release_date": "2010-05-20",
+      "title": "Shrek Forever After",
+      "video": false,
+      "vote_average": 6.391,
+      "vote_count": 7738
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        18
+      ],
+      "id": 10386,
+      "original_language": "en",
+      "original_title": "The Iron Giant",
+      "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+      "popularity": 8.966,
+      "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+      "release_date": "1999-08-06",
+      "title": "The Iron Giant",
+      "video": false,
+      "vote_average": 7.954,
+      "vote_count": 5955
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3gw6ZMxVbfOQcQahGsmwdvFJPOa.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 324558,
+      "original_language": "en",
+      "original_title": "X-Rated: The Greatest Adult Movies of All Time",
+      "overview": "The evolution of adult cinema through the most influential films in history, a journey that begins in the 1970s and ends nowadays. An in-depth analysis of the success of the most prestigious erotic films, their impact on industry and society, and their influence on cinema and contemporary culture.",
+      "popularity": 10.8345,
+      "poster_path": "/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
+      "release_date": "2015-02-06",
+      "title": "X-Rated: The Greatest Adult Movies of All Time",
+      "video": false,
+      "vote_average": 6.424,
+      "vote_count": 192
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

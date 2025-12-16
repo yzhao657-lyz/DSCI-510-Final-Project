@@ -1,0 +1,407 @@
+{
+  "page": 14,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
+      "genre_ids": [
+        80,
+        28,
+        18
+      ],
+      "id": 1429738,
+      "original_language": "th",
+      "original_title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+      "overview": "In 1980s Bangkok, a wily thief stages a series of daring heists, baffling the authorities and the public — until one cop sets out to take him down.",
+      "popularity": 17.7484,
+      "poster_path": "/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg",
+      "release_date": "2025-11-12",
+      "title": "Tee Yai: Born to Be Bad",
+      "video": false,
+      "vote_average": 5.013,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1072699,
+      "original_language": "pl",
+      "original_title": "Druga Furioza",
+      "overview": "In the wake of murder, new Furioza leader Golden claims the reins of his violent and formidable hooligan gang and takes on a new focus across borders.",
+      "popularity": 17.3004,
+      "poster_path": "/dbe1zKVKNBIczdmRcm7jxEphYLz.jpg",
+      "release_date": "2025-10-14",
+      "title": "Inside Furioza",
+      "video": false,
+      "vote_average": 6.529,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 1011477,
+      "original_language": "en",
+      "original_title": "Karate Kid: Legends",
+      "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+      "popularity": 17.5755,
+      "poster_path": "/AEgggzRr1vZCLY86MAp93li43z.jpg",
+      "release_date": "2025-05-08",
+      "title": "Karate Kid: Legends",
+      "video": false,
+      "vote_average": 7.082,
+      "vote_count": 999
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16,
+        878
+      ],
+      "id": 870360,
+      "original_language": "en",
+      "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
+      "popularity": 14.7435,
+      "poster_path": "/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
+      "release_date": "2024-08-01",
+      "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "video": false,
+      "vote_average": 7.676,
+      "vote_count": 182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3OTGmLNOZIo4SRQLVfLjeWegB6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 603692,
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 4",
+      "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "popularity": 18.161,
+      "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "release_date": "2023-03-22",
+      "title": "John Wick: Chapter 4",
+      "video": false,
+      "vote_average": 7.717,
+      "vote_count": 7519
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/miL1LsOOKGwG7621RPmVPitjW9R.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1062421,
+      "original_language": "en",
+      "original_title": "Sweet Dreams",
+      "overview": "Morris navigates his way through a mandatory stay at Sweet Dreams sober living. In an attempt to get his life back on track, he agrees to coach a misfit softball team of his fellow housemates.",
+      "popularity": 16.0163,
+      "poster_path": "/e1TyT5umEoAM2SXQIp7OwNBn7Hv.jpg",
+      "release_date": "2024-04-12",
+      "title": "Sweet Dreams",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "popularity": 17.4991,
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "release_date": "2017-10-27",
+      "title": "Coco",
+      "video": false,
+      "vote_average": 8.201,
+      "vote_count": 20478
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lSZUjoDoTDpmQzngjkOY4P9JqcM.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        18
+      ],
+      "id": 17979,
+      "original_language": "en",
+      "original_title": "A Christmas Carol",
+      "overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+      "popularity": 17.3011,
+      "poster_path": "/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg",
+      "release_date": "2009-11-04",
+      "title": "A Christmas Carol",
+      "video": false,
+      "vote_average": 6.897,
+      "vote_count": 4780
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1156593,
+      "original_language": "es",
+      "original_title": "Culpa tuya",
+      "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+      "popularity": 14.3969,
+      "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+      "release_date": "2024-12-26",
+      "title": "Your Fault",
+      "video": false,
+      "vote_average": 7.134,
+      "vote_count": 1463
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 1214130,
+      "original_language": "en",
+      "original_title": "Stitch Head",
+      "overview": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+      "popularity": 16.2713,
+      "poster_path": "/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
+      "release_date": "2025-10-16",
+      "title": "Stitch Head",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+      "genre_ids": [
+        80
+      ],
+      "id": 941109,
+      "original_language": "en",
+      "original_title": "Play Dirty",
+      "overview": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
+      "popularity": 18.3941,
+      "poster_path": "/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+      "release_date": "2025-09-30",
+      "title": "Play Dirty",
+      "video": false,
+      "vote_average": 6.602,
+      "vote_count": 497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 1084199,
+      "original_language": "en",
+      "original_title": "Companion",
+      "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+      "popularity": 17.0845,
+      "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "release_date": "2025-01-22",
+      "title": "Companion",
+      "video": false,
+      "vote_average": 7.043,
+      "vote_count": 1912
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1100988,
+      "original_language": "en",
+      "original_title": "28 Years Later",
+      "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+      "popularity": 17.6465,
+      "poster_path": "/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg",
+      "release_date": "2025-06-18",
+      "title": "28 Years Later",
+      "video": false,
+      "vote_average": 6.664,
+      "vote_count": 1772
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 122917,
+      "original_language": "en",
+      "original_title": "The Hobbit: The Battle of the Five Armies",
+      "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+      "popularity": 16.8277,
+      "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+      "release_date": "2014-12-10",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "video": false,
+      "vote_average": 7.33,
+      "vote_count": 14932
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m9k4N5KKGzSyJRyzvYfF0FUmyv8.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 1229910,
+      "original_language": "en",
+      "original_title": "Kryptic",
+      "overview": "A woman’s search for a missing cryptzoologist leads to her own riveting cosmic quest for identity.",
+      "popularity": 16.5382,
+      "poster_path": "/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg",
+      "release_date": "2025-06-09",
+      "title": "Kryptic",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 2062,
+      "original_language": "en",
+      "original_title": "Ratatouille",
+      "overview": "Remy, a resident of Paris, has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, Remy finds himself ideally placed to realize his dream. He forms an unusual alliance with the restaurants rookie employee, and together they work through challenges stemming from Head Chef Skinner, Remy’s colony, and renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
+      "popularity": 17.3997,
+      "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "release_date": "2007-06-28",
+      "title": "Ratatouille",
+      "video": false,
+      "vote_average": 7.834,
+      "vote_count": 17971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 823464,
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 16.1712,
+      "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla x Kong: The New Empire",
+      "video": false,
+      "vote_average": 7.072,
+      "vote_count": 4424
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "popularity": 15.9144,
+      "poster_path": "/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg",
+      "release_date": "1999-12-10",
+      "title": "The Green Mile",
+      "video": false,
+      "vote_average": 8.503,
+      "vote_count": 18609
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/upYR21JkdXSGHVMMlWpm3t5z7CB.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1272837,
+      "original_language": "en",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "popularity": 15.1112,
+      "poster_path": "/r9JPGoCtlMfhy47gtFs1wUMX2mB.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 Years Later: The Bone Temple",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 760329,
+      "original_language": "en",
+      "original_title": "The Smashing Machine",
+      "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+      "popularity": 19.2076,
+      "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+      "release_date": "2025-10-01",
+      "title": "The Smashing Machine",
+      "video": false,
+      "vote_average": 6.55,
+      "vote_count": 298
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

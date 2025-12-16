@@ -1,0 +1,408 @@
+{
+  "page": 12,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xWXTfnmQZhdYyqEPCCKL1IQKUxj.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 285,
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: At World's End",
+      "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+      "popularity": 18.4818,
+      "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "release_date": "2007-05-19",
+      "title": "Pirates of the Caribbean: At World's End",
+      "video": false,
+      "vote_average": 7.266,
+      "vote_count": 15072
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 569094,
+      "original_language": "en",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+      "popularity": 22.6258,
+      "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "release_date": "2023-05-31",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "video": false,
+      "vote_average": 8.338,
+      "vote_count": 8079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 57158,
+      "original_language": "en",
+      "original_title": "The Hobbit: The Desolation of Smaug",
+      "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+      "popularity": 15.1786,
+      "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "release_date": "2013-12-11",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "video": false,
+      "vote_average": 7.573,
+      "vote_count": 13785
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 82702,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon 2",
+      "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Now, Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
+      "popularity": 16.5975,
+      "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "release_date": "2014-06-05",
+      "title": "How to Train Your Dragon 2",
+      "video": false,
+      "vote_average": 7.677,
+      "vote_count": 10136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5OEcsHKZy9TLFz9qXLp5NJN9K8e.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35
+      ],
+      "id": 1064307,
+      "original_language": "no",
+      "original_title": "Spermageddon",
+      "overview": "Two narrative threads: one is an emerging love story between awkward teens Jens and Lisa, who are having sex for the first time; the other, an eventful quest of Simon the Semen and his friends to reach the golden goal, the Egg.",
+      "popularity": 18.8665,
+      "poster_path": "/n7SFxle8CVzMXzfV8GNCXqdg78m.jpg",
+      "release_date": "2025-02-21",
+      "title": "Spermageddon",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "id": 507244,
+      "original_language": "en",
+      "original_title": "Afterburn",
+      "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+      "popularity": 17.4243,
+      "poster_path": "/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
+      "release_date": "2025-08-20",
+      "title": "Afterburn",
+      "video": false,
+      "vote_average": 6.788,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 58,
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+      "popularity": 17.839,
+      "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "release_date": "2006-07-06",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "video": false,
+      "vote_average": 7.373,
+      "vote_count": 16740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 539972,
+      "original_language": "en",
+      "original_title": "Kraven the Hunter",
+      "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+      "popularity": 18.1525,
+      "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
+      "release_date": "2024-12-11",
+      "title": "Kraven the Hunter",
+      "video": false,
+      "vote_average": 6.47,
+      "vote_count": 2123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cBgJJS19kVxedaLWPBbAi7Mh8wM.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878,
+        53
+      ],
+      "id": 1376434,
+      "original_language": "en",
+      "original_title": "Predator: Killer of Killers",
+      "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+      "popularity": 19.9074,
+      "poster_path": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+      "release_date": "2025-06-05",
+      "title": "Predator: Killer of Killers",
+      "video": false,
+      "vote_average": 7.862,
+      "vote_count": 988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 986097,
+      "original_language": "en",
+      "original_title": "HIM",
+      "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
+      "popularity": 23.602,
+      "poster_path": "/ce6wANgLoSV16Q1H3v0b6yjFOVs.jpg",
+      "release_date": "2025-09-18",
+      "title": "HIM",
+      "video": false,
+      "vote_average": 5.822,
+      "vote_count": 247
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "id": 862,
+      "original_language": "en",
+      "original_title": "Toy Story",
+      "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "popularity": 17.5498,
+      "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "release_date": "1995-11-22",
+      "title": "Toy Story",
+      "video": false,
+      "vote_average": 7.97,
+      "vote_count": 19343
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jE9PtFwRbTr3WrlGd81SGDSJNSQ.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 1328913,
+      "original_language": "es",
+      "original_title": "Padre no hay más que uno 5: Nido repleto",
+      "overview": "Some parents experience the anguish of the \"empty nest\" when their children leave home. Javier, on the other hand, suffers the trauma of the \"full nest\": no one wants to leave home.",
+      "popularity": 16.6834,
+      "poster_path": "/7H27uvaPZfq794qVcLFrSEgHseZ.jpg",
+      "release_date": "2025-06-26",
+      "title": "Padre no hay más que uno 5: Nido repleto",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zFK6Abddsh9FE8GAH61uO2Oq0St.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 1352624,
+      "original_language": "en",
+      "original_title": "The Mastermind",
+      "overview": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
+      "popularity": 18.508,
+      "poster_path": "/w41wCJGcQM4Bdd0OeQ26UNi5o39.jpg",
+      "release_date": "2025-10-16",
+      "title": "The Mastermind",
+      "video": false,
+      "vote_average": 5.718,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+      "genre_ids": [
+        878,
+        28,
+        18,
+        53
+      ],
+      "id": 119450,
+      "original_language": "en",
+      "original_title": "Dawn of the Planet of the Apes",
+      "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+      "popularity": 18.2535,
+      "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "release_date": "2014-07-08",
+      "title": "Dawn of the Planet of the Apes",
+      "video": false,
+      "vote_average": 7.334,
+      "vote_count": 11926
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mijSBMlvAp4QoCpEShrl62444Cb.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1134278,
+      "original_language": "fr",
+      "original_title": "Maraé",
+      "overview": "A surf vacation turns into a nightmare when a group of surfers go looking for waves on a mysterious island that isn't on any map.",
+      "popularity": 18.4077,
+      "poster_path": "/s2XGmV7exdrQ9WUTxqgjC3Ch0UZ.jpg",
+      "release_date": "2024-07-11",
+      "title": "Pacific Fear",
+      "video": false,
+      "vote_average": 4.486,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "popularity": 20.6199,
+      "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "release_date": "1999-10-15",
+      "title": "Fight Club",
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 31089
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 361743,
+      "original_language": "en",
+      "original_title": "Top Gun: Maverick",
+      "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "popularity": 19.2559,
+      "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "release_date": "2022-05-21",
+      "title": "Top Gun: Maverick",
+      "video": false,
+      "vote_average": 8.162,
+      "vote_count": 10400
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "popularity": 21.0557,
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "release_date": "2019-05-30",
+      "title": "Parasite",
+      "video": false,
+      "vote_average": 8.496,
+      "vote_count": 19797
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "popularity": 17.5087,
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "release_date": "2025-02-13",
+      "title": "The Gorge",
+      "video": false,
+      "vote_average": 7.662,
+      "vote_count": 3220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ycnO0cjsAROSGJKuMODgRtWsHQw.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "popularity": 19.0542,
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.044,
+      "vote_count": 11044
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

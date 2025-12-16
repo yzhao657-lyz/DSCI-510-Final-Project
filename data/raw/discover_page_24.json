@@ -1,0 +1,400 @@
+{
+  "page": 24,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1151031,
+      "original_language": "en",
+      "original_title": "Bring Her Back",
+      "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+      "popularity": 13.8121,
+      "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+      "release_date": "2025-05-28",
+      "title": "Bring Her Back",
+      "video": false,
+      "vote_average": 7.409,
+      "vote_count": 1229
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 840326,
+      "original_language": "fi",
+      "original_title": "Sisu",
+      "overview": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+      "popularity": 12.3618,
+      "poster_path": "/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+      "release_date": "2022-09-09",
+      "title": "Sisu",
+      "video": false,
+      "vote_average": 7.403,
+      "vote_count": 2539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+      "genre_ids": [
+        27,
+        53,
+        28,
+        12
+      ],
+      "id": 396535,
+      "original_language": "ko",
+      "original_title": "부산행",
+      "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+      "popularity": 13.9646,
+      "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+      "release_date": "2016-07-20",
+      "title": "Train to Busan",
+      "video": false,
+      "vote_average": 7.747,
+      "vote_count": 8067
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 210577,
+      "original_language": "en",
+      "original_title": "Gone Girl",
+      "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "popularity": 13.6189,
+      "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "release_date": "2014-10-01",
+      "title": "Gone Girl",
+      "video": false,
+      "vote_average": 7.89,
+      "vote_count": 19468
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 180,
+      "original_language": "en",
+      "original_title": "Minority Report",
+      "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+      "popularity": 11.8874,
+      "poster_path": "/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
+      "release_date": "2002-06-20",
+      "title": "Minority Report",
+      "video": false,
+      "vote_average": 7.35,
+      "vote_count": 9275
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1241752,
+      "original_language": "tl",
+      "original_title": "Rita",
+      "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
+      "popularity": 12.7841,
+      "poster_path": "/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg",
+      "release_date": "2024-03-22",
+      "title": "Rita",
+      "video": false,
+      "vote_average": 6.05,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 283995,
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 2",
+      "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "popularity": 12.6717,
+      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "release_date": "2017-04-19",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "video": false,
+      "vote_average": 7.612,
+      "vote_count": 22443
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16,
+        28,
+        35
+      ],
+      "id": 177572,
+      "original_language": "en",
+      "original_title": "Big Hero 6",
+      "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "popularity": 13.5833,
+      "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "release_date": "2014-10-24",
+      "title": "Big Hero 6",
+      "video": false,
+      "vote_average": 7.727,
+      "vote_count": 16207
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p96949hcwUG2BwE6MgKmw0uYNCx.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 217,
+      "original_language": "en",
+      "original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "overview": "Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+      "popularity": 12.0553,
+      "poster_path": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "release_date": "2008-05-21",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "video": false,
+      "vote_average": 6.019,
+      "vote_count": 8751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 1086910,
+      "original_language": "en",
+      "original_title": "The Lost Princess",
+      "overview": "After an Ayahuasca vision transports him to a haunted castle, Alec meets Hanna who tales him the story of her mother's forced marriage and how the forbidden passion with her father was in danger when the princess pregnancy became obvious",
+      "popularity": 14.4412,
+      "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
+      "release_date": "2025-10-16",
+      "title": "The Lost Princess",
+      "video": false,
+      "vote_average": 6.225,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        14,
+        10751
+      ],
+      "id": 10198,
+      "original_language": "en",
+      "original_title": "The Princess and the Frog",
+      "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
+      "popularity": 12.1836,
+      "poster_path": "/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
+      "release_date": "2009-12-08",
+      "title": "The Princess and the Frog",
+      "video": false,
+      "vote_average": 7.214,
+      "vote_count": 5940
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+      "genre_ids": [
+        53,
+        27,
+        9648
+      ],
+      "id": 399366,
+      "original_language": "es",
+      "original_title": "El secreto de Marrowbone",
+      "overview": "A young man and his three younger siblings are plagued by a sinister presence in the sprawling manor in which they live.",
+      "popularity": 12.7205,
+      "poster_path": "/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
+      "release_date": "2017-10-27",
+      "title": "Marrowbone",
+      "video": false,
+      "vote_average": 7.275,
+      "vote_count": 1742
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yujcZMkNKtNXPvRGyTA3e3VCrbx.jpg",
+      "genre_ids": [
+        28,
+        14,
+        10752
+      ],
+      "id": 1155281,
+      "original_language": "zh",
+      "original_title": "封神第二部：战火西岐",
+      "overview": "Taishi Wen Zhong led the army of Shang Dynasty including Deng Chanyu and four generals of the Mo Family to Xiqi. With the help of Kunlun immortals such as Jiang Ziya, Ji Fa led the army and civilians of Xiqi to defend their homeland.",
+      "popularity": 15.2062,
+      "poster_path": "/dfUCs5HNtGu4fofh83uiE2Qcy3v.jpg",
+      "release_date": "2025-01-29",
+      "title": "Creation of the Gods II: Demon Force",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 118
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70IkmVGiWKwZj0BmQahLlwSLJja.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 10719,
+      "original_language": "en",
+      "original_title": "Elf",
+      "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "popularity": 16.615,
+      "poster_path": "/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "release_date": "2003-11-07",
+      "title": "Elf",
+      "video": false,
+      "vote_average": 6.659,
+      "vote_count": 4340
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/by7k8LWzRO4zVhwL1TunlwFdbx9.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 68718,
+      "original_language": "en",
+      "original_title": "Django Unchained",
+      "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "popularity": 13.6517,
+      "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "release_date": "2012-12-25",
+      "title": "Django Unchained",
+      "video": false,
+      "vote_average": 8.185,
+      "vote_count": 27323
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8tRDmaAXSoX1l57PvtUdd0byxWC.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10402,
+        10751
+      ],
+      "id": 818110,
+      "original_language": "en",
+      "original_title": "The Magic Flute - Das Vermächtnis der Zauberflöte",
+      "overview": "A seventeen year old travels from London to the Austrian Alps to attend the legendary Mozart boarding school. There, he discovers a centuries-old forgotten passageway into the fantastic world of Mozart's \"The Magic Flute\".",
+      "popularity": 12.3186,
+      "poster_path": "/AeIKugiQy1e3RZTrwXH1a84D8eo.jpg",
+      "release_date": "2022-09-30",
+      "title": "The Magic Flute",
+      "video": false,
+      "vote_average": 6.442,
+      "vote_count": 121
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "popularity": 14.5448,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "release_date": "1993-12-15",
+      "title": "Schindler's List",
+      "video": false,
+      "vote_average": 8.566,
+      "vote_count": 16904
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ajdB8AoHKrYlOR4yMDMZYLFyfdj.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1235746,
+      "original_language": "en",
+      "original_title": "Dead of Winter",
+      "overview": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope.",
+      "popularity": 12.9362,
+      "poster_path": "/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+      "release_date": "2025-09-23",
+      "title": "Dead of Winter",
+      "video": false,
+      "vote_average": 6.449,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 307344,
+      "original_language": "te",
+      "original_title": "శివమ్",
+      "overview": "The story of a boy (Ram) who wants to make his love life and marriage a success. The movie is directed by Srinivas Reddy and produced by Ravi Kishore. The film is produced under Sri Sravanthi movies banner.",
+      "popularity": 13.1741,
+      "poster_path": "/ulChVthJVkvmqVbiHlnCFZ8yjBp.jpg",
+      "release_date": "2015-10-02",
+      "title": "Shivam",
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qvTSlCybsirnW4L1EKzjkWAqwBo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 35712,
+      "original_language": "fr",
+      "original_title": "Choses secrètes",
+      "overview": "Two young women find themselves struggling to survive in Paris, street-wise Nathalie, a stripper, and naïve Sandrine, a barmaid. Together, they discover that sex can be used to their advantage, and pleasure.",
+      "popularity": 17.7964,
+      "poster_path": "/8OVBix4F2qUdb8e128jBu1EJUw0.jpg",
+      "release_date": "2002-10-16",
+      "title": "Secret Things",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 104
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

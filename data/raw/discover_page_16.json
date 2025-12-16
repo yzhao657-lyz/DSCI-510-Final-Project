@@ -1,0 +1,406 @@
+{
+  "page": 16,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "popularity": 15.4825,
+      "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "release_date": "2022-03-01",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 7.66,
+      "vote_count": 11422
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        35,
+        12,
+        14
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "popularity": 15.4109,
+      "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.025,
+      "vote_count": 3302
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg",
+      "genre_ids": [
+        28,
+        36,
+        18,
+        12,
+        10752
+      ],
+      "id": 1051486,
+      "original_language": "en",
+      "original_title": "Stockholm Bloodbath",
+      "overview": "In 1520, the notorious and power-hungry Danish King Christian II is determined to seize the Swedish crown from Sten Sture, no matter what it takes. Meanwhile, sisters Freja and Anne make a solemn promise to seek revenge on the men who brutally murdered their family. Everything comes to a head in the heart of Stockholm, where the sisters are drawn into a ruthless political struggle between Sweden and Denmark that culminates in a mass execution, presided over by the mad King \"Christian the Tyrant,\" known as the Stockholm Bloodbath.",
+      "popularity": 16.9311,
+      "poster_path": "/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg",
+      "release_date": "2024-01-19",
+      "title": "Stockholm Bloodbath",
+      "video": false,
+      "vote_average": 6.15,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 68721,
+      "original_language": "en",
+      "original_title": "Iron Man 3",
+      "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "popularity": 16.5277,
+      "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "release_date": "2013-04-18",
+      "title": "Iron Man 3",
+      "video": false,
+      "vote_average": 6.93,
+      "vote_count": 22971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qJfgA6bUM7iAkcADrapIj8i6LOY.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 9714,
+      "original_language": "en",
+      "original_title": "Home Alone 3",
+      "overview": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try to break into his house to get it back.",
+      "popularity": 16.3182,
+      "poster_path": "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
+      "release_date": "1997-12-12",
+      "title": "Home Alone 3",
+      "video": false,
+      "vote_average": 5.273,
+      "vote_count": 3170
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hGLywNhy1Fo1rNFHsNZsXGS69B8.jpg",
+      "genre_ids": [
+        878,
+        35,
+        12
+      ],
+      "id": 696506,
+      "original_language": "en",
+      "original_title": "Mickey 17",
+      "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+      "popularity": 16.4291,
+      "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "release_date": "2025-02-28",
+      "title": "Mickey 17",
+      "video": false,
+      "vote_average": 6.84,
+      "vote_count": 2980
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 91314,
+      "original_language": "en",
+      "original_title": "Transformers: Age of Extinction",
+      "overview": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
+      "popularity": 17.0585,
+      "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+      "release_date": "2014-06-25",
+      "title": "Transformers: Age of Extinction",
+      "video": false,
+      "vote_average": 5.955,
+      "vote_count": 8535
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zIMnlhrGpcjlbc6zoK2O9jPBQZW.jpg",
+      "genre_ids": [
+        10402,
+        10749
+      ],
+      "id": 1151411,
+      "original_language": "en",
+      "original_title": "Royal Opera House: Madama Butterfly",
+      "overview": "Cio-Cio-San, the young Japanese bride of American naval officer Lieutenant Pinkerton, finds her romantic idyll shattered when he deserts her shortly after their marriage. She lives in hope that one day he will return.",
+      "popularity": 14.7432,
+      "poster_path": "/9MY3QKCYNqhPcyg8P9FqFHPQsuk.jpg",
+      "release_date": "2024-03-26",
+      "title": "Royal Opera House: Madama Butterfly",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 991494,
+      "original_language": "en",
+      "original_title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "popularity": 16.5489,
+      "poster_path": "/jxJ9FMREmSOSqz45viIjYkP7eFE.jpg",
+      "release_date": "2025-12-16",
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "video": false,
+      "vote_average": 9.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 99861,
+      "original_language": "en",
+      "original_title": "Avengers: Age of Ultron",
+      "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "popularity": 22.8069,
+      "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "release_date": "2015-04-22",
+      "title": "Avengers: Age of Ultron",
+      "video": false,
+      "vote_average": 7.271,
+      "vote_count": 23905
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/teRLn0uy7Ttggbi7ll5kipPrynv.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1572017,
+      "original_language": "en",
+      "original_title": "Love and Wine",
+      "overview": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
+      "popularity": 14.5988,
+      "poster_path": "/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+      "release_date": "2025-12-05",
+      "title": "Love and Wine",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 558449,
+      "original_language": "en",
+      "original_title": "Gladiator II",
+      "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "popularity": 17.538,
+      "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "release_date": "2024-11-13",
+      "title": "Gladiator II",
+      "video": false,
+      "vote_average": 6.652,
+      "vote_count": 4046
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5vfnC3TUpfJCeOaSCn8WArGvEKe.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 405998,
+      "original_language": "cn",
+      "original_title": "青春援助交際",
+      "overview": "A group of Hong Kong hostess girls where they mingle with clients to make money to spend at other clubs after prostituting themselves.",
+      "popularity": 19.7804,
+      "poster_path": "/r26iZopLdu0eyuzS5EHaoPC85Ac.jpg",
+      "release_date": "1998-10-17",
+      "title": "PR Girls",
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6UKhOhwNhfC5CBohere70svnKcH.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 1196364,
+      "original_language": "hi",
+      "original_title": "Thamma",
+      "overview": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
+      "popularity": 15.2916,
+      "poster_path": "/udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
+      "release_date": "2025-10-21",
+      "title": "Thamma",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 8966,
+      "original_language": "en",
+      "original_title": "Twilight",
+      "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+      "popularity": 14.9369,
+      "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "release_date": "2008-11-20",
+      "title": "Twilight",
+      "video": false,
+      "vote_average": 6.284,
+      "vote_count": 14101
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sTgavNm82pTaZR9U2NQZ1J2FrJz.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 788,
+      "original_language": "en",
+      "original_title": "Mrs. Doubtfire",
+      "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+      "popularity": 14.9221,
+      "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "release_date": "1993-11-24",
+      "title": "Mrs. Doubtfire",
+      "video": false,
+      "vote_average": 7.194,
+      "vote_count": 6411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 14836,
+      "original_language": "en",
+      "original_title": "Coraline",
+      "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "popularity": 15.4574,
+      "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "release_date": "2009-02-05",
+      "title": "Coraline",
+      "video": false,
+      "vote_average": 7.897,
+      "vote_count": 8675
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+      "genre_ids": [
+        35,
+        14,
+        10751
+      ],
+      "id": 1125257,
+      "original_language": "en",
+      "original_title": "Freakier Friday",
+      "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+      "popularity": 15.7051,
+      "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "release_date": "2025-08-06",
+      "title": "Freakier Friday",
+      "video": false,
+      "vote_average": 6.839,
+      "vote_count": 510
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        10402
+      ],
+      "id": 1241634,
+      "original_language": "hi",
+      "original_title": "सैयारा",
+      "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+      "popularity": 14.4104,
+      "poster_path": "/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+      "release_date": "2025-07-18",
+      "title": "Saiyaara",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 120
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 37165,
+      "original_language": "en",
+      "original_title": "The Truman Show",
+      "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "popularity": 15.1845,
+      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "release_date": "1998-06-04",
+      "title": "The Truman Show",
+      "video": false,
+      "vote_average": 8.15,
+      "vote_count": 19541
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

@@ -1,0 +1,402 @@
+{
+  "page": 19,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
+      "genre_ids": [
+        80,
+        27,
+        53
+      ],
+      "id": 73861,
+      "original_language": "sr",
+      "original_title": "Srpski film",
+      "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+      "popularity": 13.9221,
+      "poster_path": "/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+      "release_date": "2010-01-06",
+      "title": "A Serbian Film",
+      "video": false,
+      "vote_average": 5.446,
+      "vote_count": 2142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 156022,
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "popularity": 14.4789,
+      "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "release_date": "2014-09-24",
+      "title": "The Equalizer",
+      "video": false,
+      "vote_average": 7.283,
+      "vote_count": 9612
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1IMGRRPJYpdO7hNxsBgrexYxxGx.jpg",
+      "genre_ids": [
+        35,
+        18,
+        12
+      ],
+      "id": 1290183,
+      "original_language": "ko",
+      "original_title": "퍼스트 라이드",
+      "overview": "Four lifelong friends—Tae-jeong, Do-jin, Yeon-min, and Geum-bok—dreamed of an epic trip abroad, but life got in the way. Years later, older but not necessarily wiser, they finally embark on their long-overdue journey. Planned as a carefree getaway, however, the trip derails into a whirlwind of unexpected chaos, hilariously absurd detours, and buried emotions resurfacing. As they stumble through misadventures, their first ride together turns into a spectacular journey—one for the ages.",
+      "popularity": 14.0057,
+      "poster_path": "/wmjot8Wc2lKQaZFhUKbfUyy7rDG.jpg",
+      "release_date": "2025-10-29",
+      "title": "The First Ride",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sdh76YtGseZHPk4WiOJjMzKKFSB.jpg",
+      "genre_ids": [
+        16,
+        18,
+        14
+      ],
+      "id": 1056803,
+      "original_language": "ja",
+      "original_title": "青春ブタ野郎はおでかけシスターの夢を見ない",
+      "overview": "After a draining December, Sakuta is quickly nearing the end of his second year of high school. Since Mai is a third-year student, they don't have much time left together before graduation rolls around. Meanwhile, his sister, Kaede, is slowly but steadily venturing outdoors again. Just as she begins to find her footing, she announces her most ambitious goal yet—attending her brother's high school! Sakuta knows better than anyone how difficult this will be for Kaede, and he's ready to support her however he can. He's just not sure if that's what's best for her...or what she really wants...",
+      "popularity": 16.0967,
+      "poster_path": "/o3Yc0plKnzpck0SM3rQLjWBHel8.jpg",
+      "release_date": "2023-06-23",
+      "title": "Rascal Does Not Dream of a Sister Venturing Out",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        28,
+        12
+      ],
+      "id": 9502,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda",
+      "overview": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+      "popularity": 15.9611,
+      "poster_path": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+      "release_date": "2008-06-04",
+      "title": "Kung Fu Panda",
+      "video": false,
+      "vote_average": 7.31,
+      "vote_count": 12234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7JhsJxNmdW0y4IyNrHy10cECrAz.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 109418,
+      "original_language": "en",
+      "original_title": "Grown Ups 2",
+      "overview": "Lenny has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises—the last day of school.",
+      "popularity": 13.8687,
+      "poster_path": "/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
+      "release_date": "2013-07-11",
+      "title": "Grown Ups 2",
+      "video": false,
+      "vote_average": 6.145,
+      "vote_count": 4538
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i1MKJ2E4xE6EYXznsmB68NgtJ2H.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 308759,
+      "original_language": "de",
+      "original_title": "Widows - Erst die Ehe, dann das Vergnügen",
+      "overview": "A black comedy about the dream of freedom and the difficulty of obtaining this: While Molly (Eva Mattes), Elisabeth (Katja Flint) and Maria (Ornella Muti) are great friends, but at the same time completely different. Molly is a difficult stressed housewife and mother of three children, Elisabeth is the perfect career woman and Maria uses already in their third marriage sex appeal to get ahead in life. But one day it turns out that the three except their friendship still connects another great thing in common: They are all tired of her life as a wife. And so begins the story of a rabenscharzen comedy about the dream of freedom and the difficulties to achieve this. The only question is: How are they merely their husbands going on?",
+      "popularity": 15.29,
+      "poster_path": "/wlcYSaLOKMBp5rJiEzf1MFv0MLe.jpg",
+      "release_date": "1998-01-22",
+      "title": "Widows",
+      "video": false,
+      "vote_average": 3.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ce51NvJSO5ReNkm3C3YDX5jsH1V.jpg",
+      "genre_ids": [
+        99,
+        10751,
+        12
+      ],
+      "id": 1094473,
+      "original_language": "fr",
+      "original_title": "Bambi, l'histoire d'une vie dans les bois",
+      "overview": "The life of Bambi, a male roe deer, from his birth through childhood, the loss of his mother, the finding of a mate, the lessons he learns from his father, and the experience he gains about the dangers posed by human hunters in the forest.",
+      "popularity": 15.0553,
+      "poster_path": "/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg",
+      "release_date": "2024-10-16",
+      "title": "Bambi: A Tale of Life in the Woods",
+      "video": false,
+      "vote_average": 6.294,
+      "vote_count": 63
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 297762,
+      "original_language": "en",
+      "original_title": "Wonder Woman",
+      "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+      "popularity": 15.4372,
+      "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "release_date": "2017-05-30",
+      "title": "Wonder Woman",
+      "video": false,
+      "vote_average": 7.214,
+      "vote_count": 20567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "id": 299534,
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "popularity": 16.2237,
+      "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+      "release_date": "2019-04-24",
+      "title": "Avengers: Endgame",
+      "video": false,
+      "vote_average": 8.237,
+      "vote_count": 27000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qG2uiyOgXkqWhAG7EpfNgwaYTJ3.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 801937,
+      "original_language": "en",
+      "original_title": "Silent Night, Deadly Night",
+      "overview": "After witnessing his parents’ brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+      "popularity": 15.8029,
+      "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+      "release_date": "2025-12-11",
+      "title": "Silent Night, Deadly Night",
+      "video": false,
+      "vote_average": 4.583,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 559,
+      "original_language": "en",
+      "original_title": "Spider-Man 3",
+      "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+      "popularity": 14.7158,
+      "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "release_date": "2007-05-01",
+      "title": "Spider-Man 3",
+      "video": false,
+      "vote_average": 6.448,
+      "vote_count": 14811
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 293660,
+      "original_language": "en",
+      "original_title": "Deadpool",
+      "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "popularity": 15.5581,
+      "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "release_date": "2016-02-09",
+      "title": "Deadpool",
+      "video": false,
+      "vote_average": 7.623,
+      "vote_count": 32132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 11324,
+      "original_language": "en",
+      "original_title": "Shutter Island",
+      "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "popularity": 15.0808,
+      "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "release_date": "2010-02-14",
+      "title": "Shutter Island",
+      "video": false,
+      "vote_average": 8.201,
+      "vote_count": 25130
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cpd1CcHwgjQMkACDC9R5LtQcGXK.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 9072,
+      "original_language": "en",
+      "original_title": "Little Man",
+      "overview": "After leaving the prison, the dwarf criminal Calvin Sims joins to his moron brother Percy to steal an expensive huge diamond in a jewelry for the mobster Walken. They are chased by the police, and Calvin hides the stone in the purse of the executive Vanessa Edwards, whose husband Darryl Edwards wants to have a baby. Percy convinces Calvin to dress like a baby and be left in front of the Edwards's house to get inside the house and retrieve the diamond. Darryl and Vanessa keep Calvin for the weekend and decide to adopt him, while Walken threatens Darryl to get the stone back.",
+      "popularity": 14.2497,
+      "poster_path": "/9KzPw1VN0pMBnq1KIqBaLI8LAB7.jpg",
+      "release_date": "2006-08-31",
+      "title": "Little Man",
+      "video": false,
+      "vote_average": 5.927,
+      "vote_count": 1839
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "genre_ids": [
+        9648,
+        27,
+        35
+      ],
+      "id": 1422011,
+      "original_language": "en",
+      "original_title": "It Ends",
+      "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+      "popularity": 14.2716,
+      "poster_path": "/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
+      "release_date": "2025-03-07",
+      "title": "It Ends",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+      "genre_ids": [
+        28,
+        10749,
+        16
+      ],
+      "id": 317442,
+      "original_language": "ja",
+      "original_title": "THE LAST -NARUTO THE MOVIE-",
+      "overview": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
+      "popularity": 14.0083,
+      "poster_path": "/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+      "release_date": "2014-12-06",
+      "title": "The Last: Naruto the Movie",
+      "video": false,
+      "vote_average": 7.456,
+      "vote_count": 2349
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 499227,
+      "original_language": "en",
+      "original_title": "One Nation Under God",
+      "overview": "A student boldly stands up for God when a Presidential candidate visits his school. The exchange goes viral challenging both to step out in faith and be the men that God has called them to be.",
+      "popularity": 6.801,
+      "poster_path": "/42kx9UEHfPP6k063FLEC8sPkbMk.jpg",
+      "release_date": "2019-07-04",
+      "title": "One Nation Under God",
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 291805,
+      "original_language": "en",
+      "original_title": "Now You See Me 2",
+      "overview": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+      "popularity": 17.2866,
+      "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+      "release_date": "2016-06-02",
+      "title": "Now You See Me 2",
+      "video": false,
+      "vote_average": 6.827,
+      "vote_count": 11225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        53,
+        12
+      ],
+      "id": 573435,
+      "original_language": "en",
+      "original_title": "Bad Boys: Ride or Die",
+      "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+      "popularity": 14.9151,
+      "poster_path": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+      "release_date": "2024-06-05",
+      "title": "Bad Boys: Ride or Die",
+      "video": false,
+      "vote_average": 7.347,
+      "vote_count": 3138
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

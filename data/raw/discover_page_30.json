@@ -1,0 +1,396 @@
+{
+  "page": 30,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751,
+        14
+      ],
+      "id": 118,
+      "original_language": "en",
+      "original_title": "Charlie and the Chocolate Factory",
+      "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+      "popularity": 13.4927,
+      "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "release_date": "2005-07-13",
+      "title": "Charlie and the Chocolate Factory",
+      "video": false,
+      "vote_average": 7.04,
+      "vote_count": 15784
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k4AQXW0HFkyli7UiaJffZ110ouN.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 671961,
+      "original_language": "fr",
+      "original_title": "Comment nous avons construit le métro de Moscou",
+      "overview": "In the 1930’s, the workers of the underground, headed by brigades of writers, are in charge to write in real time \"the history of the Moscow Metro\". Based on their narratives, partially unpublished, the film recounts the first lines construction of the most beautifiul underground in the world, in the light of this \"big literary Utopia\", stoped by the purges of 1937-38.",
+      "popularity": 8.0681,
+      "poster_path": "/fTN2tUMuoYzC7ame5shQ7KDfRuM.jpg",
+      "release_date": "2014-03-18",
+      "title": "How we built the Moscow metro",
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/btzQCWf1WFGk1jiDV97FhjRpZua.jpg",
+      "genre_ids": [
+        99,
+        10752
+      ],
+      "id": 495811,
+      "original_language": "ja",
+      "original_title": "Nijuu hibaku, Kataribe Yamaguchi Tsutomu no yuigon",
+      "overview": "Tsutomu Yamaguchi is a hibakusha. A survivor of both atomic bomb blasts in 1945. First at Hiroshima, then again at Nagasaki. Now nearing 90, Yamaguchi finally speaks out. Breaking taboos of shame and sorrow, he responds to a call to fight for a world without nuclear weapons by telling his story, so that no one else will ever have to tell one like it again. Twice reconstructs Yamaguchi’s experiences in 1945 Japan, interviews him on the after-effects of exposure and documents the last five years of the late-blooming activist’s life.",
+      "popularity": 9.897,
+      "poster_path": "/c8sKkScIVVbV4N8iihXD1pGBNWf.jpg",
+      "release_date": "2010-01-05",
+      "title": "Twice: The Extraordinary Life of Tsutomu Yamaguchi",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a65WMR49PnWmSaCzaCyMNNHKQfn.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        10749
+      ],
+      "id": 1173558,
+      "original_language": "pt",
+      "original_title": "O Lado Bom de Ser Traída",
+      "overview": "Babi discovers a betrayal by her long-term partner and decides to embark on a new adventure in life. On this journey, she meets judge Marco and they begin to live a story permeated by a lot of sexual tension.",
+      "popularity": 12.0347,
+      "poster_path": "/3MxgXI3VO7QCNnP0mPBjxLIemNM.jpg",
+      "release_date": "2023-10-25",
+      "title": "Burning Betrayal",
+      "video": false,
+      "vote_average": 6.281,
+      "vote_count": 224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 76203,
+      "original_language": "en",
+      "original_title": "12 Years a Slave",
+      "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+      "popularity": 11.6882,
+      "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "release_date": "2013-10-18",
+      "title": "12 Years a Slave",
+      "video": false,
+      "vote_average": 7.934,
+      "vote_count": 11712
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 333339,
+      "original_language": "en",
+      "original_title": "Ready Player One",
+      "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+      "popularity": 11.5541,
+      "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "release_date": "2018-03-28",
+      "title": "Ready Player One",
+      "video": false,
+      "vote_average": 7.585,
+      "vote_count": 16411
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 560140,
+      "original_language": "fr",
+      "original_title": "Tout ce que vous avez vu est vrai",
+      "overview": "Autobiography fantasized around the manufacturing of a real movie.",
+      "popularity": 6.3683,
+      "poster_path": "/nJ3aCzFseSyNivUI0UyEePRZrcy.jpg",
+      "release_date": "2004-01-01",
+      "title": "All You Have Seen Is True",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 588228,
+      "original_language": "en",
+      "original_title": "The Tomorrow War",
+      "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+      "popularity": 13.3079,
+      "poster_path": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+      "release_date": "2021-09-03",
+      "title": "The Tomorrow War",
+      "video": false,
+      "vote_average": 7.488,
+      "vote_count": 3896
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lMbNREZF9cuF4p3buDZiuZc7fim.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 309685,
+      "original_language": "fr",
+      "original_title": "Le Grand Blanc de Lambaréné",
+      "overview": "Albert Schweitzer (1875-1965), the mission doctor, theologian and philosopher who founded a hospital in the rainforests of Gabon, achieved sainthood in his lifetime, at least in the popular imagination. The critical assessment of his life and works in recent years, however, has been slightly more ambivalent. Ba Kobhio Bassek is the first director to examine this medical missionary from a purely African point-of-view.",
+      "popularity": 8.571,
+      "poster_path": "/5df1Vj6IuqDVRP9QlLZDi0vfUPH.jpg",
+      "release_date": "1995-04-26",
+      "title": "The Great White of Lambarene",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xs6JgosAw0GVp5hEMFCet1F668a.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1434581,
+      "original_language": "id",
+      "original_title": "Rego Nyowo",
+      "overview": "Lena and her brother, Benhur, moved from Jakarta to Malang for college and stayed in a cozy boarding house owned by Mrs. Astri and Mr. Wiryo. Every week, all tenants gathered for a communal dinner. However, the peace turned into terror when a tenant had a strange dream and claimed the house was haunted, even seeing a hanging pocong. At first, no one believed it—until Lena saw it herself. This was no ordinary boarding house. The price to stay wasn’t money, but lives.",
+      "popularity": 11.0845,
+      "poster_path": "/mtvI3JDkxBm8dAIgTLs3ZAy9Wdk.jpg",
+      "release_date": "2025-07-31",
+      "title": "Take Me to Hell",
+      "video": false,
+      "vote_average": 3.667,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ki6xo54bV6dGLROmAbdftTvxl1p.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 52449,
+      "original_language": "en",
+      "original_title": "Bad Teacher",
+      "overview": "A lazy, incompetent middle school teacher who hates her job and her students is forced to return to her job to make enough money for a boob job after her rich fiancé dumps her.",
+      "popularity": 11.2984,
+      "poster_path": "/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg",
+      "release_date": "2011-05-16",
+      "title": "Bad Teacher",
+      "video": false,
+      "vote_average": 5.612,
+      "vote_count": 4841
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cdYj6HFpKp5NTmLiHHbNEGSmDT4.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 9919,
+      "original_language": "en",
+      "original_title": "How to Lose a Guy in 10 Days",
+      "overview": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking—and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
+      "popularity": 10.7633,
+      "poster_path": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+      "release_date": "2003-02-07",
+      "title": "How to Lose a Guy in 10 Days",
+      "video": false,
+      "vote_average": 6.852,
+      "vote_count": 4300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "genre_ids": [
+        36,
+        18,
+        53,
+        10752
+      ],
+      "id": 205596,
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "popularity": 13.9511,
+      "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "release_date": "2014-11-14",
+      "title": "The Imitation Game",
+      "video": false,
+      "vote_average": 7.989,
+      "vote_count": 17681
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eT1L3IVcHUL58wLn48E5dxlea3Z.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 1140535,
+      "original_language": "en",
+      "original_title": "Presence",
+      "overview": "A couple and their children move into a seemingly normal suburban home. When strange events occur, they begin to believe there is something else in the house with them. The presence is about to disrupt their lives in unimaginable ways.",
+      "popularity": 13.7653,
+      "poster_path": "/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",
+      "release_date": "2025-01-17",
+      "title": "Presence",
+      "video": false,
+      "vote_average": 6.103,
+      "vote_count": 624
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gSVk4r8Q4R8aeGY0hhEG3bE0QzL.jpg",
+      "genre_ids": [
+        12,
+        27,
+        53
+      ],
+      "id": 1252428,
+      "original_language": "zh",
+      "original_title": "狂蟒之灾",
+      "overview": "A struggling circus crew gets deceived by its former partner, as it embarks on a tour in Thailand. During the journey through a Southeast Asian rainforest, they encounter attacks by a giant python. They meet a mysterious man named Jeff who offers to help, but they soon realize he's a poacher. As they search for Jeff's boat, they face life-and-death struggles with the python and Jeff himself.",
+      "popularity": 12.5785,
+      "poster_path": "/pPfsEXzfk2URkQ1OxhUShAXdxMr.jpg",
+      "release_date": "2024-03-01",
+      "title": "Anaconda",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        10751,
+        18
+      ],
+      "id": 150689,
+      "original_language": "en",
+      "original_title": "Cinderella",
+      "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
+      "popularity": 11.9,
+      "poster_path": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+      "release_date": "2015-03-06",
+      "title": "Cinderella",
+      "video": false,
+      "vote_average": 6.826,
+      "vote_count": 7263
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/phZbS20UWYgsuZQSYumFtyWuuzm.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 1030076,
+      "original_language": "es",
+      "original_title": "Padre no hay más que uno 4: Campanas de boda",
+      "overview": "The eldest of the family, Sara, comes of age and brings chaos to the family by announcing her intention to marry Ocho. Javier and Marisa try to avoid it at all costs. At the same time Dani has an existential crisis, Paulita feels jealous of Cris, Carlota announces that she has found a boyfriend from a high society family and Rocio has finally managed to be cast in her first film.",
+      "popularity": 8.4454,
+      "poster_path": "/hTMvGolGJLF0GQ7mlwNjbXpsPZ.jpg",
+      "release_date": "2024-07-17",
+      "title": "Father There is Only One 4",
+      "video": false,
+      "vote_average": 7.037,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDPk862OKB0Ckkvebo4M2k5AKly.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        28,
+        12
+      ],
+      "id": 81188,
+      "original_language": "en",
+      "original_title": "Rise of the Guardians",
+      "overview": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.",
+      "popularity": 14.7063,
+      "poster_path": "/sW4qOa9yF0Ikg7lppncQ0n5UhKX.jpg",
+      "release_date": "2012-11-21",
+      "title": "Rise of the Guardians",
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 6978
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qjKHmLokI14sLVMJaTtqZ4TtYSI.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 56815,
+      "original_language": "es",
+      "original_title": "Post Mortem",
+      "overview": "In Chile, 1973, during the last days of Salvador Allende's presidency, an employee at a Morgue's recording office falls for a burlesque dancer who mysteriously disappears.",
+      "popularity": 11.521,
+      "poster_path": "/efB156IOsphoVkTYr3U9YpiYopJ.jpg",
+      "release_date": "2010-07-02",
+      "title": "Post Mortem",
+      "video": false,
+      "vote_average": 6.051,
+      "vote_count": 59
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        12
+      ],
+      "id": 12155,
+      "original_language": "en",
+      "original_title": "Alice in Wonderland",
+      "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
+      "popularity": 12.3807,
+      "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+      "release_date": "2010-03-03",
+      "title": "Alice in Wonderland",
+      "video": false,
+      "vote_average": 6.637,
+      "vote_count": 14487
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

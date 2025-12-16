@@ -1,0 +1,41 @@
+{
+  "rows_used": 499,
+  "budget_to_revenue": {
+    "model": "LinearRegression(log_budget -> log_revenue)",
+    "coef": 1.613530814112271,
+    "intercept": -10.75912760153778,
+    "r2": 0.3689624497644145,
+    "rmse": 4.542184267357257,
+    "n": 499
+  },
+  "multivariate_revenue_model": {
+    "model": "LinearRegression(features -> log_revenue)",
+    "features": [
+      "budget",
+      "popularity",
+      "vote_average",
+      "vote_count",
+      "movie_age",
+      "release_month",
+      "director_encoded"
+    ],
+    "r2": 0.34907688634650147,
+    "rmse": 4.613196924544443,
+    "n": 499
+  },
+  "outputs": [
+    "age_correlation.csv",
+    "bottom_roi_movies.csv",
+    "budget_revenue_metrics.json",
+    "correlation_matrix.csv",
+    "feature_importance.csv",
+    "genre_revenue.csv",
+    "genre_roi.csv",
+    "multivariate_metrics.json",
+    "season_stats.csv",
+    "summary.json",
+    "top_actors.csv",
+    "top_directors.csv",
+    "top_roi_movies.csv"
+  ]
+}

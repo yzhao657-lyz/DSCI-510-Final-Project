@@ -1,0 +1,403 @@
+{
+  "page": 4,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1327862,
+      "original_language": "en",
+      "original_title": "Regretting You",
+      "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+      "popularity": 49.0131,
+      "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+      "release_date": "2025-10-22",
+      "title": "Regretting You",
+      "video": false,
+      "vote_average": 7.052,
+      "vote_count": 172
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m829vJABXj21CGIIiVhy74BWRim.jpg",
+      "genre_ids": [
+        10751,
+        9648,
+        35
+      ],
+      "id": 1311379,
+      "original_language": "es",
+      "original_title": "Los futbolísimos  2 y el misterio del tesoro pirata",
+      "overview": "The Soto Alto football team, formed by Pakete and his friends, is at risk of being kicked out of the league. Thanks to a scam by a property development company, they’ve lost their pitch and now Los Justos, the team from a local reform school, looks set to take their place.",
+      "popularity": 44.6344,
+      "poster_path": "/sffjZlhE10T4I4PJo3tIAmB765x.jpg",
+      "release_date": "2025-08-08",
+      "title": "The Footballest 2",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 24428,
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "popularity": 46.5963,
+      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "release_date": "2012-04-25",
+      "title": "The Avengers",
+      "video": false,
+      "vote_average": 7.875,
+      "vote_count": 34427
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 1234821,
+      "original_language": "en",
+      "original_title": "Jurassic World Rebirth",
+      "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+      "popularity": 50.6527,
+      "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "release_date": "2025-07-01",
+      "title": "Jurassic World Rebirth",
+      "video": false,
+      "vote_average": 6.379,
+      "vote_count": 2591
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1038392,
+      "original_language": "en",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "popularity": 45.7598,
+      "poster_path": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+      "release_date": "2025-09-03",
+      "title": "The Conjuring: Last Rites",
+      "video": false,
+      "vote_average": 6.96,
+      "vote_count": 1450
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7JNzw1tSZZEgsBw6lu0VfO2X2Ef.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 19995,
+      "original_language": "en",
+      "original_title": "Avatar",
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "popularity": 51.0975,
+      "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "release_date": "2009-12-15",
+      "title": "Avatar",
+      "video": false,
+      "vote_average": 7.594,
+      "vote_count": 32909
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bvATKuxz9Wu53caHUJ7SP38gFQ3.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16,
+        878
+      ],
+      "id": 1022787,
+      "original_language": "en",
+      "original_title": "Elio",
+      "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+      "popularity": 48.0554,
+      "poster_path": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+      "release_date": "2025-06-18",
+      "title": "Elio",
+      "video": false,
+      "vote_average": 6.975,
+      "vote_count": 702
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        14
+      ],
+      "id": 8871,
+      "original_language": "en",
+      "original_title": "How the Grinch Stole Christmas",
+      "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+      "popularity": 45.0325,
+      "poster_path": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "release_date": "2000-11-17",
+      "title": "How the Grinch Stole Christmas",
+      "video": false,
+      "vote_average": 6.778,
+      "vote_count": 7981
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76600,
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "popularity": 51.5074,
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "release_date": "2022-12-14",
+      "title": "Avatar: The Way of Water",
+      "video": false,
+      "vote_average": 7.609,
+      "vote_count": 13139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10751
+      ],
+      "id": 1248226,
+      "original_language": "en",
+      "original_title": "Playdate",
+      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
+      "popularity": 44.1795,
+      "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+      "release_date": "2025-11-05",
+      "title": "Playdate",
+      "video": false,
+      "vote_average": 6.16,
+      "vote_count": 388
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mBc6RB7VajfykLqGx0ue7qatXky.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1266990,
+      "original_language": "tl",
+      "original_title": "Kulong",
+      "overview": "Three friends retreat to a resort to collaborate on a daring screenplay for a contest. Faced with the challenge of writing about passion despite their own dry spells, their journey soon blurs the line between imagination and experience.",
+      "popularity": 41.7437,
+      "poster_path": "/AnzrE2WHg3DtZrtmB9AnEbAh17m.jpg",
+      "release_date": "2024-05-24",
+      "title": "Kulong",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "id": 157336,
+      "original_language": "en",
+      "original_title": "Interstellar",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "popularity": 46.2373,
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "release_date": "2014-11-05",
+      "title": "Interstellar",
+      "video": false,
+      "vote_average": 8.464,
+      "vote_count": 38390
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 1507275,
+      "original_language": "en",
+      "original_title": "A Paw Patrol Christmas",
+      "overview": "Rubble is looking forward to Santa bringing him a new laser drill, but finds that Santa has come down with a cold and can’t deliver any presents. When Mayor Humdinger decides he’s going to the North Pole to take all the gifts for himself, it’s up to the PAW Patrol to stop him.",
+      "popularity": 45.6117,
+      "poster_path": "/zi1OnLRbsMbNaqZuCJ3aEFC4cdw.jpg",
+      "release_date": "2025-10-30",
+      "title": "A Paw Patrol Christmas",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 346364,
+      "original_language": "en",
+      "original_title": "It",
+      "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+      "popularity": 41.6359,
+      "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "release_date": "2017-09-06",
+      "title": "It",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 19875
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kMGZK18hxu8y2HeNRvF94pkdefq.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1407862,
+      "original_language": "id",
+      "original_title": "Lupa Daratan",
+      "overview": "Just as he lands a prestigious role, a famous actor mysteriously loses his ability to act, sparking a journey of self-discovery amid public pressure.",
+      "popularity": 40.6799,
+      "poster_path": "/yQ44md3qKEv4ZCDugkYaYIU2T4k.jpg",
+      "release_date": "2025-12-02",
+      "title": "Lost in the Spotlight",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oIFTRgcZZWMUVnMSWGdpLV1MBZB.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 1387190,
+      "original_language": "da",
+      "original_title": "Rejseholdet: Det Første Mord",
+      "overview": "Denmark in 1927. The ambitious police officer Otto Himmelstrup leads the newly formed Special Unit, which is tasked with assisting local police in solving particularly difficult crimes. When a body is found in a burnt-out summer house in Esbjerg, Otto and his team begin to unravel an unusual murder mystery, revealing power struggles and corruption among the city’s elite. The closer the unit gets to the  truth, the more dangerous it becomes. Soon, Otto finds himself not only battling powerful enemies but also confronting his own dark side in his quest to solve the case.",
+      "popularity": 35.8221,
+      "poster_path": "/2V6dGTHGrq79U765qfnHYP7HFu0.jpg",
+      "release_date": "2025-08-25",
+      "title": "Special Unit - The First Murder",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dGiPJO75b9GmXqxvusbKlcYrDcg.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        12
+      ],
+      "id": 772,
+      "original_language": "en",
+      "original_title": "Home Alone 2: Lost in New York",
+      "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+      "popularity": 40.6932,
+      "poster_path": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "release_date": "1992-11-15",
+      "title": "Home Alone 2: Lost in New York",
+      "video": false,
+      "vote_average": 6.769,
+      "vote_count": 10232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "genre_ids": [
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 552524,
+      "original_language": "en",
+      "original_title": "Lilo & Stitch",
+      "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+      "popularity": 42.5793,
+      "poster_path": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "release_date": "2025-05-17",
+      "title": "Lilo & Stitch",
+      "video": false,
+      "vote_average": 7.246,
+      "vote_count": 1880
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 474350,
+      "original_language": "en",
+      "original_title": "It Chapter Two",
+      "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+      "popularity": 41.1014,
+      "poster_path": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "release_date": "2019-09-04",
+      "title": "It Chapter Two",
+      "video": false,
+      "vote_average": 6.837,
+      "vote_count": 9296
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 1010581,
+      "original_language": "es",
+      "original_title": "Culpa mía",
+      "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+      "popularity": 38.7377,
+      "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "release_date": "2023-06-08",
+      "title": "My Fault",
+      "video": false,
+      "vote_average": 7.766,
+      "vote_count": 3941
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}

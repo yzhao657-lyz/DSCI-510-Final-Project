@@ -1,0 +1,398 @@
+{
+  "page": 35,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/alWtP7JwoanQyqXzg3PCbEFrfwS.jpg",
+      "genre_ids": [
+        53,
+        18,
+        80
+      ],
+      "id": 1359,
+      "original_language": "en",
+      "original_title": "American Psycho",
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+      "popularity": 11.3128,
+      "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "release_date": "2000-04-13",
+      "title": "American Psycho",
+      "video": false,
+      "vote_average": 7.407,
+      "vote_count": 11788
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 815370,
+      "original_language": "es",
+      "original_title": "La suerte de la fea la bonita no la desea",
+      "overview": "A shy and unlovely woman named Sarita must get married and have children if she wants to inherit the family fortune.",
+      "popularity": 6.0231,
+      "poster_path": "/eqNOghtNIMAdm7gBB1hKliX1fnA.jpg",
+      "release_date": "2013-12-31",
+      "title": "The Luck of the Ugly The Beauty Does Not Desire",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9uSytfP3mvIwEdLUOSf0DlrEq9J.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 1198426,
+      "original_language": "es",
+      "original_title": "Capitán Avispa",
+      "overview": "In Avispatropolis, the fearless Captain Avispa emerges as an exemplary protector of the city, whose courage and convictions always prevail over the forces of evil. His unbreakable power is nourished by absolute sincerity, as he would lose his strength if he dared to weave deceit. Only in pursuit of noble causes does he allow himself to deviate from the truth. As is common in stories of this kind, Captain Wasp is surrounded by a constellation of close friends and arch-enemies, whose stories have their origins in the artist's songs.",
+      "popularity": 10.2491,
+      "poster_path": "/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
+      "release_date": "2024-04-04",
+      "title": "Captain Avispa",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1DTIRhw4cpLJlHlrPPbKzq6amHc.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1185528,
+      "original_language": "zh",
+      "original_title": "射雕英雄传：侠之大者",
+      "overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
+      "popularity": 12.9038,
+      "poster_path": "/fUCFEGFlMIFet9ja72JDAeG1he8.jpg",
+      "release_date": "2025-01-29",
+      "title": "Legends of the Condor Heroes: The Gallants",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 76
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 791373,
+      "original_language": "en",
+      "original_title": "Zack Snyder's Justice League",
+      "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+      "popularity": 11.9564,
+      "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "release_date": "2021-03-18",
+      "title": "Zack Snyder's Justice League",
+      "video": false,
+      "vote_average": 8.103,
+      "vote_count": 10511
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        10749
+      ],
+      "id": 812,
+      "original_language": "en",
+      "original_title": "Aladdin",
+      "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+      "popularity": 9.8712,
+      "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "release_date": "1992-11-25",
+      "title": "Aladdin",
+      "video": false,
+      "vote_average": 7.654,
+      "vote_count": 11707
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h0AIRxHGlTUruCEYE6ehVTxJWbr.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 643736,
+      "original_language": "tl",
+      "original_title": "Kapag Wala Nang Mga Alon",
+      "overview": "Lieutenant Hermes Papauran, one of the best investigators in the Philippines, is at a deep moral crossroads. He is a first-hand witness of the murderous anti-drug campaign conducted by his force, his anxiety and guilt triggering a severe skin disease. As he tries to heal, a dark past haunts him.",
+      "popularity": 7.4873,
+      "poster_path": "/fXoQlfN3iEXsZxycQl3e2R6Y2Wl.jpg",
+      "release_date": "2023-08-16",
+      "title": "When the Waves Are Gone",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aQLygZOIKai6aaiBAeeKpIWO5nc.jpg",
+      "genre_ids": [
+        35,
+        18,
+        53
+      ],
+      "id": 466272,
+      "original_language": "en",
+      "original_title": "Once Upon a Time... in Hollywood",
+      "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+      "popularity": 10.3656,
+      "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "release_date": "2019-07-24",
+      "title": "Once Upon a Time... in Hollywood",
+      "video": false,
+      "vote_average": 7.426,
+      "vote_count": 14337
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWKOp57cAzdgGXZ2BN5AElVfujN.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        12
+      ],
+      "id": 417870,
+      "original_language": "en",
+      "original_title": "Girls Trip",
+      "overview": "Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.",
+      "popularity": 11.3303,
+      "poster_path": "/mdsHCFt2PeZacEr38y2p5RRf6Hl.jpg",
+      "release_date": "2017-07-21",
+      "title": "Girls Trip",
+      "video": false,
+      "vote_average": 6.824,
+      "vote_count": 1543
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 979,
+      "original_language": "fr",
+      "original_title": "Irréversible",
+      "overview": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+      "popularity": 11.2314,
+      "poster_path": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+      "release_date": "2002-05-22",
+      "title": "Irreversible",
+      "video": false,
+      "vote_average": 7.181,
+      "vote_count": 3143
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14
+      ],
+      "id": 41216,
+      "original_language": "en",
+      "original_title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "overview": "When a young owl is abducted by an evil Owl army, he must escape with new-found friends and seek the legendary Guardians to stop the menace.",
+      "popularity": 9.0369,
+      "poster_path": "/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg",
+      "release_date": "2010-07-10",
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "video": false,
+      "vote_average": 6.822,
+      "vote_count": 2405
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 419479,
+      "original_language": "en",
+      "original_title": "The Babysitter",
+      "overview": "When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.",
+      "popularity": 10.1791,
+      "poster_path": "/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg",
+      "release_date": "2017-10-13",
+      "title": "The Babysitter",
+      "video": false,
+      "vote_average": 6.172,
+      "vote_count": 3793
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bNhFjqMEc74U0CqCuQpPU2lANpg.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 249743,
+      "original_language": "de",
+      "original_title": "Der Tanz mit dem Teufel - Die Entführung des Richard Oetker",
+      "overview": "When wealthy college student Richard Oetker is kidnapped and held for a hefty ransom, state police officer Georg Kufbach becomes obsessed with bringing the kidnapper to justice. This film is based on a true story.",
+      "popularity": 9.1647,
+      "poster_path": "/vtNySr65sj9msR1eMIZoYxzL9y4.jpg",
+      "release_date": "2001-11-11",
+      "title": "Der Tanz mit dem Teufel - Die Entführung des Richard Oetker",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 13885,
+      "original_language": "en",
+      "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+      "popularity": 10.2904,
+      "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+      "release_date": "2007-12-20",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "video": false,
+      "vote_average": 7.177,
+      "vote_count": 6167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oQPbZ5e6J9fuAyv4Gl0mMZMIyPI.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 476669,
+      "original_language": "en",
+      "original_title": "The King's Man",
+      "overview": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+      "popularity": 12.937,
+      "poster_path": "/iMjSfMUuCkCE7z5fzGtjeDusPD3.jpg",
+      "release_date": "2021-12-22",
+      "title": "The King's Man",
+      "video": false,
+      "vote_average": 6.727,
+      "vote_count": 4878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zWO3B2CTDguZqCrVQ2u5Xnp9VRS.jpg",
+      "genre_ids": [
+        80,
+        53,
+        35
+      ],
+      "id": 1245993,
+      "original_language": "en",
+      "original_title": "Caught Stealing",
+      "overview": "Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of late 1990s New York City, forced to navigate a treacherous underworld he never imagined.",
+      "popularity": 10.9725,
+      "poster_path": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+      "release_date": "2025-08-26",
+      "title": "Caught Stealing",
+      "video": false,
+      "vote_average": 6.919,
+      "vote_count": 593
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80
+      ],
+      "id": 285577,
+      "original_language": "de",
+      "original_title": "Ein Fall für Fingerhut",
+      "overview": "",
+      "popularity": 8.1468,
+      "poster_path": null,
+      "release_date": "2010-03-18",
+      "title": "Ein Fall für Fingerhut",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1338799,
+      "original_language": "ja",
+      "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "overview": "Pursued by a religious cult and other curse users, former friends Satoru Gojo and Suguru Geto are the only sorcerers capable of carrying the difficult task of protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty.",
+      "popularity": 11.3743,
+      "poster_path": "/kZkyr1sRzarENrxjtltPvmHRrTk.jpg",
+      "release_date": "2025-05-30",
+      "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t8i4hi3R6qDohf7MHyxTV69oyv2.jpg",
+      "genre_ids": [
+        10751,
+        12
+      ],
+      "id": 13639,
+      "original_language": "nl",
+      "original_title": "De Brief voor de Koning",
+      "overview": "Young Tiuri has to pass the final test before before being knighted by king Dagonaut. He has to pass a night in the chapel, what is suddenly disturbed by a strangers request of help. With his decision to help the stranger, Tiuri abandons his given task and starts into an adventure, that will shape the destiny of Dagonaut. On his journey he learns about the true meaning of love, friendship, courage and loyalty.",
+      "popularity": 6.4129,
+      "poster_path": "/4erOTqJHX6voWqkQy8S6vXjFlNv.jpg",
+      "release_date": "2008-07-16",
+      "title": "The Letter for the King",
+      "video": false,
+      "vote_average": 5.833,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 328441,
+      "original_language": "de",
+      "original_title": "Jud Süß – Ein Film als Verbrechen?",
+      "overview": "\"The blood of millions of people hangs on this film\" wrote the newspapers in 1949, when the trial of Veit Harlan began. Between 1940 and 1945, 20 million Germans saw his inflammatory film \"Jud Süß\". Is Harlan a \"director of the devil\", as the public prosecutor claims?",
+      "popularity": 5.9064,
+      "poster_path": null,
+      "release_date": "2001-09-26",
+      "title": "Jud Süß – Ein Film als Verbrechen?",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 35909,
+  "total_results": 718170
+}
